@@ -2633,10 +2633,9 @@
 	</programme>
 	<programme start="20190101220000 +0000" stop="20190101230000 +0000" channel="Lifetime Canada HDTV">
 		<title lang="en">NCIS: Los Angeles</title>
-		<sub-title lang="en">Los Angeles. Vengeance</sub-title>
+		<sub-title lang="en">Los Angeles. Vengeance &lt;span  &gt;</sub-title>
 		<desc lang="en">The murder of a Navy intelligence officer is investigated, and the evidence suggests that a member of a Navy SEALs team about to depart on a hostage rescue mission may be responsible(n)</desc>
 		<icon src="https://i.yo.tv/images/17/tt2257687/s/d9c34467243027e1c0220f08ec9f7706.jpg"/>
-		<episode-num system="xmltv_ns">2.18.</episode-num>
 		<star-rating>
 			<value>6.0</value>
 		</star-rating>
@@ -2783,10 +2782,9 @@
 	</programme>
 	<programme start="20190102220000 +0000" stop="20190102230000 +0000" channel="Lifetime Canada HDTV">
 		<title lang="en">NCIS: Los Angeles</title>
-		<sub-title lang="en">Los Angeles. Patriot Acts</sub-title>
+		<sub-title lang="en">Los Angeles. Patriot Acts &lt;span  &gt;</sub-title>
 		<desc lang="en">When a former Marine stands accused of creating a chemical bomb, the team joins forces with the FBI and is reunited with operational psychologist Nate Getz(n)</desc>
 		<icon src="https://i.yo.tv/images/17/tt2257679/s/acaa85b97e956b13b53ede2b3a4649cf.jpg"/>
-		<episode-num system="xmltv_ns">2.1.</episode-num>
 		<star-rating>
 			<value>6.0</value>
 		</star-rating>
@@ -3660,6 +3658,7 @@
 	</programme>
 	<programme start="20190102180000 +0000" stop="20190102183000 +0000" channel="The Golf Channel HDTV">
 		<title lang="en">Inside the PGA Tour</title>
+		<desc lang="en">Player profiles and a preview of the 2019 Sentry Tournament of Champions at Plantation Course in Kapalua, Hawaii(n)</desc>
 	</programme>
 	<programme start="20190102183000 +0000" stop="20190102193000 +0000" channel="The Golf Channel HDTV">
 		<title lang="en">Feherty</title>
@@ -5227,7 +5226,6 @@
 		<sub-title lang="en">Know When to Hold 'Em</sub-title>
 		<desc lang="en">Ken's wife visits; Karl's season is threatened by permafrost(n)</desc>
 		<icon src="https://i.yo.tv/p/se/d40638/s/820E16FF5E22E6072FD99047C0165D9B.jpg"/>
-		<episode-num system="xmltv_ns">1.4.</episode-num>
 	</programme>
 	<programme start="20190101140000 +0000" stop="20190101150000 +0000" channel="History Television HDTV (East)">
 		<title lang="en">Ice Road Truckers</title>
@@ -5392,7 +5390,6 @@
 		<sub-title lang="en">Between a Rock and a Hard Place</sub-title>
 		<desc lang="en">Ken breaks a machine; floods threaten Karl's season(n)</desc>
 		<icon src="https://i.yo.tv/p/se/d40638/s/D013018C26D3B32ED63AFF4852BC8E57.jpg"/>
-		<episode-num system="xmltv_ns">1.5.</episode-num>
 	</programme>
 	<programme start="20190102140000 +0000" stop="20190102150000 +0000" channel="History Television HDTV (East)">
 		<title lang="en">Ice Road Truckers</title>
