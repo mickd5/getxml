@@ -8,6 +8,10 @@
 		<display-name lang="en">More Max HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
+	<channel id="Action Max HDTV (East)">
+		<display-name lang="en">Action Max HDTV (East)</display-name>
+		<url>http://www.us.yo.tv</url>
+	</channel>
 	<channel id="ThrillerMAX HDTV (East)">
 		<display-name lang="en">ThrillerMAX HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
@@ -32,6 +36,10 @@
 		<display-name lang="en">Hallmark Movies and Mysteries HDTV</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
+	<channel id="TCM HDTV (East)">
+		<display-name lang="en">TCM HDTV (East)</display-name>
+		<url>http://www.us.yo.tv</url>
+	</channel>
 	<channel id="AMC HDTV (East)">
 		<display-name lang="en">AMC HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
@@ -41,8 +49,8 @@
 		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="E! Entertainment Television Canada">
-		<display-name lang="en">E! Entertainment Television Canada</display-name>
-		<url>http://www.yo.tv</url>
+		<display-name lang="en">E! Entertainment Television</display-name>
+		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="ABC Family Channel HDTV (East)">
 		<display-name lang="en">ABC Family Channel HDTV (East)</display-name>
@@ -52,10 +60,6 @@
 		<display-name lang="en">FX (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
-	<channel id="FXX HDTV (East)">
-		<display-name lang="en">FXX HDTV (East)</display-name>
-		<url>http://www.us.yo.tv</url>
-	</channel>
 	<channel id="Hallmark Channel (East)">
 		<display-name lang="en">Hallmark Channel (East)</display-name>
 		<url>http://www.us.yo.tv</url>
@@ -63,6 +67,10 @@
 	<channel id="Lifetime Canada HDTV">
 		<display-name lang="en">Lifetime Canada HDTV</display-name>
 		<url>http://www.yo.tv</url>
+	</channel>
+	<channel id="Hallmark Drama (East)">
+		<display-name lang="en">Hallmark Drama (East)</display-name>
+		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="Big Ten Network HDTV (National)">
 		<display-name lang="en">Big Ten Network HDTV (National)</display-name>
@@ -310,6 +318,98 @@
 	<programme start="20190104220000 +0000" stop="20190105000000 +0000" channel="More Max HDTV (East)">
 		<title lang="en">Atomic Blonde (2017)</title>
 		<desc lang="en">In this spy thriller set in 1989 Berlin, MI6 agent Lorraine Broughton must obtain a stolen list of Western spies while the city around her descends into chaos and revolution. In time, her pursuit leads her to uncover a much-larger conspiracy(n)</desc>
+	</programme>
+	<programme start="20190103084000 +0000" stop="20190103110000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Hulk (2003)</title>
+		<desc lang="en">Ang Lee directs this fantasy film based on Marvel's famous comic character created by Stan Lee and illustrated by Jack Kirby. Scientist Bruce Banner (Eric Bana), a genetics expert, works for the government on a project called Gamma, under General Ross (Sam Elliott). The objective is to create a legion of powerful soldiers to conquer Mars. But the experiment goes wrong and Banner's organism is affected by the gamma rays. Now, every time the scientist gets angry, he turns into Hulk, a gigantic green beast with an astounding, uncontrollable strength. To prevent anyone from getting hurt, especially his loved one, Betsy Ross (Jennifer Connelly), the scientist tries to move away from the city. But General Ross, Betsy's father, and much of the military machine pursue him mercilessly(n)</desc>
+	</programme>
+	<programme start="20190103110000 +0000" stop="20190103130500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Alien: Covenant (2017)</title>
+		<desc lang="en">After making an emergency landing on a seemingly idyllic world, a spaceship crew discover that the paradise contains a terrifying threat: the extraterrestrial predator known as the "xenomorph."(n)</desc>
+	</programme>
+	<programme start="20190103130500 +0000" stop="20190103143500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">From Within (2008)</title>
+		<desc lang="en">A young Christian named Lindsay (Elizabeth Rice) finds her faith shaken when her small town is beset by a rash of gruesome suicides(n)</desc>
+	</programme>
+	<programme start="20190103143500 +0000" stop="20190103161000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Rush Hour 2 (2001)</title>
+		<desc lang="en">A wisecracking L.A. cop (Chris Tucker) visits his friend the inspector (Jackie Chan) in Hong Kong, and is drawn into a case involving a mob bigwig and a counterfeiting ring. Chan's stunts punch up this predictable crime yarn. A sequel to 1998's “Rush Hour.” Brett Ratner directed(n)</desc>
+	</programme>
+	<programme start="20190103161000 +0000" stop="20190103180000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Back to the Future Part II (1989)</title>
+		<desc lang="en">A visit by Marty and the Doc to the year 2015 seems to resolve a few problems with the future McFly family. When they return home, they discover someone has tampered with time and Hill Valley, 1985. They must once again get back to 1955 to save the future....(n)</desc>
+	</programme>
+	<programme start="20190103180000 +0000" stop="20190103195000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Predator (1987)</title>
+		<desc lang="en">Dutch has a code of honor which he will not violate, even when his life depends on it. Paradoxically, his code of honor gives him the backbone to survive as a military special forces operative when he is sent on a covert mission to rescue another group which was sent in to assist some nefarious U.S. government plan in a Latin American country. Once there, he encounters an old army buddy who has gotten too deep in the CIA's good graces for Dutch's comfort. When he and his team go into the jungle to rescue the others, they get involved in a pitched battle with local guerillas, but they are more than capable of besting these vicious fighters. However, not long after that, they encounter signs that the equally capable men they were sent to rescue were all killed unawares and in an unusually gruesome fashion. Given their training, it should have been impossible for anyone to best all of these commando warriors. Soon, the men from Dutch's own team get picked off one by one, as they grow aware that they are up against something uncanny, not of this world, something that is hunting them for sport. Why? Because their skills make them worthy opponents for the perfectly camouflaged Predator(n)</desc>
+	</programme>
+	<programme start="20190103195000 +0000" stop="20190103212000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Broken (2007)</title>
+		<desc lang="en">A woman is thrust into a world where everything is subtly unfamiliar in this thriller starring Lena Headey. Gina McVey is enjoying dinner with her family and her boyfriend Stefan when a mirror shatters without cause. The next day Gina sees a woman who looks like her own doppelganger. Curious, Gina sneaks into the woman's apartment and sees a photo of herself and her father. Later, Gina notices that Stefan is not the same and begins having horrific nightmares(n)</desc>
+	</programme>
+	<programme start="20190103212000 +0000" stop="20190103230000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Happy Death Day (2017)</title>
+		<desc lang="en">A college student is trapped in a time loop that forces her to keep reliving a birthday that ends with her murder at the hands of a masked madman. As she repeats the same day, she tries to figure out her killer's identity so she can avoid a grisly fate(n)</desc>
+	</programme>
+	<programme start="20190103230000 +0000" stop="20190104010000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Back to the Future (1985)</title>
+		<desc lang="en">Time-travel comedy in which 80s high school kid Marty McFly is accidentally sent back to the 50s in a DeLorean time machine. He inadvertently prevents his parents' first meeting as teenagers, then finds his mother is attracted to him instead of his dull father. Marty's existence is under threat - unless he can make his parents fall in love. Can he play matchmaker, sort out his family tree and get back to the future?(n)</desc>
+	</programme>
+	<programme start="20190104010000 +0000" stop="20190104030000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">RoboCop 2 (1990)</title>
+		<desc lang="en">The armour-plated hero finds himself up against two powerful adversaries: the all-powerful corporate corruption of Omni Consumer Products, headed by the Old Man, and Cain, a towering drug dealer with plans to introduce the devastatingly powerful designer narcotic Nuke onto the market and then hold Manson-like sway over the resulting addicts. Bruising sequel in which Peter Weller returns as the metallic law enforcer, continuing his crusade against crime on the streets of Old Detroit, along with his partner Lewis(n)</desc>
+	</programme>
+	<programme start="20190104030000 +0000" stop="20190104043500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Term Life (2016)</title>
+		<desc lang="en">A professional thief takes his estranged daughter on the lam when a job goes awry. As crooks and corrupt cops close in on them, he also takes out a life-insurance policy on himself in an effort to leave something behind for his daughter(n)</desc>
+	</programme>
+	<programme start="20190104043500 +0000" stop="20190104043500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Newton Boys (1998)</title>
+		<desc lang="en">A biopic about the Newton brothers (Matthew McConaughey, Skeet Ulrich, Vincent D'Onofrio, Ethan Hawke), who robbed more than 80 banks during the 1920s. Louise: Julianna Margulies. Brentwood Glasscock: Dwight Yoakam. Written and directed by Richard Linklater(n)</desc>
+	</programme>
+	<programme start="20190104043500 +0000" stop="20190104064000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Newton Boys (1998)</title>
+		<desc lang="en">A biopic about the Newton brothers (Matthew McConaughey, Skeet Ulrich, Vincent D'Onofrio, Ethan Hawke), who robbed more than 80 banks during the 1920s. Louise: Julianna Margulies. Brentwood Glasscock: Dwight Yoakam. Written and directed by Richard Linklater(n)</desc>
+	</programme>
+	<programme start="20190104064000 +0000" stop="20190104084000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The A-Team (2010)</title>
+		<desc lang="en">Director Joe Carnahan's big-screen take, co-produced by Tony and Ridley Scott, on the 80s TV series, which was an OTT action-fest that, at the same time, gloried in and poked fun at its tough-guy stars and their adventures. This time around, a little brasher and more serious than their first incarnation, the team of soldiers comprises the cigar-chomping Col 'Hannibal' Smith, the wilfully eccentric Murdock, toned babe-magnet Face and, of course, BA Baracus, who famously 'pities the fool', usually with more forceful fisticuffing than is strictly necessary. Our quartet starts out on the back foot, having been jailed after a black ops mission in Iraq went disastrously wrong. But, discovering they were framed and that a massive currency counterfeiting operation is afoot, it's time for them to break out of prison and prove their innocence by tracking down the baddies and saving the US dollar. And, of course, blowing up as many objects as possible along the way. Also featuring Jessica Biel as Face's former flame and Patrick Wilson as the team's CIA handler(n)</desc>
+	</programme>
+	<programme start="20190104084000 +0000" stop="20190104110000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Alamo (2004)</title>
+		<desc lang="en">With Dennis Quaid and Billy Bob Thornton in the cast, this historical drama features magnificent war scenes as it reconstructs the revolution over the independence of Texas, in 1836 –before, during and after the construction of the Alamo (a fort built by Spanish missionaries to catechize the natives). Texans and Tejanos (born in Mexico), led by William Travis, Davy Crockett (Thornton) and Jim Bowie, are besieged by an army commanded by Mexican dictator Antonio Lopez de Santa Ana. Later, however, the outcome of the battle of San Jacinto, under General Sam Houston (Dennis Quaid), is the defeat of the Santa Ana men, which finally leads to the independence of the state(n)</desc>
+	</programme>
+	<programme start="20190104110000 +0000" stop="20190104130000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Dragon: The Bruce Lee Story (1993)</title>
+		<desc lang="en">Biography of martial arts exponent Bruce Lee, who rose to superstardom while battling racism plus his own inner 'demon warrior'. The story follows his progress in the martial arts, through to his teaching in the 1960s. Bruce marries an American girl, has two children, and then is signed up to appear on TV and feature films. The hallucinations of the demon continue to follow him, however(n)</desc>
+	</programme>
+	<programme start="20190104130000 +0000" stop="20190104143000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Date Night (2010)</title>
+		<desc lang="en">Tina Fey and Steve Carell star in Shawn Levy's chase comedy. Phil and Claire Foster feel their marriage has gone a tad stale and decide to pep it up by going out on a date, just like they used to do, before the kids and the mortgage and rest of life's inevitable distractions got in the way. In principal it's a good idea, but their first mistake is to attempt entry into one of Manhattan's swankiest restaurants without a reservation. Their second is far more serious: they bluff their way in, pretending to be a couple who have failed to show up for their table. Unfortunately for the Fosters, the absent diners have serious gangland connections. Even more unfortunately, the people whose identities they've adopted are due to be silenced forever by Mob hitmen. Cue a tightly plotted, gag-packed, headlong flight for survival, which has distinct echoes of the classics of the 40s screwball genre. And keep an eye out for memorable cameos from Mark Wahlberg and James Franco(n)</desc>
+	</programme>
+	<programme start="20190104143000 +0000" stop="20190104160500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Dead Man on Campus (1998)</title>
+		<desc lang="en">The promise of straight As to students whose roommates kill themselves leads two failing collegians to seek a suicidal third. Josh: Tom Everett Scott. Cooper: Mark-Paul Gosselaar. Rachel: Poppy Montgomery. Cliff: Lochlyn Munro. Buckley: Randy Pearlstein(n)</desc>
+	</programme>
+	<programme start="20190104160500 +0000" stop="20190104173500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Corky Romano (2001)</title>
+		<desc lang="en">A bumbling veterinarian joins the FBI so he can destroy evidence against his mob-boss father(n)</desc>
+	</programme>
+	<programme start="20190104173500 +0000" stop="20190104193500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Me, Myself &amp; Irene (2000)</title>
+		<desc lang="en">A Rhode Island state trooper (Jim Carrey) with multiple personality disorder tries to save a woman (Renee Zellweger) from thugs. A Bobby and Peter Farrelly comedy. Gerke: Chris Cooper. Jamaal: Anthony Anderson. Lee Harvey: Mongo Brownlee. Shonte Jr.: Jerod Mixon. Layla: Traylor Howard. Whitey: Michael Bowman(n)</desc>
+	</programme>
+	<programme start="20190104193500 +0000" stop="20190104213000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Water Diviner (2014)</title>
+		<desc lang="en">In the Australian outback, a father gifted with the power to find water flowing underground fulfills a promise to his wife to locate their sons lost at the battle of Gallipoli(n)</desc>
+	</programme>
+	<programme start="20190104213000 +0000" stop="20190104231500 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">The Book of Henry (2017)</title>
+		<desc lang="en">A young boy learns that his next-door neighbor is being abused by her stepfather, and starts writing a book about how to rescue her. When his mother discovers his plans, she decides to enact them herself(n)</desc>
+	</programme>
+	<programme start="20190104231500 +0000" stop="20190105012000 +0000" channel="Action Max HDTV (East)">
+		<title lang="en">Out of Sight (1998)</title>
+		<desc lang="en">A career bank robber bursts out of jail with the help of his buddy and kidnaps a U.S. Marshal. When the two cons head for Detroit to pull of their final big scam, the Marshal is put on their case but she is attracted to one of them and has second thoughts about bringing them in. Based on the novel by Elmore Leonard(n)</desc>
 	</programme>
 	<programme start="20190103091500 +0000" stop="20190103110000 +0000" channel="ThrillerMAX HDTV (East)">
 		<title lang="en">Get Out (2017)</title>
@@ -951,6 +1051,89 @@
 		<title lang="en">Christmas Everlasting (2018)</title>
 		<desc lang="en">Lucy learns that she has made a partner at her law firm(n)</desc>
 	</programme>
+	<programme start="20190103094500 +0000" stop="20190103110000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Katharine Hepburn: All About Me</title>
+	</programme>
+	<programme start="20190103110000 +0000" stop="20190103123000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Patsy (1928)</title>
+		<desc lang="en">Marion Davies' silent vehicle is a modern-day Cinderella comedy-romance in which she plays a brainy young lady secretly in love with her sister's boyfriend (Orville Caldwell). Directed by King Vidor and adapted by Agnes Christine Johnson from the hit Broadway play by Barry Conners(n)</desc>
+	</programme>
+	<programme start="20190103123000 +0000" stop="20190103140000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Ever Since Eve (1937)</title>
+		<desc lang="en">A stenographer (Marion Davies in her final film) disguises herself as a frump to discourage flirtations. Robert Montgomery. Sadie: Patsy Kelly. Mabel: Frank McHugh. Abbie: Louise Fazenda. Jack: Allen Jenkins. Al: Barton MacLane. Directed by Lloyd Bacon(n)</desc>
+	</programme>
+	<programme start="20190103140000 +0000" stop="20190103153000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Hearts Divided (1936)</title>
+		<desc lang="en">Napoleon Bonaparte's brother Jerome becomes enamored with a wealthy American woman while on a Goodwill tour. They fall for each other as he gets a job tutoring her in French(n)</desc>
+	</programme>
+	<programme start="20190103153000 +0000" stop="20190103171500 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Bachelor Father (1931)</title>
+		<desc lang="en">A gentleman (C. Aubrey Smith) arranges a reunion with his illegitimate offspring. Marion Davies, Ralph Forbes, Ray Milland, Guinn Williams, David Torrence, Doris Lloyd. Risqué in its day. Directed by Robert Z. Leonard(n)</desc>
+	</programme>
+	<programme start="20190103171500 +0000" stop="20190103184500 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Going Hollywood (1933)</title>
+		<desc lang="en">A singer loves a teacher, but leaves her behind to seek fame in the movies. He succeeds, but she eventually follows him out west and becomes a star in her own right(n)</desc>
+	</programme>
+	<programme start="20190103184500 +0000" stop="20190103203000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Cain and Mabel (1936)</title>
+		<desc lang="en">The musical romance between a prize fighter and a Broadway dancer(n)</desc>
+	</programme>
+	<programme start="20190103203000 +0000" stop="20190103220000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Not So Dumb (1930)</title>
+		<desc lang="en">The Kaufman-Connelly play “Dulcy,” about a dumb blonde (Marion Davies) meddling in the business affairs of her fiancé (Elliott Nugent). Bill: Raymond Hackett. Leach: Franklin Pangborn. Mrs. Forbes: Julia Faye. King Vidor directed(n)</desc>
+	</programme>
+	<programme start="20190103220000 +0000" stop="20190103233000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Florodora Girl (1930)</title>
+		<desc lang="en">A wealthy suitor thinks a chorus girl is a gold-digger, but then he loses his fortune(n)</desc>
+	</programme>
+	<programme start="20190103233000 +0000" stop="20190104010000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Peg o' My Heart (1933)</title>
+		<desc lang="en">A feisty Irish lass, the daughter of a fisherman, inherits a fortune from a late relative under the condition that she move into an English manor and stay out of touch with her beloved father for three years(n)</desc>
+	</programme>
+	<programme start="20190104010000 +0000" stop="20190104050000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Ben-Hur (1959)</title>
+		<desc lang="en">William Wyler's famed, multi-Oscar-winning, epic Biblical extravaganza stars Charlton Heston and features, literally, a cast of thousands. It's the tale of Jewish prince Judah Ben-Hur, who, refusing to betray his people, is in turn betrayed by a friend from his past, Messala. Stripped of his privileged life and his family, he is condemned to the gruelling existence of a galley slave. Eventually rescued by a Roman nobleman, Ben-Hur is propelled on a trajectory that will see him cross paths with Jesus Christ on several occasions, as well as reunite with his beloved mother and sister, and get the chance to confront Messala on more equal terms. But, of course, it's the lavish spectacle that lodges in the viewers' memory, particularly the thrilling chariot race sequence; the massive, purpose-built set for which, jam-packed with extras, went quite some way to making this film more expensive than any prior to it. However, there was ample recompense for the investment: it garnered an as-yet unbeaten 11 Oscars (subsequently equalled only by Titanic and The Lord of the Rings: The Return of the King), including the Lead Role award for Heston and Best Director for Wyler(n)</desc>
+	</programme>
+	<programme start="20190104050000 +0000" stop="20190104050000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Demetrius and the Gladiators (1954)</title>
+		<desc lang="en">A Christian convert is lured by an evil woman who is trying to get the robe of Christ for Emperor Caligula(n)</desc>
+	</programme>
+	<programme start="20190104050000 +0000" stop="20190104070000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Demetrius and the Gladiators (1954)</title>
+		<desc lang="en">A Christian convert is lured by an evil woman who is trying to get the robe of Christ for Emperor Caligula(n)</desc>
+	</programme>
+	<programme start="20190104070000 +0000" stop="20190104103000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Spartacus (1960)</title>
+		<desc lang="en">Stanley Kubrick's critically acclaimed historical epic, set in 73 BC, about a violent slave rebellion against the mighty Roman Empire. The gladiator Spartacus, living in brutal conditions and forced to fight to the death for the pleasure of wealthy Romans, leads a heroic struggle for freedom. His army of gladiators is swelled by escaped slaves as they pillage estates and attempt to escape from Italy(n)</desc>
+	</programme>
+	<programme start="20190104103000 +0000" stop="20190104123000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Slave (1962)</title>
+		<desc lang="en">Steve Reeves flexes his muscles again as Randus, son of Spartacus, in this tale of ancient Lydia. Clodia: Gianna Maria Canale. Vezio: Jacques Sernas. Julius Caesar: Ivo Garrani. Caesar Grassus: Claudio Gora. Lot's of gore. Sergio Corbucci directed(n)</desc>
+	</programme>
+	<programme start="20190104123000 +0000" stop="20190104144500 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Ballad of Cable Hogue (1970)</title>
+		<desc lang="en">After the intense bloodshed of The Wild Bunch (1969), this comic western fable took the opposite approach to director Sam Peckinpah's continuing examination of the end of the West. Left for dead by a couple of lizard-slaughtering desperados in the middle of the desert, prospector Cable Hogue (Jason Robards) is saved by his unexpected discovery of water "where there wasn't any". Hogue turns the water hole, felicitously located near a stagecoach route, into a thriving business, creating a rest stop for a never-ending series of parched travelers. On his occasional trips to the closest town, he meets chipper prostitute Hildy (Stella Stevens), who joins him in his oasis, completing Hogue's little paradise. But even though Hogue may be able to succeed and avenge himself against his original attackers, there is one thing that he cannot stop: progress. Completed before The Wild Bunch was released, and replete with comical and even musical interludes, Peckinpah's gently picaresque telling of Hogue's rise and fall stands in distinct contrast to the visual violence of its predecessor. The underlying message about the cost of modernity, however, equals The Wild Bunch in seriousness. The callous randomness of Hogue's fate is as shocking as the Bunch's final blaze of glory; as in Robert Altman's McCabe and Mrs. Miller from the same period, a tool of "civilization" provokes a most uncivilized end for an Old West dreamer. Although the film was as light-hearted in approach as the 1969 smash hit revisionist western Butch Cassidy and the Sundance Kid, Warner Bros. mishandled the release and it did barely any business; Peckinpah returned to his trademark gore in his next film, the controversial Straw Dogs (1971). Still, The Ballad of Cable Hogue is less an anomaly for a master of violence than an ironically charming chapter in Peckinpah's career-long elegy to the western(n)</desc>
+	</programme>
+	<programme start="20190104144500 +0000" stop="20190104170000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">There Was a Crooked Man (1970)</title>
+		<desc lang="en">Kirk Douglas plays an incorrigible inmate and Henry Fonda is the incorruptible warden trying to reform him in a territorial prison of the 1880s. Dudley: Hume Cronyn. Floyd: Warren Oates. Missouri Kid: Burgess Meredith. Mrs. Bullard: Lee Grant. Lomax: Arthur O'Connell. Warden Le Goff: Martin Gabel. Joseph L. Mankiewicz directed(n)</desc>
+	</programme>
+	<programme start="20190104170000 +0000" stop="20190104190000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Catlow (1971)</title>
+		<desc lang="en">Fast-moving comedy western about a roguish cattle rustler who tries to dodge both the local sheriff - an old friend - and a ruthless bounty hunter on his way to recover the hidden booty from a $2m robbery(n)</desc>
+	</programme>
+	<programme start="20190104190000 +0000" stop="20190104211500 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Life and Times of Judge Roy Bean (1972)</title>
+		<desc lang="en">A stern judge turns life upside down in a lawless frontier town. The locals then run him out of town, but when he returns to help his daughter, he discovers the town is worse than when he first arrived(n)</desc>
+	</programme>
+	<programme start="20190104211500 +0000" stop="20190104230000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">The Train Robbers (1973)</title>
+		<desc lang="en">Wild West adventure in which a Civil War veteran is hired to retrieve a cache of stolen gold by a widow hoping to restore her family's honour. The outlaw rounds up a team of gunslingers and heads for Mexico, where he believes the loot is hidden in an old train. But the group are pursued by a sinister armed gang(n)</desc>
+	</programme>
+	<programme start="20190104230000 +0000" stop="20190105010000 +0000" channel="TCM HDTV (East)">
+		<title lang="en">Hearts of the West (1975)</title>
+		<desc lang="en">Homage to 1930s Hollywood is about an aspiring dime-store novelist who heads to Nevada, where he falls in with a threadbare film unit, lands a job as a cowboy performer in B-movie Westerns and falls for a spunky script girl(n)</desc>
+	</programme>
 	<programme start="20190103071700 +0000" stop="20190103081800 +0000" channel="AMC HDTV (East)">
 		<title lang="en">The Terror</title>
 		<desc lang="en">After a long winter trapped in the ice, scouting parties are sent out in search of open water. One of the teams makes a frightening discovery(n)</desc>
@@ -1173,7 +1356,6 @@
 	</programme>
 	<programme start="20190104010000 +0000" stop="20190104020100 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Top Chef</title>
-		<desc lang="en">The mayhem and drama continues during the biggest Restaurant Wars in the history of ""Top Chef."" Tom's announcement of a double elimination piles on even more pressure(n)</desc>
 	</programme>
 	<programme start="20190104020100 +0000" stop="20190104033100 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Million Dollar Listing Los Angeles</title>
@@ -1194,6 +1376,7 @@
 	</programme>
 	<programme start="20190104063200 +0000" stop="20190104073200 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Top Chef</title>
+		<desc lang="en">The mayhem and drama continues during the biggest Restaurant Wars in the history of ""Top Chef."" Tom's announcement of a double elimination piles on even more pressure(n)</desc>
 	</programme>
 	<programme start="20190104073200 +0000" stop="20190104090000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Million Dollar Listing Los Angeles</title>
@@ -1285,405 +1468,243 @@
 		<title lang="en">The Real Housewives of Atlanta</title>
 		<desc lang="en">Cynthia plans an intimate college send-off for Noelle that ends in a major meltdown. Porsha and Dennis are ecstatic about their first sonogram, while Shamari and her mom foster a new bond watching over Shamari's twins. Nene and Gregg host a family meeting with their sons to educate them on Gregg's cancer. After a recent misunderstanding, Kandi tries to mend Momma Joyce and Todd's relationship and turn his sour lemons into lemonade(n)</desc>
 	</programme>
-	<programme start="20190103060000 +0000" stop="20190103070000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Presumed Guilty</sub-title>
-		<desc lang="en">A golf instructor at a ritzy country club is convicted of strangling a woman in the club's locker room, but new evidence suggests he may be innocent. Unfortunately, the man's attorney (Sean Combs) now represents the new suspect and may be involved in covering up the crime(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1256048/s/825ad18c26d26b2fded726c4cf1f589b.jpg"/>
-		<episode-num system="xmltv_ns">6.14.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103070000 +0000" stop="20190103073000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Samantha (Kim Cattrall) gives up sex, cold turkey; Carrie worries about her affair with Big when the two share a messy moment; and Charlotte's beau forgoes intimacy for mental security. Carrie: Sarah Jessica Parker(n)</desc>
 	</programme>
-	<programme start="20190103070000 +0000" stop="20190103080000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Sink or Swim</sub-title>
-		<desc lang="en">The fiancée of high-powered attorney Derek Powell (Sean Combs) is murdered aboard his yacht during a heist, and the evidence suggests that she was targeted and not randomly shot. Meanwhile, Delko has a run-in with immigrations because of his forged birth certificate and a hit is placed on his life just as his relationship with Calleigh heats up(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1256049/s/375c3f433510ec71bd3291ae8f7ec3e3.jpg"/>
-		<episode-num system="xmltv_ns">6.15.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103073000 +0000" stop="20190103080000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">After seeing Big (Chris Noth) at Mass, Carrie questions his faith in her; Miranda's new man ends up in hot water after every dirty deed; Sam has a big reaction to a small matter; and Charlotte gets a bad forecast about her happy future(n)</desc>
 	</programme>
-	<programme start="20190103080000 +0000" stop="20190103090000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Divorce Party</sub-title>
-		<desc lang="en">A woman throws a party to celebrate her recent divorce, but the event comes to a crashing halt when her ex-husband's dead body crashes through a gazebo. The investigation reveals the victim was living a double life with two families. Meanwhile, Horatio gets Kyle a job as an intern at the lab to teach him responsibility(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1256050/s/5e7e6f8beadc6279a7e084f947515aa4.jpg"/>
-		<episode-num system="xmltv_ns">6.16.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103080000 +0000" stop="20190103083000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">A brokenhearted Carrie tries to get back in the dating game by pitching woo with the Yankees' new recruit (Mark Devine). Meanwhile, Samantha wrestles with her lover's minor-league lovemaking skills; and Miranda cries foul when the girls lose themselves in bad romances. Mr. Big: Chris Noth(n)</desc>
+	</programme>
+	<programme start="20190103083000 +0000" stop="20190103090000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Honesty is the worst policy for Sam, who calls James (Jamie Goodwin) on his "problem," and Carrie, who tells a friend to leave her hubbie. Meanwhile, Miranda gets a crash course in dirty talk; and Charlotte finds the perfect mate. Or so she thinks. Stanford: Willie Garson(n)</desc>
 	</programme>
 	<programme start="20190103090000 +0000" stop="20190103100000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Flight Risk</sub-title>
-		<desc lang="en">A flight attendant is murdered on the job, and her body tumbles out onto a baggage carousel in the Miami airport. The investigation reveals that the victim wasn't particularly liked by her coworkers because her flirtatious manner often landed her the best assignments. She also may have been stalked by a passenger(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1256051/s/cf3d098f9f22e08ac4f80191dead19d5.jpg"/>
-		<episode-num system="xmltv_ns">6.17.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Brooke Burke-Charvet is able to move past tragedies thanks to the message Tyler brings through; Robert Buckley receives messages from the other side about his little-known family history; Hayley Orrantia has an emotional revelation about her deceased grandmother's final few moments; and Soleil Moon Frye and her mother receive incredible messages from Soleil's beloved deceased father(n)</desc>
 	</programme>
 	<programme start="20190103100000 +0000" stop="20190103110000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Target Specific</sub-title>
-		<desc lang="en">A personal chef to some of Miami's wealthiest people is stabbed in her home in an apparent robbery gone awry. The investigation reveals that similar home invasions are taking place and that the chef may have been involved in theft of her own. Meanwhile, Eric and Ryan discover that the Russian mob is keeping them under constant surveillance and may be targeting them for elimination(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1256052/s/327b68b657b82bd20344375b6ec1db13.jpg"/>
-		<episode-num system="xmltv_ns">6.18.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Teresa Giudice struggles to hold it together as Tyler connects to her recently deceased mother; Tyler uncovers a treasure trove of family secrets via messages from the grave, as he sits down with Jeannie Mai and the woman who's been keeping them, Jeannie's mother; and La Toya Jackson finally finds the closure she's been looking for(n)</desc>
 	</programme>
 	<programme start="20190103110000 +0000" stop="20190103120000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Bone Voyage</sub-title>
-		<desc lang="en">Ray Langston (Laurence Fishburne) of the Las Vegas crime lab arrives in Miami to investigate after a severed leg found in the Everglades is discovered to belong to a girl who disappeared in Las Vegas a week earlier. The story continues on "CSI: NY" and concludes on "CSI: Crime Scene Investigation."(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1498249/s/649d4e24a444c3df72bf2b04bbe73b20.jpg"/>
-		<episode-num system="xmltv_ns">7.6.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Tyler shares a message with Luann de Lesseps from a recently departed friend; Tyler delivers a heartwarming message to Maddie Ziegler and her mom; Tyler turns a skeptic into a true believer when he visits Jax Taylor and Tom Sandoval; Tituss Burgess learns that his bedroom activities are being spectated by an unwelcome visitor from beyond the grave(n)</desc>
 	</programme>
 	<programme start="20190103120000 +0000" stop="20190103130000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: NY</title>
-		<sub-title lang="en">NY. Hammer Down</sub-title>
-		<desc lang="en">New York-based spin-off of the crime drama series. Ray Langston races to New York when an interstate trucking ring that specialises in black-market organ harvesting is connected to two murders he investigated in Miami. Can the compassionate doctor keep the promise he made to a missing girl's mother?(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1522457/s/0baafdd6b66dbccb951dedfe4c0f12bb.jpg"/>
-		<episode-num system="xmltv_ns">5.6.</episode-num>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Arielle Kebbel, Ronda Rousey, Chad Michael Murray, and Ronnie Ortiz-Magro are spotlighted(n)</desc>
 	</programme>
 	<programme start="20190103130000 +0000" stop="20190103140000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI Miami</title>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Megan Fox reveals her own supernatural gifts to Tyler and shares her secret red carpet fears. Nicole Sullivan is brought to tears as her beloved deceased grandmother brings through a long-awaited message of forgiveness. Tyler heads to Nashville to share some shocking revelations from the other side about Jewel's health and future. Tyler connects David and Rosanna Arquette with their departed sister, Alexis(n)</desc>
 	</programme>
 	<programme start="20190103140000 +0000" stop="20190103150000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Point of Impact</sub-title>
-		<desc lang="en">A two-car crash claims two lives and injures two others, and evidence suggests it wasn't an accident. The investigation reveals one of the victims may have been drinking and that one of the vehicles was stolen. As the probe continues, dark secrets of the drivers and passengers come to light. The NBA's Pau Gasol guest stars(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1498250/s/40ea9388692d0f00b39088cad4577b32.jpg"/>
-		<episode-num system="xmltv_ns">7.7.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Tyler relays shocking messages for Giuliana Rancic, her husband, and her best friend as well; Christa El Moussa flips out when Tyler channels advice about her divorce from her deceased grandmother; the details of a tragic sibling's death are brought through from the other side, giving Katy Mixon and her family a desperately needed sense of peace; and Taye Diggs becomes a believer when Tyler brings messages from beyond, helping Taye face some long-buried family skeletons(n)</desc>
 	</programme>
 	<programme start="20190103150000 +0000" stop="20190103160000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Kill Clause</sub-title>
-		<desc lang="en">A custodian working at a lavish party is killed when he falls into a tank filled with deadly jellyfish. The evidence suggests that it wasn't an accident, but murder. Ryan and Jesse work the affair as security guards, and a mysterious woman from Jesse's past unexpectedly shows up during the proceedings(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1548327/s/82d8e00b2bbe9324f4c7099fedde468c.jpg"/>
-		<episode-num system="xmltv_ns">7.8.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">Tyler relays shocking messages not only for Giuliana Rancic and her husband, but her best friend as well. "Flip or Flop" star Christa El Moussa flips out when Tyler channels advice about her divorce from her deceased grandmother. Details of a sibling's death are brought through from the other side, giving "American Housewife" star Katy Mixon a sense of peace. "Empire" headliner Taye Diggs becomes a believer when Tyler brings messages from beyond(n)</desc>
 	</programme>
 	<programme start="20190103160000 +0000" stop="20190103170000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Count Me Out</sub-title>
-		<desc lang="en">The body of a census worker is discovered in the trunk of a car following a high-speed chase. Evidence suggests the victim was poisoned, but the driver claims he is innocent of the crime. The investigation leads to an abandoned house, where Ryan and Natalia accidentally trigger a bomb that explodes while they are still inside(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1549649/s/58af3a071a88ac2b4a8a585409838c54.jpg"/>
-		<episode-num system="xmltv_ns">7.0.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Hollywood Medium With Tyler Henry</title>
+		<desc lang="en">In the season 3 premiere, Tyler connects "The Big Bang Theory" Jim Parsons to his departed grandmothers on the other side; and "The Hills" star and fashion icon Kristin Cavallari is brought to tears(n)</desc>
 	</programme>
 	<programme start="20190103170000 +0000" stop="20190103180000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Delko for the Defense</sub-title>
-		<desc lang="en">A homeless man is accused of murdering a prominent heiress, and former CSI Eric Delko (Adam Rodriguez) assists with his case by appearing as an expert witness at his trial, which pits Delko against his former lab partners. The investigation reveals the accused man slept in the victim's house and was found covered in her blood(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1549650/s/1bf9fed658ad828b13c166a6d686a247.jpg"/>
-		<episode-num system="xmltv_ns">7.10.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">E! News: Daily Pop</title>
 	</programme>
 	<programme start="20190103180000 +0000" stop="20190103190000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Show Stopper</sub-title>
-		<desc lang="en">A popular young singer (Lucy Hale) dies after she is engulfed in flames during a surprise concert for fans in Miami. The evidence suggests she was murdered and reveals she died before being set on fire. Meanwhile, Jesse makes a stunning revelation to Calleigh that explains the reason why he is back in Miami(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1549651/s/63c71d928626636c6799cca6985d9c04.jpg"/>
-		<episode-num system="xmltv_ns">7.11.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Bruce volunteers the family to help out at a charity boxing event; Kourtney babysits for some friends and learns a valuable lesson in child care(n)</desc>
 	</programme>
-	<programme start="20190103190000 +0000" stop="20190103200000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Die By the Sword</sub-title>
-		<desc lang="en">A man is chopped in half with a samurai sword, and the investigation leads Horatio to a Japanese Mafia leader who is searching for his estranged son. Meanwhile, Natalia's hearing loss puts her and Ryan in danger, and she reluctantly agrees to visit a hearing specialist(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1565085/s/1abe180b2ddfb8c5f19ce779ae2d666d.jpg"/>
-		<episode-num system="xmltv_ns">7.12.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103190000 +0000" stop="20190103193000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kourtney and her sisters take a trip to Santa Barbara that forces them to question if they will ever be close again. Back at home, Kylie becomes jealous of Kendall(n)</desc>
+	</programme>
+	<programme start="20190103193000 +0000" stop="20190103200000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Khloe makes a 'love tape' for her husband Lamar Odom of the Los Angeles Lakers. Meanwhile, Kourt learns to enjoy sex again while pregnant(n)</desc>
 	</programme>
 	<programme start="20190103200000 +0000" stop="20190103210000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. In the Wind</sub-title>
-		<desc lang="en">Crime drama series based on the work of forensic investigators. New evidence emerges casting doubt on the conviction of a man who has been on death row for some 15 years. The governor grants the convict a brief stay of execution, giving the CSIs just 24 hours to re-examine the original murder case and prevent the killing of a potentially innocent man(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1564092/s/27bfb048b1329e133d58b98b88af82f4.jpg"/>
-		<episode-num system="xmltv_ns">7.13.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kourtney ends her relationship with Scott after he gets violently drunk on Kim's birthday in Las Vegas. On top of the world, Kim takes on more work than she should(n)</desc>
 	</programme>
-	<programme start="20190103210000 +0000" stop="20190103220000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Miami, We Have a Problem</sub-title>
-		<desc lang="en">A man's body falls from the sky and the investigation reveals he was in outer space less than 24 hours earlier. The probe quickly turns into a murder case when it's learned the victim was a civilian passenger aboard a private space shuttle(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1586780/s/478b4218a4cfcd4512d57d5c01a0e9cd.jpg"/>
-		<episode-num system="xmltv_ns">7.14.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103210000 +0000" stop="20190103213000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">In the Season 4 premiere, Todd plans a party to celebrate Savannah's being crowned Miss Tennessee Teen USA, but it soon becomes obvious that the party is more for him than her(n)</desc>
 	</programme>
-	<programme start="20190103220000 +0000" stop="20190103230000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. L.A.</sub-title>
-		<desc lang="en">Crime drama series based on the work of forensic investigators. A wealthy porn baron is linked to the rape of one woman and the murder of another, but Jesse's determination to bring the accused to justice jeopardises the case. It emerges that the young CSI investigated the pornographer in LA for murdering his wife, but an anomaly with the evidence saw the case thrown out of court and Jesse accused of misconduct(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1586601/s/df254bb67f0c39473b3a4ff065e2a74c.jpg"/>
-		<episode-num system="xmltv_ns">7.15.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103213000 +0000" stop="20190103220000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Chase gets a tattoo of a Bible verse, which doesn't go over well with Todd; and Savannah has difficulties with her college Bible class(n)</desc>
 	</programme>
-	<programme start="20190103230000 +0000" stop="20190104000000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Getting Axed</sub-title>
-		<desc lang="en">The CSIs investigate the murder of an unpopular receptionist. She was killed in her workplace with an ax and her body was then dumped into an elevator shaft. The probe reveals the victim was hated by most everyone in the office and that she had received a death threat two years earlier(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1586600/s/c90cbc2a074553dab0111348c39a6b13.jpg"/>
-		<episode-num system="xmltv_ns">7.16.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190103220000 +0000" stop="20190103223000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Savannah brings a puppy home when she returns for Jackson's third birthday; and finances drive Chase to try and bond with his dad(n)</desc>
+	</programme>
+	<programme start="20190103223000 +0000" stop="20190103230000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Chase scores an internship at a local TV station; and Faye and Julie decide to learn Italian(n)</desc>
+	</programme>
+	<programme start="20190103230000 +0000" stop="20190103233000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Todd learns that Faye hurt her foot while on a gambling adventure and insists that she mend at his house; and Julie pushes a reluctant Grayson to take piano lessons(n)</desc>
+	</programme>
+	<programme start="20190103233000 +0000" stop="20190104000000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Savannah hopes to cheer up Grayson by organizing a farewell weekend for him and friends; and Chase and BFF Parker hit upon a get-rich-quick scheme(n)</desc>
 	</programme>
 	<programme start="20190104000000 +0000" stop="20190104010000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Dishonor</sub-title>
-		<desc lang="en">Horatio's son, Kyle, returns from a tour of duty overseas and seeks his dad's help after a friend becomes a suspect in the murder of a Muslim father. The victim was outraged that his daughter was dating Kyle's buddy and trying to get out of an upcoming arranged marriage(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1593416/s/6ad20cf12e0745a50590ae0007a1ec93.jpg"/>
-		<episode-num system="xmltv_ns">7.17.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">E! News</title>
 	</programme>
-	<programme start="20190104010000 +0000" stop="20190104020000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Spring Breakdown</sub-title>
-		<desc lang="en">The CSIs are called to investigate the deaths of three students whose bodies were recovered in and around the same hotel during the spring-break party season. As they investigate each case, Horatio and the team realise that all three murders may have been carried out by another student seeking revenge for a humiliating assault(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1597287/s/9f0727e7f7b0e200dad6e42d6ba90cca.jpg"/>
-		<episode-num system="xmltv_ns">7.18.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104010000 +0000" stop="20190104013000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">In the Season 5 premiere, Nanny Faye joins the world of online dating. When Todd gets wind of it, however, he makes himself her chaperone. Meanwhile, new homeowners Chase and Savannah compete for Todd's handouts to furnish their homes(n)</desc>
 	</programme>
-	<programme start="20190104020000 +0000" stop="20190104030000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Backfire</sub-title>
-		<desc lang="en">A 15-year-old boy dies in a house fire and his spirit appears to Calleigh to convince her that he didn't start the blaze. Later, another body is discovered in the charred ruins but it's determined that the second victim died before the fire was set(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1610675/s/e0e1841e9ae0d07e93994bc304fb7833.jpg"/>
-		<episode-num system="xmltv_ns">7.1.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104013000 +0000" stop="20190104020000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Savannah agrees to manage Todd's singing career for a school project and unwittingly unleashes his inner diva; and Chase struggles to throw a dinner for the family to prove he can outdo Savannah(n)</desc>
 	</programme>
-	<programme start="20190104030000 +0000" stop="20190104040000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Meltdown</sub-title>
-		<desc lang="en">Diamonds are stolen during a jewelry-store heist and a customer is gunned down during the robbery. The diamonds are soon recovered but they disappear from the evidence locker, which suggests it was an inside job. Delko is brought in to investigate his former lab partners, who are the chief suspects(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1635875/s/d3b6ee71f5294aa5c465f3de5e8ccef6.jpg"/>
-		<episode-num system="xmltv_ns">7.20.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104020000 +0000" stop="20190104023000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Todd thinks taking over Julie's housework while she recovers from surgery will be a cakewalk, but running the home isn't as easy as it looks. And Chase schemes with Nanny Faye to get Todd to accept his dog, Lilo(n)</desc>
+	</programme>
+	<programme start="20190104023000 +0000" stop="20190104030000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">When Todd refuses to celebrate anyone but Faye for Mother's Day, Julie and Lindsie make their own plans. Todd is forced to babysit Jackson, but struggles with Lindsie's new-age parenting(n)</desc>
+	</programme>
+	<programme start="20190104030000 +0000" stop="20190104033000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">When Todd offers to be a chauffeur for Faye and her sister Francis, he gets more than he bargained for. Meanwhile, Julie opens a boutique real-estate office, but things go awry when she offers to sell Savannah's house(n)</desc>
+	</programme>
+	<programme start="20190104033000 +0000" stop="20190104040000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">When Savannah decides to drop out of college, Todd hatches a plan to get her back in class. Meanwhile, Nanny Faye works overtime to pull an epic prank on Todd(n)</desc>
 	</programme>
 	<programme start="20190104040000 +0000" stop="20190104050000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Bone Voyage</sub-title>
-		<desc lang="en">Ray Langston (Laurence Fishburne) of the Las Vegas crime lab arrives in Miami to investigate after a severed leg found in the Everglades is discovered to belong to a girl who disappeared in Las Vegas a week earlier. The story continues on "CSI: NY" and concludes on "CSI: Crime Scene Investigation."(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1498249/s/649d4e24a444c3df72bf2b04bbe73b20.jpg"/>
-		<episode-num system="xmltv_ns">7.6.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Botched</title>
+		<desc lang="en">Dr. Nassif takes on a patient who tried to treat her own skin cancer and ended up with a hole in her nose, while Dr. Dubrow tackles a body builder's deflated breast. A drag queen striving for perfection seeks help for his silicone lip injections gone wrong(n)</desc>
 	</programme>
-	<programme start="20190104050000 +0000" stop="20190104060000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: NY</title>
-		<sub-title lang="en">NY. Hammer Down</sub-title>
-		<desc lang="en">New York-based spin-off of the crime drama series. Ray Langston races to New York when an interstate trucking ring that specialises in black-market organ harvesting is connected to two murders he investigated in Miami. Can the compassionate doctor keep the promise he made to a missing girl's mother?(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1522457/s/0baafdd6b66dbccb951dedfe4c0f12bb.jpg"/>
-		<episode-num system="xmltv_ns">5.6.</episode-num>
+	<programme start="20190104050000 +0000" stop="20190104053000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">A brokenhearted Carrie tries to get back in the dating game by pitching woo with the Yankees' new recruit (Mark Devine). Meanwhile, Samantha wrestles with her lover's minor-league lovemaking skills; and Miranda cries foul when the girls lose themselves in bad romances. Mr. Big: Chris Noth(n)</desc>
 	</programme>
-	<programme start="20190104060000 +0000" stop="20190104070000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI Miami</title>
+	<programme start="20190104053000 +0000" stop="20190104060000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Honesty is the worst policy for Sam, who calls James (Jamie Goodwin) on his "problem," and Carrie, who tells a friend to leave her hubbie. Meanwhile, Miranda gets a crash course in dirty talk; and Charlotte finds the perfect mate. Or so she thinks. Stanford: Willie Garson(n)</desc>
 	</programme>
-	<programme start="20190104070000 +0000" stop="20190104080000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Point of Impact</sub-title>
-		<desc lang="en">A two-car crash claims two lives and injures two others, and evidence suggests it wasn't an accident. The investigation reveals one of the victims may have been drinking and that one of the vehicles was stolen. As the probe continues, dark secrets of the drivers and passengers come to light. The NBA's Pau Gasol guest stars(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1498250/s/40ea9388692d0f00b39088cad4577b32.jpg"/>
-		<episode-num system="xmltv_ns">7.7.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104060000 +0000" stop="20190104063000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Samantha (Kim Cattrall) has her hands full with a man who likes to be manhandled; meanwhile, Charlotte's guy lets her down; and Miranda wonders if anyone can make her happy. Harrison: Marc Kudish. Ben: Ian Kahn(n)</desc>
 	</programme>
-	<programme start="20190104080000 +0000" stop="20190104090000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Kill Clause</sub-title>
-		<desc lang="en">A custodian working at a lavish party is killed when he falls into a tank filled with deadly jellyfish. The evidence suggests that it wasn't an accident, but murder. Ryan and Jesse work the affair as security guards, and a mysterious woman from Jesse's past unexpectedly shows up during the proceedings(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1548327/s/82d8e00b2bbe9324f4c7099fedde468c.jpg"/>
-		<episode-num system="xmltv_ns">7.8.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104063000 +0000" stop="20190104070000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Charlotte forces herself into a romance after all her friends end up single at the same time. Kristin Davis, Kim Cattrall, Cynthia Nixon(n)</desc>
+	</programme>
+	<programme start="20190104070000 +0000" stop="20190104073000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">A friend's funeral prompts Carrie to resurrect her romance with Big (Chris Noth), and Miranda fears she might die after buying an apartment that induces panic attacks in her. Meanwhile, Sam is ostracized for going after a socialite's hubby, and Charlotte picks up a man at a cemetery. Josephina: Shannon Williams. Sandy: Felicity LaFortune. Dick: Michael DeVries(n)</desc>
+	</programme>
+	<programme start="20190104073000 +0000" stop="20190104080000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Carrie tries to figure out what's going on after she and Mr. Big (Chris Noth) reconcile; Charlotte falls in with a squad of high-powered lesbians; Samantha gets worked over by her new personal trainer; and Miranda is forced to compete with her new guy's adult film fantasies. Miranda: Cynthia Nixon. Carrie: Sarah Jessica Parker. Charlotte: Kristin Davis(n)</desc>
+	</programme>
+	<programme start="20190104080000 +0000" stop="20190104083000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">The ladies become members of the wedding when two of Miranda's friends become the least likely of lovers. Carrie: Sarah Jessica Parker. Samantha: Kim Cattrall. Charlotte: Kristin Davis(n)</desc>
+	</programme>
+	<programme start="20190104083000 +0000" stop="20190104090000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Sex and the City</title>
+		<desc lang="en">Could it be? Miranda finds something close to love with a nice guy. Meanwhile, Sam finds more than love when she beds a septuagenarian; and Carrie tries to figure out what's up with her newly revived fling with Mr. Big (Chris Noth). Carrie: Sarah Jessica Parker. Charlotte: Kristin Davis(n)</desc>
 	</programme>
 	<programme start="20190104090000 +0000" stop="20190104100000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Count Me Out</sub-title>
-		<desc lang="en">The body of a census worker is discovered in the trunk of a car following a high-speed chase. Evidence suggests the victim was poisoned, but the driver claims he is innocent of the crime. The investigation leads to an abandoned house, where Ryan and Natalia accidentally trigger a bomb that explodes while they are still inside(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1549649/s/58af3a071a88ac2b4a8a585409838c54.jpg"/>
-		<episode-num system="xmltv_ns">7.0.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">After Nikki's shocking break up and calling off the wedding from her fiancé, John Cena, she leans on Brie, Bryan and the Bella Family for their unconditional support, all while preparing for the Bella Twins big return to the WWE 25th Anniversary of Monday Night Raw. Hearts are tested as Nikki runs into John Cena backstage(n)</desc>
 	</programme>
 	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Delko for the Defense</sub-title>
-		<desc lang="en">A homeless man is accused of murdering a prominent heiress, and former CSI Eric Delko (Adam Rodriguez) assists with his case by appearing as an expert witness at his trial, which pits Delko against his former lab partners. The investigation reveals the accused man slept in the victim's house and was found covered in her blood(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1549650/s/1bf9fed658ad828b13c166a6d686a247.jpg"/>
-		<episode-num system="xmltv_ns">7.10.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">The twins make their WWE return in the first ever Women's Royal Rumble Match, but when their training is lacking, the sisters wonder if they have what it takes(n)</desc>
 	</programme>
 	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Mommie Deadest</sub-title>
-		<desc lang="en">A suburban woman is beaten to death shortly after celebrating her 20th wedding anniversary at a party in her home. The probe reveals that the victim was abusive to her family. Meanwhile, Delko investigates stolen diamonds from the evidence locker, and his findings unsettle some of his colleagues in the lab(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1635876/s/d5e5b0d8293decee7ad595681ce48bcf.jpg"/>
-		<episode-num system="xmltv_ns">7.21.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">After the news of their break up goes public, Nikki is caught off guard and confused by John Cena when he drops a life-altering bombshell to try to win her back. Meanwhile, Brie and Bryan pack up their home in Phoenix and leave Birdie with babysitter Nikki who is determined to show Brie how to be Supermom(n)</desc>
 	</programme>
 	<programme start="20190104120000 +0000" stop="20190104130000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Time Bomb</sub-title>
-		<desc lang="en">Delko's boss, the assistant state's attorney, is killed with a car bomb that was also intended for Delko. The investigation reveals it was an inside job, and the evidence points to Ryan as the chief suspect who planted the bomb and stole diamonds from the evidence locker(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1639116/s/a138ea1c61716b800fe92445cb6024ee.jpg"/>
-		<episode-num system="xmltv_ns">7.22.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">With Nikki and John Cena back together, the wedding is back on and Nikki gets pushed to her limits as her family starts intervening on who should walk her down the aisle. Meanwhile, Brie and Bryan can't catch a break when their attempts to have a romantic date turn into total disasters(n)</desc>
 	</programme>
 	<programme start="20190104130000 +0000" stop="20190104140000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. All Fall Down</sub-title>
-		<desc lang="en">The eighth season concludes with a serial killer targeting people associated with a Miami university and taunting the CSIs with cryptic clues just before each murder is committed. The victims include a mother shot in her kitchen and two members of the psychology department. One drowns in a faculty swimming pool and the other is burned in his home(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1638410/s/c74b7a6dee43c1a686cfd256d5507d68.jpg"/>
-		<episode-num system="xmltv_ns">7.23.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">A 'Total Divas' spin-off offers a glimpse into Nikki and Brie Bella's life outside the ring with their significant others and family(n)</desc>
 	</programme>
 	<programme start="20190104140000 +0000" stop="20190104150000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Fallen</sub-title>
-		<desc lang="en">The ninth season begins with poison gas being pumped into the CSI lab and one team member dying from the attack. The probe focuses on a bitter university professor who is suspected of killing some colleagues and wanted the case evidence to be destroyed(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1696616/s/b6ade591640d97169885f3702f56cd99.jpg"/>
-		<episode-num system="xmltv_ns">8.0.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">Nikki plans the bachelorette of her dreams with her family and friends in Paris fit for a classy queen; however, Brie has other plans to liven up the party. Meanwhile, Nikki tries to hide her emotions and anxiety from the rest of the ladies about her upcoming wedding to John Cena(n)</desc>
 	</programme>
 	<programme start="20190104150000 +0000" stop="20190104160000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Sudden Death</sub-title>
-		<desc lang="en">A bottle girl at an exclusive club is found facedown in a shallow pool at the establishment. The chief suspect is a star college quarterback who is about to turn pro. The probe reveals the QB spent the night with the victim and that she died before she hit the pool(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1701239/s/9acb0fe6d05970366819a3021645a24c.jpg"/>
-		<episode-num system="xmltv_ns">8.1.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">Nikki's Paris bachelorette continues and Brie pulls out all the stops to throw a masquerade ball. Meanwhile, after almost three years of seeing multiple medical specialists, Daniel Bryan finally learns the fate of his career with WWE(n)</desc>
 	</programme>
 	<programme start="20190104160000 +0000" stop="20190104170000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. See No Evil</sub-title>
-		<desc lang="en">A teen girl is kidnapped from a public restroom near the beach and the only witness is a blind man who heard the abduction. The girl is held for ransom and the investigation leads Horatio to an old nemesis who is still in prison(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1705483/s/0750219e0ff757d8a18b20e4bc0c68bd.jpg"/>
-		<episode-num system="xmltv_ns">8.2.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">Total Bellas</title>
+		<desc lang="en">In the Season 3 finale, the Bella twins jet off to New Orleans for an electrifying WrestleMania where Daniel Bryan makes his long-awaited return to the WWE ring. Meanwhile, Nicole realizes her dream of being Mrs. Cena may no longer be her happily ever after(n)</desc>
 	</programme>
 	<programme start="20190104170000 +0000" stop="20190104180000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Manhunt</sub-title>
-		<desc lang="en">The man who murdered Horatio's wife five years ago escapes from prison and goes on a killing spree as he tries to locate his missing daughter, who is in foster care. The investigation reveals his victims may all be connected to the girl(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1713122/s/d57411e0fb453c4912b924b8610bf7e0.jpg"/>
-		<episode-num system="xmltv_ns">8.3.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+		<title lang="en">E! News: Daily Pop</title>
+		<desc lang="en">Today: Brooke Burke joins us for a post-holiday workout(n)</desc>
 	</programme>
-	<programme start="20190104180000 +0000" stop="20190104190000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Sleepless in Miami</sub-title>
-		<desc lang="en">A dismembered corpse is discovered when a man claims he dreamed about the three locations where the body parts are found. Natalia then goes undercover to visit the man's psychic to determine whether he is unstable, clairvoyant or a killer(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1729411/s/0bfc6b560e48f48ef194c7a887dd04a3.jpg"/>
-		<episode-num system="xmltv_ns">8.4.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104180000 +0000" stop="20190104183000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">The fifth season begins with Kim reluctantly hosting a housewarming party in her new home after her mother talks her into it. Meanwhile, Kourtney considers moving out of Khloe's house because her sister won't let Scott visit(n)</desc>
 	</programme>
-	<programme start="20190104190000 +0000" stop="20190104200000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Reality Kills</sub-title>
-		<desc lang="en">A reality star is stabbed to death while attending a promotional party for her series. The investigation centers on the cast's hidden pasts and the victim's obsessed fans. Meanwhile, a young man struggles for his life after taking a poisonous drug he bought from one of the suspects who is also on the series(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1720648/s/d7667dacfac3c5095b06942719ec73ae.jpg"/>
-		<episode-num system="xmltv_ns">8.5.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104183000 +0000" stop="20190104190000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kris sets Kim up on a blind date with an athlete; Khloe deals with the pressure of having Lamar in the basketball playoffs(n)</desc>
 	</programme>
-	<programme start="20190104200000 +0000" stop="20190104210000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. On the Hook</sub-title>
-		<desc lang="en">A fisherman is shot at by an assassin but he refuses police protection following the incident. The investigation reveals the target is being sued by his former business partner and that he is involved in an illegal secondary line of work(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1742687/s/9e79bfc27c5a24287a822d42b9b3311b.jpg"/>
-		<episode-num system="xmltv_ns">8.6.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104190000 +0000" stop="20190104193000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Khloe loses her engagement ring and is afraid to tell Lamar about it(n)</desc>
 	</programme>
-	<programme start="20190104210000 +0000" stop="20190104220000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Happy Birthday</sub-title>
-		<desc lang="en">A pregnant woman is assaulted during a carjacking and left for dead by the side of a road. She's taken to a hospital where she fights for her life and that of her unborn baby. The investigation reveals the victim was targeted and that she had an argument with a friend a short time earlier(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1773881/s/f01c6c9e8c505335153270bebedb4f63.jpg"/>
-		<episode-num system="xmltv_ns">8.7.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104193000 +0000" stop="20190104200000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kim develops a serious crush on her hot Australian bodyguard. Khloé helps Lamar to finally learn how to swim(n)</desc>
 	</programme>
-	<programme start="20190104220000 +0000" stop="20190104230000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Blood Sugar</sub-title>
-		<desc lang="en">A sugar refinery explodes and one man is found dead inside. The investigation reveals the victim died because of foul play and that the refinery owner took cost-saving shortcuts that may have caused the blast(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1739381/s/329b84a0b67d94b1bd6bdf604be9c786.jpg"/>
-		<episode-num system="xmltv_ns">8.8.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104200000 +0000" stop="20190104203000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kim receives Botox injections because she is fearful of aging and has a bad physical reaction to it. Meanwhile, Kris is discovered smoking and Kourtney tries to get her to quit(n)</desc>
 	</programme>
-	<programme start="20190104230000 +0000" stop="20190105000000 +0000" channel="E! Entertainment Television Canada">
-		<title lang="en">CSI: Miami</title>
-		<sub-title lang="en">Miami. Match Made in Hell</sub-title>
-		<desc lang="en">A millionaire is killed by an alligator in his swimming pool, and the evidence suggests he was murdered. The investigation leads to an elite dating service the victim used. Ryan goes undercover and poses as a rich businessman to expose the truth behind the questionable matchmaking enterprise(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt1773879/s/fd6baea35d41d474fd2189de6ad73920.jpg"/>
-		<episode-num system="xmltv_ns">8.0.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190104203000 +0000" stop="20190104210000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Keeping Up With the Kardashians</title>
+		<desc lang="en">Kourtney house hunts in New York City, while her family try to keep her in Los Angeles. Meanwhile, Bruce struggles with getting his dog neutered(n)</desc>
+	</programme>
+	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">The family settles into their new Nashville home; and Todd encroaches upon Savannah's independence. In other events, Grayson takes up wrestling(n)</desc>
+	</programme>
+	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">The family prepares for the grand opening of their juice bar; and Faye tries to collect on a bet she made with Grayson(n)</desc>
+	</programme>
+	<programme start="20190104220000 +0000" stop="20190104223000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Chase is left in charge when Todd and Julie head to L.A. for Julie's liposuction procedure. Chase abuses his authority, however, which forces Todd to return home early(n)</desc>
+	</programme>
+	<programme start="20190104223000 +0000" stop="20190104230000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Todd takes the juice bar employees on a teambuilding excursion; Savannah and Chase have a disagreement; and Faye has a health scare(n)</desc>
+	</programme>
+	<programme start="20190104230000 +0000" stop="20190104233000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Todd sends Chase and Savannah to a goat farm so that they can learn the value of hard work(n)</desc>
+	</programme>
+	<programme start="20190104233000 +0000" stop="20190105000000 +0000" channel="E! Entertainment Television Canada">
+		<title lang="en">Chrisley Knows Best</title>
+		<desc lang="en">Todd tricks Julie into planning her own surprise birthday party and also works on a special song for her. Julie threatens to cancel the event, however, forcing him to turn to Savannah for help(n)</desc>
 	</programme>
 	<programme start="20190103073000 +0000" stop="20190103080000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">Paid Programming</title>
@@ -1893,517 +1914,161 @@
 		<title lang="en">Paddington (2014)</title>
 		<desc lang="en">After his home in Peru is destroyed, a talking bear named Paddington travels to London, where he is taken in by a kindly family. However, a museum taxidermist is determined to make a trophy out of him(n)</desc>
 	</programme>
-	<programme start="20190103070000 +0000" stop="20190103073000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Part 1 of 2. Mitchell and Cameron's big day arrives without a hitch, until their trip down the aisle turns out to be no walk in the park, which puts Pepper's wedding-planner skills to the ultimate test. Meanwhile, Jay and Gloria host the Tuckers; Phil thinks he can visit an eye doctor before the ceremony; and Claire relishes her role as "best woman."(n)</desc>
-	</programme>
-	<programme start="20190103073000 +0000" stop="20190103080000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the conclusion of the Season 5 finale, the chaos of Mitch and Cam's wedding continues as the grooms grow discouraged; the guests are starting to get restless; and the whole ordeal takes a toll on Claire's physical and emotional state(n)</desc>
-	</programme>
-	<programme start="20190103080000 +0000" stop="20190103090000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Toby experiences memory loss after being drugged, and he's accused of participating in an armed-kidnapping incident(n)</desc>
-	</programme>
-	<programme start="20190103090000 +0000" stop="20190103100000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Toby goes undercover in a prison to investigate a man he believes is being framed for a murder(n)</desc>
-	</programme>
-	<programme start="20190103100000 +0000" stop="20190103110000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">In the Season 5 finale, Toby, Michelle and Dev investigate after Becker is implicated in a criminal conspiracy(n)</desc>
-	</programme>
-	<programme start="20190103110000 +0000" stop="20190103120000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">A young woman dies under strange circumstances(n)</desc>
-	</programme>
-	<programme start="20190103120000 +0000" stop="20190103130000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Telepathic paramedic Toby Logan (Craig Olejnik) struggles to save a missing boy in the series premiere. By using his gift, he learns about the boy while treating an accident victim: the child's mother, who's too traumatized to speak(n)</desc>
-	</programme>
-	<programme start="20190103130000 +0000" stop="20190103140000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">A young woman dies under strange circumstances(n)</desc>
-	</programme>
-	<programme start="20190103140000 +0000" stop="20190103150000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">In the Season 5 finale, Toby, Michelle and Dev investigate after Becker is implicated in a criminal conspiracy(n)</desc>
-	</programme>
-	<programme start="20190103150000 +0000" stop="20190103160000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">A young woman dies under strange circumstances(n)</desc>
-	</programme>
-	<programme start="20190103160000 +0000" stop="20190103170000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Telepathic paramedic Toby Logan (Craig Olejnik) struggles to save a missing boy in the series premiere. By using his gift, he learns about the boy while treating an accident victim: the child's mother, who's too traumatized to speak(n)</desc>
-	</programme>
-	<programme start="20190103170000 +0000" stop="20190103173000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Jay invites the family over for dinner in hopes that there won't be any of the usual drama, but he's out of luck when Mitch is upset by the wedding-cake topper that Cam's father whittled out of soap. Meanwhile, Phil tries to help Gloria sell her old apartment; and Claire and the kids have every intention of helping Jay get ready for his special night, but they wind up in one argument after another(n)</desc>
-	</programme>
-	<programme start="20190103173000 +0000" stop="20190103180000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke's friendship with a curmudgeonly neighbor (Philip Baker Hall) gives Phil and Claire pause; Jay tries to get out of a concert with Gloria and Manny but winds up with Mitchell and Cameron on a night out with their friends; Haley babysits Lily(n)</desc>
-	</programme>
-	<programme start="20190103180000 +0000" stop="20190103183000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Reese Witherspoon plays film star Rainier Wolfcastle's daughter, whose crush on Bart is unrequited. Wolfgang Puck has a cameo. Nancy Cartwright, Pamela Hayden, Harry Shearer(n)</desc>
-	</programme>
-	<programme start="20190103183000 +0000" stop="20190103190000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Dennis Weaver plays an old cowboy star whose newest pal, Bart, tries to land him a guest shot on Krusty's show. Dan Castellaneta, Nancy Cartwright, Yeardley Smith(n)</desc>
-	</programme>
-	<programme start="20190103190000 +0000" stop="20190103193000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Grampa Simpson regains his driver's license to woo a new woman (Olympia Dukakis) but is goaded into a race by senior punks. Dan Castellaneta, Hank Azaria, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190103193000 +0000" stop="20190103200000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">In a trilogy of classics parodies, Homer seeks to destroy Troy as Odysseus; Lisa's Joan of Arc leads the French; and Bart plays Hamlet, with Moe as Claudius. Dan Castellaneta, Yeardley Smith, Nancy Cartwright(n)</desc>
-	</programme>
-	<programme start="20190103200000 +0000" stop="20190103203000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Jay invites the family over for dinner in hopes that there won't be any of the usual drama, but he's out of luck when Mitch is upset by the wedding-cake topper that Cam's father whittled out of soap. Meanwhile, Phil tries to help Gloria sell her old apartment; and Claire and the kids have every intention of helping Jay get ready for his special night, but they wind up in one argument after another(n)</desc>
-	</programme>
-	<programme start="20190103203000 +0000" stop="20190103210000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke's friendship with a curmudgeonly neighbor (Philip Baker Hall) gives Phil and Claire pause; Jay tries to get out of a concert with Gloria and Manny but winds up with Mitchell and Cameron on a night out with their friends; Haley babysits Lily(n)</desc>
-	</programme>
-	<programme start="20190103210000 +0000" stop="20190103213000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Reese Witherspoon plays film star Rainier Wolfcastle's daughter, whose crush on Bart is unrequited. Wolfgang Puck has a cameo. Nancy Cartwright, Pamela Hayden, Harry Shearer(n)</desc>
-	</programme>
-	<programme start="20190103213000 +0000" stop="20190103220000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Dennis Weaver plays an old cowboy star whose newest pal, Bart, tries to land him a guest shot on Krusty's show. Dan Castellaneta, Nancy Cartwright, Yeardley Smith(n)</desc>
-	</programme>
-	<programme start="20190103220000 +0000" stop="20190103223000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Grampa Simpson regains his driver's license to woo a new woman (Olympia Dukakis) but is goaded into a race by senior punks. Dan Castellaneta, Hank Azaria, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190103223000 +0000" stop="20190103230000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">In a trilogy of classics parodies, Homer seeks to destroy Troy as Odysseus; Lisa's Joan of Arc leads the French; and Bart plays Hamlet, with Moe as Claudius. Dan Castellaneta, Yeardley Smith, Nancy Cartwright(n)</desc>
-	</programme>
-	<programme start="20190103230000 +0000" stop="20190103233000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Reese Witherspoon plays film star Rainier Wolfcastle's daughter, whose crush on Bart is unrequited. Wolfgang Puck has a cameo. Nancy Cartwright, Pamela Hayden, Harry Shearer(n)</desc>
-	</programme>
-	<programme start="20190103233000 +0000" stop="20190104000000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Dennis Weaver plays an old cowboy star whose newest pal, Bart, tries to land him a guest shot on Krusty's show. Dan Castellaneta, Nancy Cartwright, Yeardley Smith(n)</desc>
-	</programme>
-	<programme start="20190104000000 +0000" stop="20190104003000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Grampa Simpson regains his driver's license to woo a new woman (Olympia Dukakis) but is goaded into a race by senior punks. Dan Castellaneta, Hank Azaria, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104003000 +0000" stop="20190104010000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">In a trilogy of classics parodies, Homer seeks to destroy Troy as Odysseus; Lisa's Joan of Arc leads the French; and Bart plays Hamlet, with Moe as Claudius. Dan Castellaneta, Yeardley Smith, Nancy Cartwright(n)</desc>
-	</programme>
-	<programme start="20190104010000 +0000" stop="20190104013000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Jay invites the family over for dinner in hopes that there won't be any of the usual drama, but he's out of luck when Mitch is upset by the wedding-cake topper that Cam's father whittled out of soap. Meanwhile, Phil tries to help Gloria sell her old apartment; and Claire and the kids have every intention of helping Jay get ready for his special night, but they wind up in one argument after another(n)</desc>
-	</programme>
-	<programme start="20190104013000 +0000" stop="20190104020000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke's friendship with a curmudgeonly neighbor (Philip Baker Hall) gives Phil and Claire pause; Jay tries to get out of a concert with Gloria and Manny but winds up with Mitchell and Cameron on a night out with their friends; Haley babysits Lily(n)</desc>
-	</programme>
-	<programme start="20190104020000 +0000" stop="20190104023000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 finale, Javier shows up for Manny's high-school graduation and takes him out for a wild night of celebration, but Jay must step in to pick up the pieces. Meanwhile, the rest of the Pritchett clan get ready for Luke and Manny's big day(n)</desc>
-	</programme>
-	<programme start="20190104023000 +0000" stop="20190104030000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 premiere, the Pritchett clan gather for Father's Day after the three families return from separate adventures: Claire, Phil and the kids in New York; Mitch, Cam and Lily in the Midwest; and Jay, Gloria and Joe in Mexico(n)</desc>
-	</programme>
-	<programme start="20190104030000 +0000" stop="20190104033000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Phil is thrilled when he's asked to appear in a real-estate story on a local newscast, and he's even more excited to meet his favourite weatherman, but he may come to regret introducing him to Haley. Meanwhile, Lily tires of her parents' houseguest; and Jay injects some of his personality into Manny's video interview for a university application(n)</desc>
-	</programme>
-	<programme start="20190104033000 +0000" stop="20190104040000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke hosts a Halloween party that quickly turns into a nightmare, so the Dunphys come up with a plan to make it a success and rescue his reputation. Meanwhile, Cam confronts his holiday nemesis, but Mitch and Lily try to keep him from going overboard; and Jay plots revenge on an old adversary when he finds out where Manny is going to a party(n)</desc>
-	</programme>
-	<programme start="20190104040000 +0000" stop="20190104043000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Phil is thrilled when he's asked to appear in a real-estate story on a local newscast, and he's even more excited to meet his favourite weatherman, but he may come to regret introducing him to Haley. Meanwhile, Lily tires of her parents' houseguest; and Jay injects some of his personality into Manny's video interview for a university application(n)</desc>
-	</programme>
-	<programme start="20190104043000 +0000" stop="20190104050000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke hosts a Halloween party that quickly turns into a nightmare, so the Dunphys come up with a plan to make it a success and rescue his reputation. Meanwhile, Cam confronts his holiday nemesis, but Mitch and Lily try to keep him from going overboard; and Jay plots revenge on an old adversary when he finds out where Manny is going to a party(n)</desc>
-	</programme>
-	<programme start="20190104050000 +0000" stop="20190104053000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 finale, Javier shows up for Manny's high-school graduation and takes him out for a wild night of celebration, but Jay must step in to pick up the pieces. Meanwhile, the rest of the Pritchett clan get ready for Luke and Manny's big day(n)</desc>
-	</programme>
-	<programme start="20190104053000 +0000" stop="20190104060000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 premiere, the Pritchett clan gather for Father's Day after the three families return from separate adventures: Claire, Phil and the kids in New York; Mitch, Cam and Lily in the Midwest; and Jay, Gloria and Joe in Mexico(n)</desc>
-	</programme>
-	<programme start="20190104060000 +0000" stop="20190104063000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Phil is thrilled when he's asked to appear in a real-estate story on a local newscast, and he's even more excited to meet his favourite weatherman, but he may come to regret introducing him to Haley. Meanwhile, Lily tires of her parents' houseguest; and Jay injects some of his personality into Manny's video interview for a university application(n)</desc>
-	</programme>
-	<programme start="20190104063000 +0000" stop="20190104070000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Luke hosts a Halloween party that quickly turns into a nightmare, so the Dunphys come up with a plan to make it a success and rescue his reputation. Meanwhile, Cam confronts his holiday nemesis, but Mitch and Lily try to keep him from going overboard; and Jay plots revenge on an old adversary when he finds out where Manny is going to a party(n)</desc>
-	</programme>
-	<programme start="20190104070000 +0000" stop="20190104073000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 finale, Javier shows up for Manny's high-school graduation and takes him out for a wild night of celebration, but Jay must step in to pick up the pieces. Meanwhile, the rest of the Pritchett clan get ready for Luke and Manny's big day(n)</desc>
-	</programme>
-	<programme start="20190104073000 +0000" stop="20190104080000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">In the Season 8 premiere, the Pritchett clan gather for Father's Day after the three families return from separate adventures: Claire, Phil and the kids in New York; Mitch, Cam and Lily in the Midwest; and Jay, Gloria and Joe in Mexico(n)</desc>
-	</programme>
-	<programme start="20190104080000 +0000" stop="20190104090000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">In the Season 5 finale, Toby, Michelle and Dev investigate after Becker is implicated in a criminal conspiracy(n)</desc>
-	</programme>
-	<programme start="20190104090000 +0000" stop="20190104100000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Telepathic paramedic Toby Logan (Craig Olejnik) struggles to save a missing boy in the series premiere. By using his gift, he learns about the boy while treating an accident victim: the child's mother, who's too traumatized to speak(n)</desc>
-	</programme>
-	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Toby rescues an old friend from a building fire and begins hunting a serial arsonist(n)</desc>
-	</programme>
-	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">Murdoch tracks a bank robber who is becoming a folk hero(n)</desc>
-	</programme>
-	<programme start="20190104120000 +0000" stop="20190104130000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Visions of a missing girl prompt Toby to pursue a homeless man, who he thinks has information on her location. Soon, Toby begins to suspect that the man may also have psychic abilities(n)</desc>
-	</programme>
-	<programme start="20190104130000 +0000" stop="20190104140000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">Murdoch tracks a bank robber who is becoming a folk hero(n)</desc>
-	</programme>
-	<programme start="20190104140000 +0000" stop="20190104150000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Toby rescues an old friend from a building fire and begins hunting a serial arsonist(n)</desc>
-	</programme>
-	<programme start="20190104150000 +0000" stop="20190104160000 +0000" channel="FX (East)">
-		<title lang="en">Murdoch Mysteries</title>
-		<desc lang="en">Murdoch tracks a bank robber who is becoming a folk hero(n)</desc>
-	</programme>
-	<programme start="20190104160000 +0000" stop="20190104170000 +0000" channel="FX (East)">
-		<title lang="en">The Listener</title>
-		<desc lang="en">Visions of a missing girl prompt Toby to pursue a homeless man, who he thinks has information on her location. Soon, Toby begins to suspect that the man may also have psychic abilities(n)</desc>
-	</programme>
-	<programme start="20190104170000 +0000" stop="20190104173000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Phil invents an elaborate lie when he misses an appointment with a repairman. Meanwhile, Gloria organizes the annual family portrait; Claire criticizes Cameron for not using her girls' hand-me-downs; and Jay secretly enters Stella in a dog show(n)</desc>
-	</programme>
-	<programme start="20190104173000 +0000" stop="20190104180000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Claire and Gloria's Mother's Day excursion outdoors with the kids turns into the mother of all disasters. Meanwhile, Phil and Jay share an awkward moment when they stay home to prepare dinner for everyone; and Cameron worries about gender roles in his relationship with Mitchell(n)</desc>
-	</programme>
-	<programme start="20190104180000 +0000" stop="20190104183000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The Simpsons go to Brazil when the orphan whom Lisa's been sponsoring there is reported missing. Tress MacNeille, Yeardley Smith, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104183000 +0000" stop="20190104190000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The band Phish has a cameo in an episode in which Dr. Hibbert prescribes medicinal marijuana for Homer's eye injury, and the resulting joviality nets Homer a promotion from Mr. Burns. Harry Shearer, Dan Castellaneta, Hank Azaria(n)</desc>
-	</programme>
-	<programme start="20190104190000 +0000" stop="20190104193000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The Springfield Friars Club roasts Homer, with emcee Krusty the Clown introducing friends, family and their memories from past episodes. Dan Castellaneta (who co-wrote with wife Deb Lacusta), Hank Azaria, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104193000 +0000" stop="20190104200000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Encouraged by comic-book guru Stan Lee (in a cameo), Bart creates a strip about Homer that gets onto the Internet. Harry Shearer, Hank Azaria, Dan Castellaneta(n)</desc>
-	</programme>
-	<programme start="20190104200000 +0000" stop="20190104203000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Phil invents an elaborate lie when he misses an appointment with a repairman. Meanwhile, Gloria organizes the annual family portrait; Claire criticizes Cameron for not using her girls' hand-me-downs; and Jay secretly enters Stella in a dog show(n)</desc>
-	</programme>
-	<programme start="20190104203000 +0000" stop="20190104210000 +0000" channel="FX (East)">
-		<title lang="en">Modern Family</title>
-		<desc lang="en">Claire and Gloria's Mother's Day excursion outdoors with the kids turns into the mother of all disasters. Meanwhile, Phil and Jay share an awkward moment when they stay home to prepare dinner for everyone; and Cameron worries about gender roles in his relationship with Mitchell(n)</desc>
-	</programme>
-	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The Simpsons go to Brazil when the orphan whom Lisa's been sponsoring there is reported missing. Tress MacNeille, Yeardley Smith, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The band Phish has a cameo in an episode in which Dr. Hibbert prescribes medicinal marijuana for Homer's eye injury, and the resulting joviality nets Homer a promotion from Mr. Burns. Harry Shearer, Dan Castellaneta, Hank Azaria(n)</desc>
-	</programme>
-	<programme start="20190104220000 +0000" stop="20190104223000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The Springfield Friars Club roasts Homer, with emcee Krusty the Clown introducing friends, family and their memories from past episodes. Dan Castellaneta (who co-wrote with wife Deb Lacusta), Hank Azaria, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104223000 +0000" stop="20190104230000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Encouraged by comic-book guru Stan Lee (in a cameo), Bart creates a strip about Homer that gets onto the Internet. Harry Shearer, Hank Azaria, Dan Castellaneta(n)</desc>
-	</programme>
-	<programme start="20190104230000 +0000" stop="20190104233000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The Simpsons go to Brazil when the orphan whom Lisa's been sponsoring there is reported missing. Tress MacNeille, Yeardley Smith, Julie Kavner(n)</desc>
-	</programme>
-	<programme start="20190104233000 +0000" stop="20190105000000 +0000" channel="FX (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">The band Phish has a cameo in an episode in which Dr. Hibbert prescribes medicinal marijuana for Homer's eye injury, and the resulting joviality nets Homer a promotion from Mr. Burns. Harry Shearer, Dan Castellaneta, Hank Azaria(n)</desc>
-	</programme>
-	<programme start="20190103083000 +0000" stop="20190103090000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">New Year's Parade of Knives</title>
-		<desc lang="en">This special presentation of Cutlery Corner includes: the Sharp's Hickory Trail Trackers set; the New Year's Blowout set or save with both combined PLUS a katana in the 175 piece New Year's Parade of Knives set. FREE SHIPPING(n)</desc>
-	</programme>
-	<programme start="20190103090000 +0000" stop="20190103093000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Never Fear Power Outages</title>
-		<desc lang="en">Stand up to unpredictable weather and unforeseen outages with Generac — the most trusted name in residential standby power(n)</desc>
-	</programme>
-	<programme start="20190103093000 +0000" stop="20190103100000 +0000" channel="FXX HDTV (East)">
+	<programme start="20190103080000 +0000" stop="20190103090900 +0000" channel="FX (East)">
+		<title lang="en">Snowfall</title>
+		<desc lang="en">Franklin solidifies his future; Teddy's hand is forced; and Lucia decides between business and family(n)</desc>
+	</programme>
+	<programme start="20190103090900 +0000" stop="20190103093900 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">When Molly learns it's been more than 10 years since her husband's seen a doctor, she badgers a reluctant Mike to get checked out(n)</desc>
+	</programme>
+	<programme start="20190103093900 +0000" stop="20190103100000 +0000" channel="FX (East)">
+		<title lang="en">FXM Presents</title>
+		<desc lang="en">An examination of the process of making movies follows a production from script to screen(n)</desc>
+	</programme>
+	<programme start="20190103100000 +0000" stop="20190103103000 +0000" channel="FX (East)">
+		<title lang="en">5 Makeup Tips 4 You</title>
+		<desc lang="en">Airbrushed makeup made easy!(n)</desc>
+	</programme>
+	<programme start="20190103103000 +0000" stop="20190103110000 +0000" channel="FX (East)">
+		<title lang="en">Power Air Fryer Oven</title>
+		<desc lang="en">The Groundbreaking Chef-Quality Air Fryer Oven! It's an Air Fryer, Rotisserie, and Dehydrator - all in one!(n)</desc>
+	</programme>
+	<programme start="20190103110000 +0000" stop="20190103113000 +0000" channel="FX (East)">
+		<title lang="en">Crepe Erase</title>
+		<desc lang="en">What is crepey skin? It's skin that has lost firmness, elasticity and moisture with age. Now, Jane Seymour and Dr. Ordon show you how you can visibly treat and repair the look of crepey skin. www.TryCENow.com(n)</desc>
+	</programme>
+	<programme start="20190103113000 +0000" stop="20190103120000 +0000" channel="FX (East)">
 		<title lang="en">Airfryer Oven</title>
 		<desc lang="en">An Air Fryer, Rotisserie Oven and Dehydrator all in one!(n)</desc>
 	</programme>
-	<programme start="20190103100000 +0000" stop="20190103103000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Try Total Gym for $14.95</title>
-		<desc lang="en">Total Gym Fit is the only piece of fitness equipment you need to get into the best shape of your life! 30 Day Risk-Free Trial for only $14.95. Call today!(n)</desc>
+	<programme start="20190103120000 +0000" stop="20190103143000 +0000" channel="FX (East)">
+		<title lang="en">The Secret Life of Walter Mitty (2013)</title>
+		<desc lang="en">A man who spends much of his time lost in elaborate daydreams goes on an adventure around the world in order to retrieve a photo negative that the magazine he works for needs(n)</desc>
 	</programme>
-	<programme start="20190103103000 +0000" stop="20190103110000 +0000" channel="FXX HDTV (East)">
+	<programme start="20190103143000 +0000" stop="20190103163000 +0000" channel="FX (East)">
+		<title lang="en">XXX: State of the Union (2005)</title>
+		<desc lang="en">A boss helps his special agent escape from jail to stop a group of criminals from assassinating the U.S. president in this sequel(n)</desc>
+	</programme>
+	<programme start="20190103163000 +0000" stop="20190103170000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">The friends learn more about Robin's past as Canadian teen star "Robin Sparkles," and they encourage her to reunite with her former costar, Jessica Glitter(n)</desc>
+	</programme>
+	<programme start="20190103170000 +0000" stop="20190103173000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Ted befriends "The Captain," Zoey's husband, and invites him to hang out with him and Zoey, hoping they can all be friends(n)</desc>
+	</programme>
+	<programme start="20190103173000 +0000" stop="20190103180000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Marshall and Lily see a fertility specialist when they fear they'll never be able to have a baby; and Robin begins a new job(n)</desc>
+	</programme>
+	<programme start="20190103180000 +0000" stop="20190103183000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">The gang goes to Minnesota with Marshall, who meets a bully who terrorized him in high school(n)</desc>
+	</programme>
+	<programme start="20190103183000 +0000" stop="20190103190000 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">The prospect of an empty house for the weekend has Mike and Molly in a state of excitement(n)</desc>
+	</programme>
+	<programme start="20190103190000 +0000" stop="20190103193000 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">The not-so-retiring Peggy suddenly announces she's leaving her job and Molly scrambles to throw her a retirement party, but wonders just why Peggy is calling it quits(n)</desc>
+	</programme>
+	<programme start="20190103193000 +0000" stop="20190103220000 +0000" channel="FX (East)">
+		<title lang="en">The Maze Runner (2014)</title>
+		<desc lang="en">A group of amnesiac teenagers awaken in a deadly maze, and search desperately for an escape route while gathering clues that could reveal the reason for their imprisonment. Meanwhile, dreams of a shadowy organisation hint at a sinister agenda(n)</desc>
+	</programme>
+	<programme start="20190103220000 +0000" stop="20190104010000 +0000" channel="FX (East)">
+		<title lang="en">The Maze Runner: The Scorch Trials (2015)</title>
+		<desc lang="en">Thomas and the other Gladers journey across a brutal, obstacle-filled wasteland called the Scorch. Along the way, they search for information regarding the mysterious organization known as WCKD(n)</desc>
+	</programme>
+	<programme start="20190104010000 +0000" stop="20190104033000 +0000" channel="FX (East)">
+		<title lang="en">Riddick (2013)</title>
+		<desc lang="en">Left to die on a barren planet and with a deadly storm almost at his doorstep, Riddick battles dangerous alien creatures to save his skin(n)</desc>
+	</programme>
+	<programme start="20190104033000 +0000" stop="20190104060000 +0000" channel="FX (East)">
+		<title lang="en">Riddick (2013)</title>
+		<desc lang="en">Left to die on a barren planet and with a deadly storm almost at his doorstep, Riddick battles dangerous alien creatures to save his skin(n)</desc>
+	</programme>
+	<programme start="20190104060000 +0000" stop="20190104080000 +0000" channel="FX (East)">
+		<title lang="en">XXX: State of the Union (2005)</title>
+		<desc lang="en">A boss helps his special agent escape from jail to stop a group of criminals from assassinating the U.S. president in this sequel(n)</desc>
+	</programme>
+	<programme start="20190104080000 +0000" stop="20190104083000 +0000" channel="FX (East)">
 		<title lang="en">BACK PAIN SOLVED</title>
 		<desc lang="en">Join the millions of people who have found BACK PAIN RELIEF with Teeter Hang Ups Inversion Tables. Try for just $14.95!(n)</desc>
 	</programme>
-	<programme start="20190103110000 +0000" stop="20190103113000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Shave Mess Free</title>
-		<desc lang="en">WAHL's most powerful vacuum trimmer features a built-in chamber for No Mess and Easy Clean-Up. One charge lasts 90 mins!(n)</desc>
-	</programme>
-	<programme start="20190103113000 +0000" stop="20190103120000 +0000" channel="FXX HDTV (East)">
+	<programme start="20190104083000 +0000" stop="20190104090000 +0000" channel="FX (East)">
 		<title lang="en">Paid Programming</title>
 		<desc lang="en">Paid Programming(n)</desc>
 	</programme>
-	<programme start="20190103120000 +0000" stop="20190103123000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie and Ben clash while working on her first campaign ad. Elsewhere, Chris tries to befriend Ron, making Ron very uncomfortable, while April and Andy take a trip to the doctor(n)</desc>
-	</programme>
-	<programme start="20190103123000 +0000" stop="20190103130000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Feedback from a focus group prompts Leslie to host a bowling party in hopes of gathering support for her campaign. Meanwhile, April, Chris, Donna and Jerry begin cold calling voters while competing to see who can raise the most money for Leslie's campaign(n)</desc>
-	</programme>
-	<programme start="20190103130000 +0000" stop="20190103133000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie makes it her mission to find Ann a date for Valentine's Day. Meanwhile, Ben turns to Ron for help in figuring out Leslie's elaborate Valentine scavenger hunt, and Chris is troubled by the status of his love life(n)</desc>
-	</programme>
-	<programme start="20190103133000 +0000" stop="20190103140000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Everyone forgets Jerry's birthday. To make up for it, Leslie throws him a post-birthday party at a special location. Meanwhile, Tom is shocked to learn that he and Ann have very different tastes in music(n)</desc>
-	</programme>
-	<programme start="20190103140000 +0000" stop="20190103143000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie and Ben are caught off guard when her opponent hires a high-power campaign manager from Washington, D.C. Meanwhile, Ron reluctantly interviews replacements for Leslie after things start falling through the cracks at the office(n)</desc>
-	</programme>
-	<programme start="20190103143000 +0000" stop="20190103150000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy and Bonnie grow concerned that Roscoe has a drug problem after he's caught smoking pot(n)</desc>
-	</programme>
-	<programme start="20190103150000 +0000" stop="20190103153000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Violet falls ill, but having glandular fever is the least of her worries(n)</desc>
-	</programme>
-	<programme start="20190103153000 +0000" stop="20190103160000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy becomes overprotective and keeps a constant eye on 12-year-old son Roscoe after discovering he's been using drugs and alcohol. Jon Cryer directed the episode(n)</desc>
-	</programme>
-	<programme start="20190103160000 +0000" stop="20190103163000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy and Bonnie grow concerned about Jill on the anniversary of her mother's suicide(n)</desc>
-	</programme>
-	<programme start="20190103163000 +0000" stop="20190103170000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy and Bonnie return to illegal activities, prompting Adam to question their morality(n)</desc>
-	</programme>
-	<programme start="20190103170000 +0000" stop="20190103193000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Heat (2013)</title>
-		<desc lang="en">The film revolves around an FBI agent who teams up with an abrasive Boston cop to take down a powerful drug lord(n)</desc>
-	</programme>
-	<programme start="20190103193000 +0000" stop="20190103220000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Spy (2015)</title>
-		<desc lang="en">After years of doing work integral to the success of major missions, a deskbound CIA analyst is finally given the chance to go undercover in order to save her missing partner and thwart a global disaster(n)</desc>
-	</programme>
-	<programme start="20190103220000 +0000" stop="20190103223000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Dre plans an amazing vow renewal to celebrate his 15 years of marriage to Bow, but things don't go as planned when Bow's hippie parents show up unannounced and end up fighting with Dre's mother and father(n)</desc>
-	</programme>
-	<programme start="20190103223000 +0000" stop="20190103230000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Things begin to fall apart, in more ways than one, when Dre's 40th birthday approaches. As Dre worries that he's getting too old to be cool, Bow and Ruby compete over getting him the best gift, while the kids face their own present dilemma(n)</desc>
-	</programme>
-	<programme start="20190103230000 +0000" stop="20190103233000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Dre lies to Bow about a vasectomy procedure he claimed to have a few years ago, but she learns from a colleague that he never went through with it(n)</desc>
-	</programme>
-	<programme start="20190103233000 +0000" stop="20190104000000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Bow invites her university friends over for an elaborate dinner party after reconnecting with them on Facebook; and on the same night, the kids decide to shoot a reality show, because one of the guests appeared on "The Real World"(n)</desc>
-	</programme>
-	<programme start="20190104000000 +0000" stop="20190104003000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Dre questions his own "blackness" when his street cred is challenged by a hip white executive who picks inept Charlie for a big urban market account. Meanwhile, a letter from the IRS causes Pops to fear the worst(n)</desc>
-	</programme>
-	<programme start="20190104003000 +0000" stop="20190104010000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Dre and Bow clash over how to handle Zoey's teenage rebellion, with Dre wanting to lay down the law, while Bow suggests a softer approach(n)</desc>
-	</programme>
-	<programme start="20190104010000 +0000" stop="20190104013000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Homer is told he only has 24 hours to live after eating incorrectly prepared blowfish at the Happy Sumo sushi restaurant. So he makes a list of things he must do before he dies, but gets caught speeding and thrown in jail ... Guest starring Larry King and Star Trek's George Takei(n)</desc>
-	</programme>
-	<programme start="20190104013000 +0000" stop="20190104020000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Sara Gilbert plays a new neighbour who captures---and breaks---Bart's heart; Homer sues after a restaurant denies him "all you can eat." Pamela Reed plays the girl's mother(n)</desc>
-	</programme>
-	<programme start="20190104020000 +0000" stop="20190104023000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Bart sells his soul to Milhouse for five bucks; Moe goes after the family crowd. Voices: Nancy Cartwright, Pamela Hayden, Harry Shearer, Dan Castellaneta(n)</desc>
-	</programme>
-	<programme start="20190104023000 +0000" stop="20190104030000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Truck drivers target Homer after he blabs about an industry scam while filling in for a recently deceased driver. Voices: Dan Castellaneta, Nancy Cartwright, Julie Kavner, Yeardley Smith, Harry Shearer, Pamela Hayden(n)</desc>
-	</programme>
-	<programme start="20190104030000 +0000" stop="20190104033000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">With Lisa's help, Homer becomes the food critic for the Springfield Shopper, but fellow critics criticize his always-positive reviews, prompting a radical change---and revenge by restaurateurs. Voices: Ed Asner, Dan Castellaneta, Yeardley Smith, Julie Kavner, Harry Shearer(n)</desc>
-	</programme>
-	<programme start="20190104033000 +0000" stop="20190104040000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Marge, Bart and Lisa start a food blog ("The Three Mouthketeers"), which results in scoring reservations at Springfield's hottest new restaurant. The question becomes whether to invite Homer. Chefs Anthony Bourdain, Gordon Ramsay and Mario Batali (providing their own voices) offer Marge their opinions in a dream sequence. Later, Homer's cooking gets him into trouble(n)</desc>
-	</programme>
-	<programme start="20190104040000 +0000" stop="20190104043000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Homer's behaviour once again lands him in hot water with Marge and he needs to fathom a way to save his marriage, while a dose of "A Streetcar Named Desire" drives Milhouse to affect a Marlon Brando-esque bad-boy demeanor in an effort to impress Lisa(n)</desc>
-	</programme>
-	<programme start="20190104043000 +0000" stop="20190104050000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Fast-food restaurants in Springfield turn healthy, leaving Homer to turn to a greasy spoon for comfort (food), and childhood memories come flooding back. Meanwhile, Lisa scrambles for a special news story in order to save the school radio station(n)</desc>
-	</programme>
-	<programme start="20190104050000 +0000" stop="20190104053000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Archer</title>
-		<desc lang="en">Archer meets Lana's parents(n)</desc>
-	</programme>
-	<programme start="20190104053000 +0000" stop="20190104060000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Archer</title>
-		<desc lang="en">The gang swindle a royal family(n)</desc>
-	</programme>
-	<programme start="20190104060000 +0000" stop="20190104063000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Archer</title>
-		<desc lang="en">An office romance is interrupted by Russians(n)</desc>
-	</programme>
-	<programme start="20190104063000 +0000" stop="20190104070000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Archer</title>
-		<desc lang="en">Archer and Lana visit Wales for a romantic getaway(n)</desc>
-	</programme>
-	<programme start="20190104070000 +0000" stop="20190104073100 +0000" channel="FXX HDTV (East)">
-		<title lang="en">You're the Worst</title>
-		<desc lang="en">Jimmy's family visits, much to his and Gretchen's dismay; Lindsay gets a job for the day; and Edgar bonds with Jimmy's little sister(n)</desc>
-	</programme>
-	<programme start="20190104073100 +0000" stop="20190104080300 +0000" channel="FXX HDTV (East)">
-		<title lang="en">You're the Worst</title>
-		<desc lang="en">Jimmy gets closer to his bartender friend, Nina; Gretchen joins Sam for a radio interview; and Edgar tries to get to know Dorothy's comedy friends(n)</desc>
-	</programme>
-	<programme start="20190104080300 +0000" stop="20190104083500 +0000" channel="FXX HDTV (East)">
-		<title lang="en">You're the Worst</title>
-		<desc lang="en">Jimmy makes a tough choice after growing frustrated with Gretchen; Lindsay comes to a decision about Paul; and Edgar has his improv graduation show(n)</desc>
-	</programme>
-	<programme start="20190104083500 +0000" stop="20190104090900 +0000" channel="FXX HDTV (East)">
-		<title lang="en">You're the Worst</title>
-		<desc lang="en">In the season finale, Jimmy attends Becca and Vernon's baby gender reveal party; Gretchen takes care of some unfinished business; Edgar and Dorothy's relationship reaches a turning point; and Lindsay confronts Paul(n)</desc>
-	</programme>
-	<programme start="20190104090900 +0000" stop="20190104093000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid Programming(n)</desc>
-	</programme>
-	<programme start="20190104093000 +0000" stop="20190104100000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid Programming(n)</desc>
-	</programme>
-	<programme start="20190104100000 +0000" stop="20190104103000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">New Year's Parade of Knives</title>
-		<desc lang="en">This special presentation of Cutlery Corner includes: the Sharp's Hickory Trail Trackers set; the New Year's Blowout set or save with both combined PLUS a katana in the 175 piece New Year's Parade of Knives set. FREE SHIPPING(n)</desc>
-	</programme>
-	<programme start="20190104103000 +0000" stop="20190104113000 +0000" channel="FXX HDTV (East)">
+	<programme start="20190104090000 +0000" stop="20190104093000 +0000" channel="FX (East)">
 		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
 		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you – with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen(n)</desc>
 	</programme>
-	<programme start="20190104113000 +0000" stop="20190104120000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Secret to Regrow Beautiful Hair</title>
-		<desc lang="en">Real women reveal the secret to hair regrowth. See how you can have a good hair day everyday too. Regain your confidence with Keranique, the number 1 hair regrowth system in America designed exclusively for women!(n)</desc>
+	<programme start="20190104093000 +0000" stop="20190104100000 +0000" channel="FX (East)">
+		<title lang="en">Shave Mess Free</title>
+		<desc lang="en">WAHL's most powerful vacuum trimmer features a built-in chamber for No Mess and Easy Clean-Up. One charge lasts 90 mins!(n)</desc>
 	</programme>
-	<programme start="20190104120000 +0000" stop="20190104123000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie lands a big interview on an Indianapolis talk show. Meanwhile, Andy preps for his final exam in his women's studies course, with help from Ron and April(n)</desc>
+	<programme start="20190104100000 +0000" stop="20190104103000 +0000" channel="FX (East)">
+		<title lang="en">5 Makeup Tips 4 You</title>
+		<desc lang="en">Airbrushed makeup made easy!(n)</desc>
 	</programme>
-	<programme start="20190104123000 +0000" stop="20190104130000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">When Leslie learns that the Parks Department budget is about to be cut, she persuades Councilman Pillner to make the cuts elsewhere, but there are unforeseen consequences for her campaign. Elsewhere, Ron and Chris visit a meditation centre together(n)</desc>
+	<programme start="20190104103000 +0000" stop="20190104110000 +0000" channel="FX (East)">
+		<title lang="en">Power Smokeless Grill</title>
+		<desc lang="en">Authentic, Char-Grilled Meals Indoors Without All The Smoke!(n)</desc>
 	</programme>
-	<programme start="20190104130000 +0000" stop="20190104133000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie squares off against her opponent, Bobby Newport (Paul Rudd), in a televised debate. Ann, Tom and Chris keep busy in the media spin room, while Ron works to save a party for Leslie's donors. Amy Poehler wrote and directed the episode(n)</desc>
+	<programme start="20190104110000 +0000" stop="20190104113000 +0000" channel="FX (East)">
+		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
+		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you – with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen(n)</desc>
 	</programme>
-	<programme start="20190104133000 +0000" stop="20190104140000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Leslie embarks on a bus tour on the final day of her campaign, but she becomes distracted by the sudden death of an important person in Pawnee. Elsewhere, Andy investigates a security threat, while Chris discovers a surprising cure for his depression(n)</desc>
+	<programme start="20190104113000 +0000" stop="20190104120000 +0000" channel="FX (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
 	</programme>
-	<programme start="20190104140000 +0000" stop="20190104143000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Parks and Recreation</title>
-		<desc lang="en">Election Day arrives in Pawnee, and the race between Leslie and Bobby Newport (Paul Rudd) is neck-and-neck in the Season 4 finale. While waiting for the results, everyone reflects on what the future might bring(n)</desc>
+	<programme start="20190104120000 +0000" stop="20190104140000 +0000" channel="FX (East)">
+		<title lang="en">Scouts Guide to the Zombie Apocalypse (2015)</title>
+		<desc lang="en">Three friends must summon the courage to survive when their town becomes the scene of a zombie outbreak in this horror comedy(n)</desc>
 	</programme>
-	<programme start="20190104143000 +0000" stop="20190104150000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Adam's old party pals arrive for a visit. Bradley Whitford and Nicole Sullivan guest star(n)</desc>
+	<programme start="20190104140000 +0000" stop="20190104170000 +0000" channel="FX (East)">
+		<title lang="en">The Maze Runner: The Scorch Trials (2015)</title>
+		<desc lang="en">Thomas and the other Gladers journey across a brutal, obstacle-filled wasteland called the Scorch. Along the way, they search for information regarding the mysterious organization known as WCKD(n)</desc>
 	</programme>
-	<programme start="20190104150000 +0000" stop="20190104153000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy feels neglected when Bonnie and the ladies keep Jill's pregnancy a secret(n)</desc>
+	<programme start="20190104170000 +0000" stop="20190104173000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Zoey arranges a date for Ted with her cousin, and Ted realizes he has feelings for Zoey, and tells his friends he needs an intervention(n)</desc>
 	</programme>
-	<programme start="20190104153000 +0000" stop="20190104160000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Bonnie encourages Christy to woo Marjorie's likable nephew (Chris Pratt, husband of series star Anna Faris), but he's been declared off limits(n)</desc>
+	<programme start="20190104173000 +0000" stop="20190104180000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Marshall becomes obsessed with saving the environment after he sees a documentary about garbage; Ted runs into the Captain; and Robin makes Barney confront his feelings for the woman who was his first Valentine's Day date(n)</desc>
 	</programme>
-	<programme start="20190104160000 +0000" stop="20190104163000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Christy, Bonnie, Jill and Wendy accidentally eat pot-filled cookies(n)</desc>
+	<programme start="20190104180000 +0000" stop="20190104183000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Barney realizes he has heartfelt affection for Nora, and he thinks that something is wrong with him; and Robin dates a guy who acts like a dog(n)</desc>
 	</programme>
-	<programme start="20190104163000 +0000" stop="20190104170000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Mom</title>
-		<desc lang="en">Bonnie connects with a sightly, sober stranger, causing Christy to worry that she's jeopardizing her relationship with Adam(n)</desc>
+	<programme start="20190104183000 +0000" stop="20190104190000 +0000" channel="FX (East)">
+		<title lang="en">How I Met Your Mother</title>
+		<desc lang="en">Barney finally meets his dad, and the pals think of things they should all know by now as adults, but don't(n)</desc>
 	</programme>
-	<programme start="20190104170000 +0000" stop="20190104190000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Guilt Trip (2012)</title>
-		<desc lang="en">A cleaning product inventor sets off across America to pitch his wares and make his millions, but a revelation from his enthusiastic mother forces him to invite her along for the ride. Comedy(n)</desc>
+	<programme start="20190104190000 +0000" stop="20190104193000 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">It's an exciting new chapter in Molly's life as the newly minted author's book comes out, but she becomes obsessively worried that no one will purchase it and begins to haunt the website, constantly refreshing it to see how many copies are being sold(n)</desc>
 	</programme>
-	<programme start="20190104190000 +0000" stop="20190104210000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Goosebumps (2015)</title>
-		<desc lang="en">A teen, his best friend, a horror writer and the writer's daughter are forced to work together when the author's monstrous creations come to life and wreak havoc on their small town(n)</desc>
+	<programme start="20190104193000 +0000" stop="20190104200000 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">Peggy's juicy past proves to be fertile ground for Molly's second book, but the author discovers it's quite a chore to get her mother-in-law to fess up(n)</desc>
 	</programme>
-	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Bow encourages Dre to tell his mother what everybody else in the family already knows: That his sister, Rhonda, is gay. Meanwhile, Zoey tries to help Junior develop better "gaydar"; at the same time, Diane and Jack get competitive over Mother's Day gifts(n)</desc>
+	<programme start="20190104200000 +0000" stop="20190104203000 +0000" channel="FX (East)">
+		<title lang="en">Mike &amp; Molly</title>
+		<desc lang="en">As a reward for reaching his weight-loss goal, Mike makes what may prove to be a bad decision(n)</desc>
 	</programme>
-	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">Liberals Dre and Bow freak out over Junior's decision to join the Young Republican Club to impress a girl whose parents they quickly arrange to meet; and Zoey gets teased about having to wear glasses(n)</desc>
+	<programme start="20190104203000 +0000" stop="20190104230000 +0000" channel="FX (East)">
+		<title lang="en">Sicario (2015)</title>
+		<desc lang="en">An FBI agent joins a task force on the U.S.-Mexico border that's hunting a notorious drug kingpin, but her main informant points her toward a deeper conspiracy(n)</desc>
 	</programme>
-	<programme start="20190104220000 +0000" stop="20190104223000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">In the Season 1 finale, Jack and Diane learn the history of the Johnson family from Pops, who tells them a colourful story about his great-great grandfather's dealings with a ruthless gangster during the 1920s Harlem Renaissance(n)</desc>
-	</programme>
-	<programme start="20190104223000 +0000" stop="20190104230000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">Blackish</title>
-		<desc lang="en">In the Season 2 premiere, Dre and Bow try to prevent Jack's expulsion after he uses the N-word during a school talent show; and the family examine the evolution and use of the N-word in American culture(n)</desc>
-	</programme>
-	<programme start="20190104230000 +0000" stop="20190104233000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">Lisa hopes to counter Mr. Burns' fracking operation by bringing in Assemblywoman Maxine Lombard, but is aghast when the two political opponents take a liking to each other(n)</desc>
-	</programme>
-	<programme start="20190104233000 +0000" stop="20190105000000 +0000" channel="FXX HDTV (East)">
-		<title lang="en">The Simpsons</title>
-		<desc lang="en">In a crossover episode with "Futurama," that show's Planet Express crew arrives in modern-day Springfield to keep the Simpsons from having a disastrous impact on the future(n)</desc>
+	<programme start="20190104230000 +0000" stop="20190105010000 +0000" channel="FX (East)">
+		<title lang="en">Taken 2 (2012)</title>
+		<desc lang="en">Retired CIA agent Bryan Mills and his family are targeted by a vengeful crime lord while vacationing in Istanbul, forcing him to fight an army of killers in order to get back home alive(n)</desc>
 	</programme>
 	<programme start="20190103070000 +0000" stop="20190103073000 +0000" channel="Hallmark Channel (East)">
 		<title lang="en">The Golden Girls</title>
@@ -2898,6 +2563,10 @@
 		<icon src="https://i.yo.tv/images/9/32798/s/2b2779e6bc1ab726c82387aa69299d6c.jpg"/>
 		<episode-num system="xmltv_ns">7.15.</episode-num>
 	</programme>
+	<programme start="20190103050000 +0000" stop="20190103050000 +0000" channel="Hallmark Drama (East)">
+		<title lang="en">To Be Announced</title>
+		<desc lang="en">Programme details are currently unavailable(n)</desc>
+	</programme>
 	<programme start="20190103083000 +0000" stop="20190103103000 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">College Basketball</title>
 		<desc lang="en">Northwestern at Michigan State. From Breslin Center(n)</desc>
@@ -3224,6 +2893,7 @@
 	</programme>
 	<programme start="20190103080000 +0000" stop="20190103093000 +0000" channel="Fox Sports 2">
 		<title lang="en">Crashed Ice</title>
+		<desc lang="en">Downhill ice-skate racing action from Moscow(n)</desc>
 	</programme>
 	<programme start="20190103093000 +0000" stop="20190103110000 +0000" channel="Fox Sports 2">
 		<title lang="en">Crashed Ice</title>
@@ -3635,7 +3305,6 @@
 	</programme>
 	<programme start="20190104023000 +0000" stop="20190104030000 +0000" channel="NBA TV Canada">
 		<title lang="en">NBA Action</title>
-		<desc lang="en">A recap of the week in the NBA, featuring news and highlights. Also included is a rundown of the best and worst performers(n)</desc>
 	</programme>
 	<programme start="20190104030000 +0000" stop="20190104053000 +0000" channel="NBA TV Canada">
 		<title lang="en">NBA Basketball</title>
@@ -4098,18 +3767,21 @@
 	</programme>
 	<programme start="20190103060000 +0000" stop="20190103080000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT</title>
+		<desc lang="en">Showcasing WWE's brightest young talent as they battle to become superstars and divas of tomorrow(n)</desc>
 	</programme>
 	<programme start="20190103080000 +0000" stop="20190103090000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
 	</programme>
 	<programme start="20190103090000 +0000" stop="20190103100000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190103100000 +0000" stop="20190103110000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
 	</programme>
 	<programme start="20190103110000 +0000" stop="20190103120000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190103120000 +0000" stop="20190103130000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -4130,11 +3802,9 @@
 	</programme>
 	<programme start="20190103170000 +0000" stop="20190103180000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190103180000 +0000" stop="20190103190000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190103190000 +0000" stop="20190103193000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
@@ -4158,7 +3828,6 @@
 	</programme>
 	<programme start="20190104000000 +0000" stop="20190104003000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190104003000 +0000" stop="20190104010000 +0000" channel="WWE Network">
 		<title lang="en">Fashion Files: Cold Case Unit</title>
@@ -4179,7 +3848,6 @@
 	</programme>
 	<programme start="20190104050000 +0000" stop="20190104060000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190104060000 +0000" stop="20190104070000 +0000" channel="WWE Network">
 		<title lang="en">New Day's 2018 Super Spectacular</title>
@@ -4191,7 +3859,6 @@
 	</programme>
 	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="WWE Network">
 		<title lang="en">New Day's 2018 Super Spectacular</title>
@@ -4209,6 +3876,7 @@
 	</programme>
 	<programme start="20190104150000 +0000" stop="20190104160000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
+		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190104160000 +0000" stop="20190104170000 +0000" channel="WWE Network">
 		<title lang="en">New Day's 2018 Super Spectacular</title>
@@ -4222,11 +3890,9 @@
 	</programme>
 	<programme start="20190104200000 +0000" stop="20190104210000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="WWE Network">
 		<title lang="en">WWE Kitchen SmackDown!</title>
@@ -4238,6 +3904,7 @@
 	</programme>
 	<programme start="20190104230000 +0000" stop="20190105000000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
+		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190103080000 +0000" stop="20190103090000 +0000" channel="Animal Planet HDTV (East)">
 		<title lang="en">North Woods Law</title>
