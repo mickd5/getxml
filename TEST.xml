@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Simba" generator-info-url="">
-	<channel id="Cinemax (East)">
-		<display-name lang="en">Cinemax (East)</display-name>
+	<channel id="Cinemax (West)">
+		<display-name lang="en">Cinemax (West)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="More Max HDTV (East)">
@@ -48,7 +48,7 @@
 		<display-name lang="en">Bravo HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
-	<channel id="E! Entertainment Television Canada">
+	<channel id="E! Entertainment Television">
 		<display-name lang="en">E! Entertainment Television</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
@@ -143,93 +143,93 @@
 		<display-name lang="en">Velocity HDTV</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
-	<programme start="20190104093000 +0000" stop="20190104111500 +0000" channel="Cinemax (East)">
+	<programme start="20190104090000 +0000" stop="20190104105500 +0000" channel="Cinemax (West)">
+		<title lang="en">Funny Games (2007)</title>
+		<desc lang="en">Writer-director Michael Haneke's remake of his disturbing 1997 Austrian film is a manipulative shocker about a vacationing family whose home is invaded by two young men who subject them to a night of psychological and physical torture(n)</desc>
+	</programme>
+	<programme start="20190104105500 +0000" stop="20190104123000 +0000" channel="Cinemax (West)">
+		<title lang="en">The Grudge (2004)</title>
+		<desc lang="en">Director Takashi Shimizu's routine remake of his creepy Japanese thriller "Ju-on" stars Sarah Michelle Gellar as an American nurse in Tokyo who encounters a supernatural spirit spreading a deadly curse(n)</desc>
+	</programme>
+	<programme start="20190104123000 +0000" stop="20190104141500 +0000" channel="Cinemax (West)">
 		<title lang="en">The Quiet American (2002)</title>
 		<desc lang="en">Superbly acted adaptation of Graham Greene's novel about the complex friendship between a British journalist and an American agent in 1952 Vietnam. Michael Caine (who was nominated for an Oscar), Brendan Fraser. Directed by Phillip Noyce on location. A less faithful film version was made in 1958, starring Michael Redgrave and Audie Murphy(n)</desc>
 	</programme>
-	<programme start="20190104111500 +0000" stop="20190104125500 +0000" channel="Cinemax (East)">
+	<programme start="20190104141500 +0000" stop="20190104155500 +0000" channel="Cinemax (West)">
 		<title lang="en">50 First Dates (2004)</title>
 		<desc lang="en">Henry, a man who is afraid of commitments, meets Lucy and falls in love with her. Soon, he learns that she has short term memory loss. And Henry has to win her heart every single day(n)</desc>
 	</programme>
-	<programme start="20190104125500 +0000" stop="20190104152000 +0000" channel="Cinemax (East)">
+	<programme start="20190104155500 +0000" stop="20190104182000 +0000" channel="Cinemax (West)">
 		<title lang="en">The Pelican Brief (1993)</title>
 		<desc lang="en">A law student is forced to go on the run after she uncovers an assassination plot based on a trail of murdered judges, a revelation which puts her own life in jeopardy(n)</desc>
 	</programme>
-	<programme start="20190104152000 +0000" stop="20190104165500 +0000" channel="Cinemax (East)">
+	<programme start="20190104182000 +0000" stop="20190104195500 +0000" channel="Cinemax (West)">
 		<title lang="en">Lions for Lambs (2007)</title>
 		<desc lang="en">Robert Redford directed and stars in this talky treatise on the U.S. war on terror, intercutting the stories of a liberal professor (Redford), a hawkish U.S. senator (Tom Cruise) and a skeptical journalist (Meryl Streep). Michael Pena, Andrew Garfield, Peter Berg, Kevin Dunn(n)</desc>
 	</programme>
-	<programme start="20190104165500 +0000" stop="20190104191500 +0000" channel="Cinemax (East)">
+	<programme start="20190104195500 +0000" stop="20190104221500 +0000" channel="Cinemax (West)">
 		<title lang="en">The Fate of the Furious (2017)</title>
 		<desc lang="en">In the eighth installment of the "Fast and the Furious" series, Dominic Toretto's crew are rocked to their core when they must face their most-dangerous adversary yet: Dom himself, who is now working with a shadowy cyber-terrorist known only as Cipher. As DSS agent Luke Hobbs and the rest of the team attempt to fight back, they find themselves in an alliance with their old enemy, assassin Deckard Shaw(n)</desc>
 	</programme>
-	<programme start="20190104191500 +0000" stop="20190104210000 +0000" channel="Cinemax (East)">
+	<programme start="20190104221500 +0000" stop="20190105000000 +0000" channel="Cinemax (West)">
 		<title lang="en">AVP: Alien vs. Predator (2004)</title>
 		<desc lang="en">(2004) Two of cinema's most iconic extra-terrestrial monsters go into battle in Paul W S Anderson's roller-coaster action movie, with the humans stuck in the middle. When billionaire Charles Bishop Weyland's (Lance Henriksen from Aliens and Alien3 ) satellites detect a pyramid buried under the Antarctic ice, he assembles a team of scientists, archaeologists and engineers to explore it, including Alexa Woods (Sanaa Lathan), Sebastian de Rosa (Raoul Bova) and Graeme Miller (Ewan Bremner). They discover that the pyramid is home to two species of aliens. One regards humans as incubators for their young. The other are intergalactic sportsmen who hunt their opposite number for fun(n)</desc>
 	</programme>
-	<programme start="20190104210000 +0000" stop="20190104232000 +0000" channel="Cinemax (East)">
+	<programme start="20190105000000 +0000" stop="20190105022000 +0000" channel="Cinemax (West)">
 		<title lang="en">War for the Planet of the Apes (2017)</title>
 		<desc lang="en">In the third installment of the "Planet of the Apes" prequel series, simian leader Caesar seeks revenge on the humans who killed his family. In time, his vendetta threatens to ignite all-out war between the two species(n)</desc>
 	</programme>
-	<programme start="20190104232000 +0000" stop="20190105010000 +0000" channel="Cinemax (East)">
+	<programme start="20190105022000 +0000" stop="20190105040000 +0000" channel="Cinemax (West)">
 		<title lang="en">The Invasion (2007)</title>
 		<desc lang="en">Washington D.C. psychiatrist Carol Bennell (Nicole Kidman) observes that people around her are behaving differently after hearing from a patient that her husband doesn't seem like himself anymore. Together with her friend Dr. Ben Driscoll (Daniel Craig) and the researcher Dr. Stephen Galeano, she discovers that an extraterrestrial epidemic is affecting human beings and that her son may save mankind(n)</desc>
 	</programme>
-	<programme start="20190105010000 +0000" stop="20190105025000 +0000" channel="Cinemax (East)">
+	<programme start="20190105040000 +0000" stop="20190105055000 +0000" channel="Cinemax (West)">
 		<title lang="en">Dunkirk (2017)</title>
 		<desc lang="en">When 400,000 British and Allied troops end up trapped on the beaches of Dunkirk, France, following a catastrophic defeat during WWII, a number of civilian boats set out to rescue them before they are decimated by the approaching Nazi forces(n)</desc>
 	</programme>
-	<programme start="20190105025000 +0000" stop="20190105051000 +0000" channel="Cinemax (East)">
+	<programme start="20190105055000 +0000" stop="20190105055000 +0000" channel="Cinemax (West)">
 		<title lang="en">The Fate of the Furious (2017)</title>
 		<desc lang="en">In the eighth installment of the "Fast and the Furious" series, Dominic Toretto's crew are rocked to their core when they must face their most-dangerous adversary yet: Dom himself, who is now working with a shadowy cyber-terrorist known only as Cipher. As DSS agent Luke Hobbs and the rest of the team attempt to fight back, they find themselves in an alliance with their old enemy, assassin Deckard Shaw(n)</desc>
 	</programme>
-	<programme start="20190105051000 +0000" stop="20190105051000 +0000" channel="Cinemax (East)">
+	<programme start="20190105055000 +0000" stop="20190105081000 +0000" channel="Cinemax (West)">
+		<title lang="en">The Fate of the Furious (2017)</title>
+		<desc lang="en">In the eighth installment of the "Fast and the Furious" series, Dominic Toretto's crew are rocked to their core when they must face their most-dangerous adversary yet: Dom himself, who is now working with a shadowy cyber-terrorist known only as Cipher. As DSS agent Luke Hobbs and the rest of the team attempt to fight back, they find themselves in an alliance with their old enemy, assassin Deckard Shaw(n)</desc>
+	</programme>
+	<programme start="20190105081000 +0000" stop="20190105095000 +0000" channel="Cinemax (West)">
 		<title lang="en">Mr. Right (2015)</title>
 		<desc lang="en">Unlucky-in-love Martha falls for an oddly principled hit man who kills anyone who hires him to commit murder. While Martha believes she's finally found the perfect guy, their romance is threatened by an FBI agent who's hunting her new beau(n)</desc>
 	</programme>
-	<programme start="20190105051000 +0000" stop="20190105065000 +0000" channel="Cinemax (East)">
-		<title lang="en">Mr. Right (2015)</title>
-		<desc lang="en">Unlucky-in-love Martha falls for an oddly principled hit man who kills anyone who hires him to commit murder. While Martha believes she's finally found the perfect guy, their romance is threatened by an FBI agent who's hunting her new beau(n)</desc>
-	</programme>
-	<programme start="20190105065000 +0000" stop="20190105090500 +0000" channel="Cinemax (East)">
+	<programme start="20190105095000 +0000" stop="20190105120500 +0000" channel="Cinemax (West)">
 		<title lang="en">Wall Street: Money Never Sleeps (2010)</title>
 		<desc lang="en">Michael Douglas, Shia LaBeouf and Carey Mulligan star in Oliver Stone's sequel to his 1987 blockbuster drama. The years have passed and Gordon Gekko has served his sentence for insider trading. Released from prison, he finds a world that has unequivocally turned from boom to bust. Now his two main aims are to establish himself as a writer and seek reconciliation with his daughter Winnie, who writes left of centre blogs and doesn't show too much warmth towards him. However, she's dating Jake Moore, a trader in ethical stocks. When a suspicious stock crash ruins Moore's mentor and forces Moore to work for the unscrupulous Bretton James, Gordon Gekko spies the opportunity he needs to make up with Winnie by helping her boyfriend(n)</desc>
 	</programme>
-	<programme start="20190105090500 +0000" stop="20190105105000 +0000" channel="Cinemax (East)">
+	<programme start="20190105120500 +0000" stop="20190105135000 +0000" channel="Cinemax (West)">
 		<title lang="en">RoboCop (1987)</title>
 		<desc lang="en">Detroit-in the future-is crime ridden, and run by an massive company. The company have developed a huge crime fighting robot, which unfortunately develops a rather dangerous glitch. The company sees a way to get back in favour with the public when a cop called Alex Murphy is killed by a street gang. Murphy's body is reconstructed within a steel shell and named Robocop. The Robocop is very successful against criminals, and becomes a target of supervillian Boddicker(n)</desc>
 	</programme>
-	<programme start="20190105105000 +0000" stop="20190105111000 +0000" channel="Cinemax (East)">
+	<programme start="20190105135000 +0000" stop="20190105141000 +0000" channel="Cinemax (West)">
 		<title lang="en">See You Yesterday (2017)</title>
 		<desc lang="en">Two Brooklyn teenage prodigies build makeshift time machines to save one's brother from being wrongfully killed by a police officer(n)</desc>
 	</programme>
-	<programme start="20190105111000 +0000" stop="20190105132500 +0000" channel="Cinemax (East)">
+	<programme start="20190105141000 +0000" stop="20190105162500 +0000" channel="Cinemax (West)">
 		<title lang="en">Sphere (1998)</title>
 		<desc lang="en">Science fiction thriller in which a mysterious shimmering sphere is discovered in a spaceship which lies at the bottom of the ocean. Those who enter the ship find that their innermost thoughts are lent physical form. A group of investigating scientists become trapped inside the ship and soon find that they must overcome their deepest fears in order to survive. From a script by Michael Crichton(n)</desc>
 	</programme>
-	<programme start="20190105132500 +0000" stop="20190105150000 +0000" channel="Cinemax (East)">
+	<programme start="20190105162500 +0000" stop="20190105180000 +0000" channel="Cinemax (West)">
 		<title lang="en">Annie Hall (1977)</title>
 		<desc lang="en">Woody Allen cowrote and directed this Best Picture, and stars as a neurotic Jewish comedian and writer recounting the roller-coaster relationship he had with a kooky, WASPish aspiring singer. The film employs fantasy flashbacks, direct-to-camera monologues, subtitles and even a cartoon sequence to tell its tale(n)</desc>
 	</programme>
-	<programme start="20190105150000 +0000" stop="20190105165500 +0000" channel="Cinemax (East)">
+	<programme start="20190105180000 +0000" stop="20190105195500 +0000" channel="Cinemax (West)">
 		<title lang="en">Crazy Heart (2009)</title>
 		<desc lang="en">Jeff Bridges won the Best Actor Oscar as an alcoholic country star who's fallen on hard times. His tour now stops at bowling alleys and bars, and the booze is starting to compromise his health. But his life begins to turn around when he falls in love with a journalist (Best Supporting Actress nominee Maggie Gyllenhaal) and gets a call from a superstar protégé who asks him to write a new song(n)</desc>
 	</programme>
-	<programme start="20190105165500 +0000" stop="20190105185500 +0000" channel="Cinemax (East)">
+	<programme start="20190105195500 +0000" stop="20190105215500 +0000" channel="Cinemax (West)">
 		<title lang="en">The A-Team (2010)</title>
 		<desc lang="en">Director Joe Carnahan's big-screen take, co-produced by Tony and Ridley Scott, on the 80s TV series, which was an OTT action-fest that, at the same time, gloried in and poked fun at its tough-guy stars and their adventures. This time around, a little brasher and more serious than their first incarnation, the team of soldiers comprises the cigar-chomping Col 'Hannibal' Smith, the wilfully eccentric Murdock, toned babe-magnet Face and, of course, BA Baracus, who famously 'pities the fool', usually with more forceful fisticuffing than is strictly necessary. Our quartet starts out on the back foot, having been jailed after a black ops mission in Iraq went disastrously wrong. But, discovering they were framed and that a massive currency counterfeiting operation is afoot, it's time for them to break out of prison and prove their innocence by tracking down the baddies and saving the US dollar. And, of course, blowing up as many objects as possible along the way. Also featuring Jessica Biel as Face's former flame and Patrick Wilson as the team's CIA handler(n)</desc>
 	</programme>
-	<programme start="20190105185500 +0000" stop="20190105212000 +0000" channel="Cinemax (East)">
+	<programme start="20190105215500 +0000" stop="20190106002000 +0000" channel="Cinemax (West)">
 		<title lang="en">Red Sparrow (2018)</title>
 		<desc lang="en">After suffering a career-ending injury, a ballerina and her mother are facing a bleak and uncertain future. That is why she finds herself manipulated into becoming the newest recruit for Sparrow School, a secret intelligence service that trains exceptional young people like her to use their bodies and minds as weapons(n)</desc>
-	</programme>
-	<programme start="20190105212000 +0000" stop="20190105225500 +0000" channel="Cinemax (East)">
-		<title lang="en">The Forest (2016)</title>
-		<desc lang="en">Set in the Aokigahara Forest, which is a place where people commit suicides, a young American woman, Sara, is in search of her twin sister, who has mysteriously disappeared in the forest. Despite the warnings from the villagers, Sara travels into the ghost-filled forest to save her sister to discover the truth while being confronted by angry and tormented souls of the dead that prey on anyone who crosses their paths(n)</desc>
-	</programme>
-	<programme start="20190105225500 +0000" stop="20190106010000 +0000" channel="Cinemax (East)">
-		<title lang="en">Alien: Covenant (2017)</title>
-		<desc lang="en">After making an emergency landing on a seemingly idyllic world, a spaceship crew discover that the paradise contains a terrifying threat: the extraterrestrial predator known as the "xenomorph."(n)</desc>
 	</programme>
 	<programme start="20190104083500 +0000" stop="20190104101500 +0000" channel="More Max HDTV (East)">
 		<title lang="en">We Are Your Friends (2015)</title>
@@ -1457,185 +1457,186 @@
 		<title lang="en">The Notebook (2004)</title>
 		<desc lang="en">Allie Hamilton (Rachel McAdams) meets Noah Calhoun (Ryan Gosling) at a fair, while on vacation with his family in a coastal city. Just one look tells Noah that they are predestined to be together, but they are kept apart by the circumstances, both social (she is rich he is a factory worker) and historical (the Second World War). She returns years later, though now engaged to some one else. At the same time, the turbulent story is revived by a woman in an old people's home (Gena Rowlands), as a man reads to her from an old notebook…(n)</desc>
 	</programme>
-	<programme start="20190104070000 +0000" stop="20190104073000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104070000 +0000" stop="20190104073000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Sex and the City</title>
 		<desc lang="en">A friend's funeral prompts Carrie to resurrect her romance with Big (Chris Noth), and Miranda fears she might die after buying an apartment that induces panic attacks in her. Meanwhile, Sam is ostracized for going after a socialite's hubby, and Charlotte picks up a man at a cemetery. Josephina: Shannon Williams. Sandy: Felicity LaFortune. Dick: Michael DeVries(n)</desc>
 	</programme>
-	<programme start="20190104073000 +0000" stop="20190104080000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104073000 +0000" stop="20190104080000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Sex and the City</title>
 		<desc lang="en">Carrie tries to figure out what's going on after she and Mr. Big (Chris Noth) reconcile; Charlotte falls in with a squad of high-powered lesbians; Samantha gets worked over by her new personal trainer; and Miranda is forced to compete with her new guy's adult film fantasies. Miranda: Cynthia Nixon. Carrie: Sarah Jessica Parker. Charlotte: Kristin Davis(n)</desc>
 	</programme>
-	<programme start="20190104080000 +0000" stop="20190104083000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104080000 +0000" stop="20190104083000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Sex and the City</title>
 		<desc lang="en">The ladies become members of the wedding when two of Miranda's friends become the least likely of lovers. Carrie: Sarah Jessica Parker. Samantha: Kim Cattrall. Charlotte: Kristin Davis(n)</desc>
 	</programme>
-	<programme start="20190104083000 +0000" stop="20190104090000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104083000 +0000" stop="20190104090000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Sex and the City</title>
 		<desc lang="en">Could it be? Miranda finds something close to love with a nice guy. Meanwhile, Sam finds more than love when she beds a septuagenarian; and Carrie tries to figure out what's up with her newly revived fling with Mr. Big (Chris Noth). Carrie: Sarah Jessica Parker. Charlotte: Kristin Davis(n)</desc>
 	</programme>
-	<programme start="20190104090000 +0000" stop="20190104100000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104090000 +0000" stop="20190104100000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">After Nikki's shocking break up and calling off the wedding from her fiancé, John Cena, she leans on Brie, Bryan and the Bella Family for their unconditional support, all while preparing for the Bella Twins big return to the WWE 25th Anniversary of Monday Night Raw. Hearts are tested as Nikki runs into John Cena backstage(n)</desc>
 	</programme>
-	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">The twins make their WWE return in the first ever Women's Royal Rumble Match, but when their training is lacking, the sisters wonder if they have what it takes(n)</desc>
 	</programme>
-	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">After the news of their break up goes public, Nikki is caught off guard and confused by John Cena when he drops a life-altering bombshell to try to win her back. Meanwhile, Brie and Bryan pack up their home in Phoenix and leave Birdie with babysitter Nikki who is determined to show Brie how to be Supermom(n)</desc>
 	</programme>
-	<programme start="20190104120000 +0000" stop="20190104130000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104120000 +0000" stop="20190104130000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">With Nikki and John Cena back together, the wedding is back on and Nikki gets pushed to her limits as her family starts intervening on who should walk her down the aisle. Meanwhile, Brie and Bryan can't catch a break when their attempts to have a romantic date turn into total disasters(n)</desc>
 	</programme>
-	<programme start="20190104130000 +0000" stop="20190104140000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104130000 +0000" stop="20190104140000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">A 'Total Divas' spin-off offers a glimpse into Nikki and Brie Bella's life outside the ring with their significant others and family(n)</desc>
 	</programme>
-	<programme start="20190104140000 +0000" stop="20190104150000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104140000 +0000" stop="20190104150000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">Nikki plans the bachelorette of her dreams with her family and friends in Paris fit for a classy queen; however, Brie has other plans to liven up the party. Meanwhile, Nikki tries to hide her emotions and anxiety from the rest of the ladies about her upcoming wedding to John Cena(n)</desc>
 	</programme>
-	<programme start="20190104150000 +0000" stop="20190104160000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104150000 +0000" stop="20190104160000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">Nikki's Paris bachelorette continues and Brie pulls out all the stops to throw a masquerade ball. Meanwhile, after almost three years of seeing multiple medical specialists, Daniel Bryan finally learns the fate of his career with WWE(n)</desc>
 	</programme>
-	<programme start="20190104160000 +0000" stop="20190104170000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104160000 +0000" stop="20190104170000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Total Bellas</title>
 		<desc lang="en">In the Season 3 finale, the Bella twins jet off to New Orleans for an electrifying WrestleMania where Daniel Bryan makes his long-awaited return to the WWE ring. Meanwhile, Nicole realizes her dream of being Mrs. Cena may no longer be her happily ever after(n)</desc>
 	</programme>
-	<programme start="20190104170000 +0000" stop="20190104180000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104170000 +0000" stop="20190104180000 +0000" channel="E! Entertainment Television">
 		<title lang="en">E! News: Daily Pop</title>
 		<desc lang="en">Today: Brooke Burke joins us for a post-holiday workout(n)</desc>
 	</programme>
-	<programme start="20190104180000 +0000" stop="20190104183000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104180000 +0000" stop="20190104183000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">The fifth season begins with Kim reluctantly hosting a housewarming party in her new home after her mother talks her into it. Meanwhile, Kourtney considers moving out of Khloe's house because her sister won't let Scott visit(n)</desc>
 	</programme>
-	<programme start="20190104183000 +0000" stop="20190104190000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104183000 +0000" stop="20190104190000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">Kris sets Kim up on a blind date with an athlete; Khloe deals with the pressure of having Lamar in the basketball playoffs(n)</desc>
 	</programme>
-	<programme start="20190104190000 +0000" stop="20190104193000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104190000 +0000" stop="20190104193000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">Khloe loses her engagement ring and is afraid to tell Lamar about it(n)</desc>
 	</programme>
-	<programme start="20190104193000 +0000" stop="20190104200000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104193000 +0000" stop="20190104200000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">Kim develops a serious crush on her hot Australian bodyguard. Khloé helps Lamar to finally learn how to swim(n)</desc>
 	</programme>
-	<programme start="20190104200000 +0000" stop="20190104203000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104200000 +0000" stop="20190104203000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">Kim receives Botox injections because she is fearful of aging and has a bad physical reaction to it. Meanwhile, Kris is discovered smoking and Kourtney tries to get her to quit(n)</desc>
 	</programme>
-	<programme start="20190104203000 +0000" stop="20190104210000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104203000 +0000" stop="20190104210000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Keeping Up With the Kardashians</title>
 		<desc lang="en">Kourtney house hunts in New York City, while her family try to keep her in Los Angeles. Meanwhile, Bruce struggles with getting his dog neutered(n)</desc>
 	</programme>
-	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">The family settles into their new Nashville home; and Todd encroaches upon Savannah's independence. In other events, Grayson takes up wrestling(n)</desc>
 	</programme>
-	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104213000 +0000" stop="20190104220000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">The family prepares for the grand opening of their juice bar; and Faye tries to collect on a bet she made with Grayson(n)</desc>
 	</programme>
-	<programme start="20190104220000 +0000" stop="20190104223000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104220000 +0000" stop="20190104223000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">Chase is left in charge when Todd and Julie head to L.A. for Julie's liposuction procedure. Chase abuses his authority, however, which forces Todd to return home early(n)</desc>
 	</programme>
-	<programme start="20190104223000 +0000" stop="20190104230000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104223000 +0000" stop="20190104230000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">Todd takes the juice bar employees on a teambuilding excursion; Savannah and Chase have a disagreement; and Faye has a health scare(n)</desc>
 	</programme>
-	<programme start="20190104230000 +0000" stop="20190104233000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104230000 +0000" stop="20190104233000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">Todd sends Chase and Savannah to a goat farm so that they can learn the value of hard work(n)</desc>
 	</programme>
-	<programme start="20190104233000 +0000" stop="20190105000000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190104233000 +0000" stop="20190105000000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Chrisley Knows Best</title>
 		<desc lang="en">Todd tricks Julie into planning her own surprise birthday party and also works on a special song for her. Julie threatens to cancel the event, however, forcing him to turn to Savannah for help(n)</desc>
 	</programme>
-	<programme start="20190105000000 +0000" stop="20190105010000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105000000 +0000" stop="20190105010000 +0000" channel="E! Entertainment Television">
 		<title lang="en">E! News</title>
+		<desc lang="en">New interviews with Bradley Cooper and Melissa McCarthy. And we've got the weight loss secrets of the stars!(n)</desc>
 	</programme>
-	<programme start="20190105010000 +0000" stop="20190105030000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105010000 +0000" stop="20190105030000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Little Fockers (2010)</title>
 		<desc lang="en">After a decade of disappointment, Jack is starting to warm to Greg Focker. Now the parent of twins and hoping to prove his status as a family man, his son-in-law takes on a second job, leading to the misunderstanding that he is having an affair, and a showdown at his children's birthday party(n)</desc>
 	</programme>
-	<programme start="20190105030000 +0000" stop="20190105050000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105030000 +0000" stop="20190105050000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Little Fockers (2010)</title>
 		<desc lang="en">After a decade of disappointment, Jack is starting to warm to Greg Focker. Now the parent of twins and hoping to prove his status as a family man, his son-in-law takes on a second job, leading to the misunderstanding that he is having an affair, and a showdown at his children's birthday party(n)</desc>
 	</programme>
-	<programme start="20190105050000 +0000" stop="20190105050000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105050000 +0000" stop="20190105050000 +0000" channel="E! Entertainment Television">
 		<title lang="en">The Heartbreak Kid (2007)</title>
 		<desc lang="en">After a honeymooning newlywed realizes he's involved in a nightmarish marriage, he meets the woman of his dreams(n)</desc>
 	</programme>
-	<programme start="20190105050000 +0000" stop="20190105073000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105050000 +0000" stop="20190105073000 +0000" channel="E! Entertainment Television">
 		<title lang="en">The Heartbreak Kid (2007)</title>
 		<desc lang="en">After a honeymooning newlywed realizes he's involved in a nightmarish marriage, he meets the woman of his dreams(n)</desc>
 	</programme>
-	<programme start="20190105073000 +0000" stop="20190105080000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105073000 +0000" stop="20190105080000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A countdown of the top 10 most outrageous 'before and after' moments from Botched(n)</desc>
 	</programme>
-	<programme start="20190105080000 +0000" stop="20190105090000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105080000 +0000" stop="20190105090000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A celebrity impersonator wants to fix her saggy skin; Paul helps a woman with a potentially unfixable nose; and a patient requests a convertible implant for both a male and female option(n)</desc>
 	</programme>
-	<programme start="20190105090000 +0000" stop="20190105100000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105090000 +0000" stop="20190105100000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A transgender woman who got her rhinoplasty in Mexico now needs Dr. Nassif's help fixing her collapsed nose; Dr. Dubrow tries to correct a botched double mastectomy; and the docs meet with a U.K. patient who wants to look faker than fake(n)</desc>
 	</programme>
-	<programme start="20190105100000 +0000" stop="20190105110000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105100000 +0000" stop="20190105110000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">Terry operates on a cancer survivor whose gynaecologist performed her tummy tuck; a woman who has been teased about her nose since childhood undergoes reconstructive rhinoplasty; and a Brazilian "human doll" consults the doctors after botched chest implants leave him looking less than perfect(n)</desc>
 	</programme>
-	<programme start="20190105110000 +0000" stop="20190105120000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105110000 +0000" stop="20190105120000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A pop star impersonator visits the doctors after silicone injections left her with a dented chin; a young woman finally reveals her bad boob job to her mom after years of suffering; and a patient with a dented derriere seeks out the help of the doctors after beating cancer(n)</desc>
 	</programme>
-	<programme start="20190105120000 +0000" stop="20190105130000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105120000 +0000" stop="20190105130000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">The doctors take on a patient who nearly died after a mommy makeover gone wrong; a man plagued by his flat nose needs it fixed so he can propose; and a Supa Woman shows off her ass-ets(n)</desc>
 	</programme>
-	<programme start="20190105130000 +0000" stop="20190105140000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105130000 +0000" stop="20190105140000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">Terry and Paul get schooled on bimbofication. A high-risk patient seeks a seventh breast augmentation, and a twin undergoes nose surgery to look like his brother again(n)</desc>
 	</programme>
-	<programme start="20190105140000 +0000" stop="20190105150000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105140000 +0000" stop="20190105150000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A man who wants to be an elf will sacrifice his vision to look extra-terrestrial; an accident-prone woman hopes her 15th nose job is the charm; and a former body-builder needs help with some shifty implants(n)</desc>
 	</programme>
-	<programme start="20190105150000 +0000" stop="20190105160000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105150000 +0000" stop="20190105160000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">In the season finale, Paul and Terry help former music video vixen Tawny Kitaen get off the boob train. They also treat a heart-shaped nose and meet a Brazilian doll that wants a bigger butt(n)</desc>
 	</programme>
-	<programme start="20190105160000 +0000" stop="20190105170000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105160000 +0000" stop="20190105170000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">Tameka Harris and her best friend seek the help of Dr. Dubrow(n)</desc>
 	</programme>
-	<programme start="20190105170000 +0000" stop="20190105180000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105170000 +0000" stop="20190105180000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">Dr. Dubrow helps a woman who has gone to desperate measures to fix her breasts; Dr. Nassif takes on a patient whose surgeon poked a hole through her nose; and a plus-sized model on a mission for the world's biggest bum wants even larger breast implants(n)</desc>
 	</programme>
-	<programme start="20190105180000 +0000" stop="20190105190000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105180000 +0000" stop="20190105190000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A former reality TV star seeks a breast reduction after her boobs got huge on Snapchat and a young woman hopes to enlarge her cross-eyed breasts and start dating again. Meanwhile, Dr. Nassif helps a salon owner with a mutilated chin be the face of her business once again(n)</desc>
 	</programme>
-	<programme start="20190105190000 +0000" stop="20190105200000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105190000 +0000" stop="20190105200000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 		<desc lang="en">A pint-sized Irish model travels across the pond for larger breasts while the doctors help a woman who almost died from a nightmarish tummy tuck. A young father with a busted nose hopes the docs can give him a nose just like his daughter's(n)</desc>
 	</programme>
-	<programme start="20190105200000 +0000" stop="20190105210000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105200000 +0000" stop="20190105210000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
 	</programme>
-	<programme start="20190105210000 +0000" stop="20190105230000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105210000 +0000" stop="20190105230000 +0000" channel="E! Entertainment Television">
 		<title lang="en">The Wedding Ringer (2015)</title>
 		<desc lang="en">A socially awkward guy hires a professional best man to make his wedding a success. In time, their arrangement turns into a real friendship(n)</desc>
 	</programme>
-	<programme start="20190105230000 +0000" stop="20190106020000 +0000" channel="E! Entertainment Television Canada">
+	<programme start="20190105230000 +0000" stop="20190106020000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Bridesmaids (2011)</title>
 		<desc lang="en">Comic talent Kristen Wiig co-writes and stars in this comedy about a best friend of the bride, asked to be maid of honor, who must suddenly face off with a Bridesmaid-zilla who clearly wants to take over her job and her best friend status. Maya Rudolph, Rose Byrne, and Academy Award-nominee Jill Clayburgh also star(n)</desc>
 	</programme>
@@ -2631,7 +2632,6 @@
 	</programme>
 	<programme start="20190105030000 +0000" stop="20190105033000 +0000" channel="Fox Sports 1 HDTV">
 		<title lang="en">NFL Films Presents</title>
-		<desc lang="en">Highlighting three standout regular-season games from 2018(n)</desc>
 	</programme>
 	<programme start="20190105033000 +0000" stop="20190105040000 +0000" channel="Fox Sports 1 HDTV">
 		<title lang="en">NFL Turning Point</title>
@@ -3038,6 +3038,7 @@
 	</programme>
 	<programme start="20190104150000 +0000" stop="20190104153000 +0000" channel="NBA TV Canada">
 		<title lang="en">NBA Action</title>
+		<desc lang="en">A recap of the week in the NBA, featuring news and highlights. Also included is a rundown of the best and worst performers(n)</desc>
 	</programme>
 	<programme start="20190104153000 +0000" stop="20190104163000 +0000" channel="NBA TV Canada">
 		<title lang="en">Inside the NBA</title>
@@ -3532,6 +3533,7 @@
 	</programme>
 	<programme start="20190104100000 +0000" stop="20190104110000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190104110000 +0000" stop="20190104120000 +0000" channel="WWE Network">
 		<title lang="en">New Day's 2018 Super Spectacular</title>
@@ -3539,6 +3541,7 @@
 	</programme>
 	<programme start="20190104120000 +0000" stop="20190104130000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
+		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190104130000 +0000" stop="20190104140000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3558,10 +3561,10 @@
 	</programme>
 	<programme start="20190104190000 +0000" stop="20190104200000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190104200000 +0000" stop="20190104210000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190104210000 +0000" stop="20190104213000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
@@ -3596,6 +3599,7 @@
 	</programme>
 	<programme start="20190105030000 +0000" stop="20190105040000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
+		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190105040000 +0000" stop="20190105043000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
@@ -3609,10 +3613,10 @@
 	</programme>
 	<programme start="20190105050000 +0000" stop="20190105070000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT</title>
+		<desc lang="en">Showcasing WWE's brightest young talent as they battle to become superstars and divas of tomorrow(n)</desc>
 	</programme>
 	<programme start="20190105070000 +0000" stop="20190105073000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105073000 +0000" stop="20190105080000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3627,6 +3631,7 @@
 	</programme>
 	<programme start="20190105100000 +0000" stop="20190105110000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105110000 +0000" stop="20190105120000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
@@ -3634,14 +3639,13 @@
 	</programme>
 	<programme start="20190105120000 +0000" stop="20190105130000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105130000 +0000" stop="20190105140000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105140000 +0000" stop="20190105143000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105143000 +0000" stop="20190105150000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3656,6 +3660,7 @@
 	</programme>
 	<programme start="20190105170000 +0000" stop="20190105180000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105180000 +0000" stop="20190105183000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
@@ -3670,15 +3675,12 @@
 	</programme>
 	<programme start="20190105200000 +0000" stop="20190105210000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105210000 +0000" stop="20190105220000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105220000 +0000" stop="20190105223000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105223000 +0000" stop="20190105230000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3686,6 +3688,7 @@
 	</programme>
 	<programme start="20190105230000 +0000" stop="20190106000000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190104080000 +0000" stop="20190104090000 +0000" channel="Animal Planet HDTV (East)">
 		<title lang="en">The Zoo</title>
@@ -4871,7 +4874,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20190105120000 +0000" stop="20190105123000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Paid Programming</title>
+		<title lang="en">Paid Programming (?)</title>
 		<desc lang="en">Paid Programming(n)</desc>
 		<star-rating>
 			<value>5.0</value>
@@ -5282,6 +5285,7 @@
 	</programme>
 	<programme start="20190105170000 +0000" stop="20190105173000 +0000" channel="Velocity HDTV">
 		<title lang="en">Live, Love, Wrench</title>
+		<desc lang="en">Emily and Aaron install new suspension parts on a 1984 Grand National. Upon further investigation, they learn that this powerful car is not the average Buick(n)</desc>
 	</programme>
 	<programme start="20190105173000 +0000" stop="20190105180000 +0000" channel="Velocity HDTV">
 		<title lang="en">Live, Love, Wrench</title>
