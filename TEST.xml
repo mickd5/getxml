@@ -16,6 +16,10 @@
 		<display-name lang="en">ThrillerMAX HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
+	<channel id="EPIX HDTV (East)">
+		<display-name lang="en">EPIX HDTV (East)</display-name>
+		<url>http://www.us.yo.tv</url>
+	</channel>
 	<channel id="HBO Family HDTV (East)">
 		<display-name lang="en">HBO Family HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
@@ -64,9 +68,9 @@
 		<display-name lang="en">Hallmark Channel (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
-	<channel id="Lifetime Canada HDTV">
-		<display-name lang="en">Lifetime Canada HDTV</display-name>
-		<url>http://www.yo.tv</url>
+	<channel id="Lifetime Television HDTV (East)">
+		<display-name lang="en">Lifetime Television HDTV (East)</display-name>
+		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="Hallmark Drama (East)">
 		<display-name lang="en">Hallmark Drama (East)</display-name>
@@ -499,6 +503,110 @@
 		<title lang="en">Collateral (2004)</title>
 		<desc lang="en">A character study-turned-thriller about a cabdriver who ferries a hit man on a late-night killing spree in Los Angeles. Foxx was nominated for Best Supporting Actor(n)</desc>
 	</programme>
+	<programme start="20190105090000 +0000" stop="20190105110500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Wild at Heart (1990)</title>
+		<desc lang="en">Director David Lynch's bizarre story of lovers fleeing a hit man hired by the woman's mother(n)</desc>
+	</programme>
+	<programme start="20190105110500 +0000" stop="20190105113500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Personal with Bill Rhoden</title>
+		<desc lang="en">Boxer Oscar De La Hoya(n)</desc>
+	</programme>
+	<programme start="20190105113500 +0000" stop="20190105132000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">All Is Lost (2013)</title>
+		<desc lang="en">A solitary mariner struggles to survive in the Indian Ocean as his damaged sailboat begins to sink and his radio equipment fails. Later, after inadvertently sailing into a storm, he attempts to locate a shipping route in hopes of being rescued(n)</desc>
+	</programme>
+	<programme start="20190105132000 +0000" stop="20190105150500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Monster Trucks (2016)</title>
+		<desc lang="en">A high schooler named Tripp befriends an otherworldly creature, which is able to crawl inside his pickup truck and act as a supercharged engine. Soon enough, the duo must work together to stop an oil company from wreaking havoc on their town(n)</desc>
+	</programme>
+	<programme start="20190105150500 +0000" stop="20190105165000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Pet Sematary (1989)</title>
+		<desc lang="en">Stephen King's tale about a doctor who unearths an ancient burial ground with resurrecting powers. Despite interdimensional cautioning, the doctor secretly reanimates his dead cat, but that's only the beginning(n)</desc>
+	</programme>
+	<programme start="20190105165000 +0000" stop="20190105183000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Hours (2013)</title>
+		<desc lang="en">A New Orleans father must protect his prematurely born daughter in the midst of Hurricane Katrina. As the hospital loses power and patients are evacuated, he faces a series of difficult decisions in an attempt to save her from certain death(n)</desc>
+	</programme>
+	<programme start="20190105183000 +0000" stop="20190105201500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">The Running Man (1987)</title>
+		<desc lang="en">Set in a totalitarian society. Ben Richards is a cop who was blamed for a massacre which wasn't his fault. He would be sent to prison and breaks out with some other inmates. He tries to escape but the woman whom he dragged into his plan turns him over to the authorities. Damon Killian, who is the host of THE RUNNING MAN a game show wherein convicted felons are given the chance to run to freedom but have to elude the stalkers; men who hunt them down and kill them in gruesome manners. When he learns that Richards has been caught, he wants him to be the show's next contestant. After being brought to Killian, Richards turns him down, Killian then reveals to Richards that his two friends who were in prison with him and who broke out with him have been caught, so unless Richards does the show they will. But on the night of the show, Richards is set to go but Killian also reveals that Richards' two friends are going with him. Richards tells Killian that he will be back. But first !(n)</desc>
+	</programme>
+	<programme start="20190105201500 +0000" stop="20190105215000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Stephen King's 'Silver Bullet' (1985)</title>
+		<desc lang="en">A werewolf terrorizes a small town that seemingly has no way to stop the killing machine until a wheelchair-bound boy accidentally pierces the creature with some fireworks(n)</desc>
+	</programme>
+	<programme start="20190105215000 +0000" stop="20190105233000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Daybreakers (2009)</title>
+		<desc lang="en">In a futuristic world overrun by vampires, a renegade bloodsucker assists the remaining human refugees. Meanwhile, vampire-run corporations try to develop a viable substitute for blood before their supply runs out(n)</desc>
+	</programme>
+	<programme start="20190105233000 +0000" stop="20190106010000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Paranormal Activity (2007)</title>
+		<desc lang="en">After a young, middle class couple moves into a suburban 'starter' tract house, they become increasingly disturbed by a presence that may or may not be somehow demonic but is certainly most active in the middle of the night. Especially when they sleep. Or try to(n)</desc>
+	</programme>
+	<programme start="20190106010000 +0000" stop="20190106023000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">A Quiet Place (2018)</title>
+		<desc lang="en">A family live in complete silence to avoid being eaten by creatures that hunt through sound. The two parents, their son and deaf daughter all communicate through sign language, and must come up with ingenious ways to outsmart the blind monsters, in order to stay alive(n)</desc>
+	</programme>
+	<programme start="20190106023000 +0000" stop="20190106040000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">A Quiet Place (2018)</title>
+		<desc lang="en">A family live in complete silence to avoid being eaten by creatures that hunt through sound. The two parents, their son and deaf daughter all communicate through sign language, and must come up with ingenious ways to outsmart the blind monsters, in order to stay alive(n)</desc>
+	</programme>
+	<programme start="20190106040000 +0000" stop="20190106053500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Jigsaw (2017)</title>
+		<desc lang="en">Sadistic serial killer Jigsaw is back to his old tricks, despite his apparent death a decade earlier. As his new victims fight to survive his twisted games, the police must solve Jigsaw's strange clues and deal with the improbability of his return(n)</desc>
+	</programme>
+	<programme start="20190106053500 +0000" stop="20190106053500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">The Devil Inside (2012)</title>
+		<desc lang="en">A woman (Fernanda Andrade) discovers that her mother was undergoing an exorcism when she committed three murders, and she travels to Italy with a documentary crew to uncover the full truth of what happened(n)</desc>
+	</programme>
+	<programme start="20190106053500 +0000" stop="20190106070000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">The Devil Inside (2012)</title>
+		<desc lang="en">A woman (Fernanda Andrade) discovers that her mother was undergoing an exorcism when she committed three murders, and she travels to Italy with a documentary crew to uncover the full truth of what happened(n)</desc>
+	</programme>
+	<programme start="20190106070000 +0000" stop="20190106090000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Acrimony (2018)</title>
+		<desc lang="en">Melinda supports her unfaithful husband for 18 years as he tries to make it as an inventor, but he seemingly replaces her with a new fiancée just as he finally finds success. Enraged and unhinged, Melinda plots her elaborate, violent revenge against those who wronged her(n)</desc>
+	</programme>
+	<programme start="20190106090000 +0000" stop="20190106093000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Unprotected Sets</title>
+		<desc lang="en">Zainab Johnson finds her way to the comedy stage after her stint at WNBA(n)</desc>
+	</programme>
+	<programme start="20190106093000 +0000" stop="20190106112500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Ulee's Gold (1997)</title>
+		<desc lang="en">Peter Fonda's subtle performance guides Victor Nunez's simple tale about a widowed beekeeper who must care for his granddaughters when his son is jailed. Connie: Patricia Richardson. Helen: Christine Dunford. Casey: Jessica Biel. Penny: Vanessa Zima(n)</desc>
+	</programme>
+	<programme start="20190106112500 +0000" stop="20190106120000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">The Captains Close-Up</title>
+		<desc lang="en">Featured: Avery Brooks(n)</desc>
+	</programme>
+	<programme start="20190106120000 +0000" stop="20190106140000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Sweeney Todd: The Demon Barber of Fleet Street (2007)</title>
+		<desc lang="en">Embittered at having been wrongly imprisoned and determined to seek vengeance against his accusers due to the fate that befell his wife and daughter while he was incarcerated, ex-convict Sweeney Todd returns to his hometown and opens a barber shop. But this cuttery features far worse options than a shave and a haircut(n)</desc>
+	</programme>
+	<programme start="20190106140000 +0000" stop="20190106153500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">A Quiet Place (2018)</title>
+		<desc lang="en">A family live in complete silence to avoid being eaten by creatures that hunt through sound. The two parents, their son and deaf daughter all communicate through sign language, and must come up with ingenious ways to outsmart the blind monsters, in order to stay alive(n)</desc>
+	</programme>
+	<programme start="20190106153500 +0000" stop="20190106170500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Transpecos (2016)</title>
+		<desc lang="en">Three U.S. Border Patrol agents face the ultimate test of their loyalty to each other during a sweltering day on the job in which the inspection of a vehicle returning to the United States goes awry. Now, the trio must defy the law in order to do right by one of their own(n)</desc>
+	</programme>
+	<programme start="20190106170500 +0000" stop="20190106190500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Dark Blue (2002)</title>
+		<desc lang="en">Based on a story by James Ellroy, a morally-bankrupt cop has a change of heart in the days leading up to the 1992 L.A. riots. Perry has a tendency to bend the law to get his man, but draws the line when his superior pulls him into a scheme to get two career criminals off the streets(n)</desc>
+	</programme>
+	<programme start="20190106190500 +0000" stop="20190106204000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">The Domestics (2018)</title>
+		<desc lang="en">In a post-apocalyptic world, young couple Mark and Nina journey through a mid-western wasteland as they try to make it home in one piece. They fight to survive, but the odds are against them because the land they have to travel through is dominated by gangs(n)</desc>
+	</programme>
+	<programme start="20190106204000 +0000" stop="20190106222500 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">Harry Brown (2009)</title>
+		<desc lang="en">Crime drama about an elderly ex-Marine who rediscovers his killer instinct when his best friend is murdered. Living on a bleak, drug-flooded south London estate, Harry Brown is wrenched from his quiet existence by the actions of young gangs when his only companion, a fellow pensioner, is brutally stabbed. Resolving to exact a violent revenge, he begins picking off the thugs responsible one by one. Meanwhile, the police are planning a massive raid of the gang's estate and tensions rise as Harry's vigilante mission spirals out of hand(n)</desc>
+	</programme>
+	<programme start="20190106222500 +0000" stop="20190107000000 +0000" channel="EPIX HDTV (East)">
+		<title lang="en">From Paris With Love (2010)</title>
+		<desc lang="en">CIA agent James Reece has a cushy desk job but dreams of a life in the field. When the agency offers him his first big-time assignment, he must team up with lone wolf Charlie Wax to stop a terrorist bombing. Although James finds himself in way over his head, he soon realizes that he must trust Charlie if he wants to become a man of action and save his own life(n)</desc>
+	</programme>
 	<programme start="20190105081000 +0000" stop="20190105095000 +0000" channel="HBO Family HDTV (East)">
 		<title lang="en">The Shaggy Dog (2006)</title>
 		<desc lang="en">A workaholic lawyer learns to be a better man and a more-caring father when he is magically transformed into a canine in this remake of the 1959 Disney fantasy(n)</desc>
@@ -808,7 +916,7 @@
 		<desc lang="en">Post-apocalyptic action about a solitary warrior who fights to protect the last known copy of a powerful book. Decades after a nuclear war, a lone man calling himself Eli trudges through the dilapidated cities and scorched wilderness of America, carrying his copy of the Bible, a sacred book that provides 'contentment for the weak-minded'. On an odyssey to bring the text to a sacred place, Eli brings God's wrath down on the robbers, murderers and rapists who lie in wait along the highways. Driven by faith and divine calling, Eli's endeavour becomes harder when he meets the power-hungry Carnegie, who tutors an army of psychopathic rogues and gunmen in a small town. Hoping to steal the book he believes is his last chance to rule what is left of humanity, Carnegie sets out to catch Eli, while Carnegie's step-daughter also follows Eli on his quest. As Carnegie and his henchmen hunt Eli down, they soon discover what a powerful and fearsome adversary he really is(n)</desc>
 	</programme>
 	<programme start="20190105224000 +0000" stop="20190106004000 +0000" channel="HBO Zone HDTV (East)">
-		<title lang="en">Lara Croft Tomb Raider: The Cradle of Life</title>
+		<title lang="en">Lara Croft Tomb Raider: The Cradle of Life (2003)</title>
 		<desc lang="en">In this sequel to Lara Croft: Tomb Raider, British archaeologist Lara Croft (Angelina Jolie) has made an important archaeological discovery: an orb that leads to the mythical Pandora's Box. Unfortunately, mad scientist Jonathan Reiss is also after the box willing to open it as his ultimate weapon. Recruited by British Intelligence, Croft will go into a journey that includes Hong Kong, Kenya, Tanzania, Greece and China, to stop the evil Reiss and save the world(n)</desc>
 	</programme>
 	<programme start="20190106004000 +0000" stop="20190106030000 +0000" channel="HBO Zone HDTV (East)">
@@ -1499,8 +1607,8 @@
 		<desc lang="en">Dr. Dubrow helps a woman who has gone to desperate measures to fix her breasts; Dr. Nassif takes on a patient whose surgeon poked a hole through her nose; and a plus-sized model on a mission for the world's biggest bum wants even larger breast implants(n)</desc>
 	</programme>
 	<programme start="20190106130000 +0000" stop="20190106140000 +0000" channel="E! Entertainment Television">
-		<title lang="en">Very Cavallari</title>
-		<desc lang="en">Kristin struggles to keep control as the chaotic rivalry between Brittainy and Shannon continues. Jay blindsides Kristin when he announces he wants to buy a new house. Shannon and Gurney's relationship is put to the test with a drunken Sunday(n)</desc>
+		<title lang="en">Botched</title>
+		<desc lang="en">Tameka Harris and her best friend seek the help of Dr. Dubrow(n)</desc>
 	</programme>
 	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Very Cavallari</title>
@@ -1643,6 +1751,7 @@
 	</programme>
 	<programme start="20190106120000 +0000" stop="20190106123000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">grown-ish</title>
+		<desc lang="en">Zoey and the gang return for their sophomore year, and Zoey is determined that her sequel be better than the original(n)</desc>
 	</programme>
 	<programme start="20190106123000 +0000" stop="20190106143000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">Garfield (2004)</title>
@@ -1934,264 +2043,188 @@
 	<programme start="20190106230000 +0000" stop="20190107010000 +0000" channel="Hallmark Channel (East)">
 		<title lang="en">Winter Castle (2019)</title>
 	</programme>
-	<programme start="20190105060000 +0000" stop="20190105070000 +0000" channel="Lifetime Canada HDTV">
+	<programme start="20190105070400 +0000" stop="20190105080400 +0000" channel="Lifetime Television HDTV (East)">
 		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190105070000 +0000" stop="20190105080000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Chicago Fire</title>
-		<sub-title lang="en">Pilot</sub-title>
-		<desc lang="en">A fire claims the life of a team member in the premiere of this drama series following the firefighters, paramedics and rescue squad of Chicago Firehouse 51. Following the tragedy, Lieutenant Matthew Casey and Lieutenant Kelly Severide point fingers at one another. Casey also deals with personal dramas surrounding his separation from his wife, Hallie(n)</desc>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
-	</programme>
-	<programme start="20190105080000 +0000" stop="20190105090000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Hawaii Five-0</title>
-		<sub-title lang="en">He pūkoʻa kani ʻāina (A Coral Reef Strengthens Out Into Land)</sub-title>
-		<desc lang="en">McGarrett and Danny investigate the murder of a private detective whose client was killed the same way, and Adam sends Jessie into a dangerous situation with disastrous consequences. Also, Danny's uncle, Vito, comes to town to help Danny and McGarrett get their restaurant up and running(n)</desc>
-		<icon src="https://i.yo.tv/images/9/32798/s/2b2779e6bc1ab726c82387aa69299d6c.jpg"/>
-		<episode-num system="xmltv_ns">7.15.</episode-num>
-	</programme>
-	<programme start="20190105090000 +0000" stop="20190105100000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Hawaii Five-0</title>
-		<sub-title lang="en">O nā hōkū o ka lani wale no kai 'ike i kahi o Pae (Only the Stars of Heaven Know Where Pae Is)</sub-title>
-		<desc lang="en">Tani and Junior go undercover as prospective parents in order to infiltrate a private school where the headmaster was murdered. Also, Adam's life is on the line when he is held captive and forced to produce a hidden massive amount of money(n)</desc>
-		<icon src="https://i.yo.tv/images/9/32798/s/2b2779e6bc1ab726c82387aa69299d6c.jpg"/>
-		<episode-num system="xmltv_ns">7.15.</episode-num>
-	</programme>
-	<programme start="20190105100000 +0000" stop="20190105110000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Dance Moms</title>
-		<sub-title lang="en">New Kid on the Block</sub-title>
-		<desc lang="en">Abby brings in a new dancer with an eccentric mom and assigns her a challenging trio with two minis. Later, Abby encourages Brynn to be a leader; and the team's moms fear a hip-hop routine will bring the ALDC's winning streak to an end(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt6241790/s/55f3e27bb437d77be2793d391896dfb0.jpg"/>
-		<episode-num system="xmltv_ns">6.4.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190105110000 +0000" stop="20190105120000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Cheer Squad</title>
-		<sub-title lang="en">Desperate Measures</sub-title>
-		<desc lang="en">A looming showcase leads Ali to recruit a former star. Later, the veterans take team building to the extreme; and the twins attempt to help Nubs prepare for her prom(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt6805638/s/39a486df32d7b1293572a44b338386b1.jpg"/>
-		<episode-num system="xmltv_ns">0.5.</episode-num>
-	</programme>
-	<programme start="20190105120000 +0000" stop="20190105130000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Private Eyes</title>
-		<sub-title lang="en">The Devil's Playground</sub-title>
-		<desc lang="en">Shade and Angie search for an arsonist responsible for torching the home of an inclusive literary icon, whose upcoming novel threatens to expose the secrets of a seemingly idyllic community of creative types(n)</desc>
-		<icon src="https://i.yo.tv/images/9/66599-1-4/s/dfd22d31521e0165864c590725810d43.jpg"/>
-		<episode-num system="xmltv_ns">0.3.</episode-num>
-	</programme>
-	<programme start="20190105130000 +0000" stop="20190105150000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Reluctant Witness (2014)</title>
-		<desc lang="en">Thriller about a former gangster's moll whose past comes back to haunt her. Placed in a witness protection programme, she thinks that she has left her mob ties behind. But when the man she thought she had killed shows up with a new identity and looking for revenge, she must protect her new life and new family(n)</desc>
-		<credits>
-			<actor>Monika Mitchell</actor>
-			<actor>Roslyn Muir</actor>
-			<actor>Mia Kirshner</actor>
-			<actor>Paul McGillion</actor>
-			<actor>Madeleine Arthur</actor>
-			<actor>James Kirk</actor>
-			<actor>Bruce Ramsay</actor>
-			<actor>John Cassini</actor>
-			<actor>Venus Terzo</actor>
-			<actor>Jenn MacLean-Angus</actor>
-		</credits>
-		<date>2014</date>
-		<category lang="en">Film</category>
-	</programme>
-	<programme start="20190105150000 +0000" stop="20190105160000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Hawaii Five-0</title>
-		<sub-title lang="en">He pūkoʻa kani ʻāina (A Coral Reef Strengthens Out Into Land)</sub-title>
-		<desc lang="en">McGarrett and Danny investigate the murder of a private detective whose client was killed the same way, and Adam sends Jessie into a dangerous situation with disastrous consequences. Also, Danny's uncle, Vito, comes to town to help Danny and McGarrett get their restaurant up and running(n)</desc>
-		<icon src="https://i.yo.tv/images/9/32798/s/2b2779e6bc1ab726c82387aa69299d6c.jpg"/>
-		<episode-num system="xmltv_ns">7.15.</episode-num>
-	</programme>
-	<programme start="20190105160000 +0000" stop="20190105170000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Chicago Fire</title>
-		<sub-title lang="en">Pilot</sub-title>
-		<desc lang="en">A fire claims the life of a team member in the premiere of this drama series following the firefighters, paramedics and rescue squad of Chicago Firehouse 51. Following the tragedy, Lieutenant Matthew Casey and Lieutenant Kelly Severide point fingers at one another. Casey also deals with personal dramas surrounding his separation from his wife, Hallie(n)</desc>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
-	</programme>
-	<programme start="20190105170000 +0000" stop="20190105190000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">A Tale of Two Coreys (2018)</title>
-		<desc lang="en">A dramatization of the relationship between Corey Feldman and Corey Haim, including the start of their friendship during the '80s, their struggles with drugs and partying, and the untimely death of Haim in 2010(n)</desc>
-		<date>2018</date>
-		<category lang="en">Film</category>
-	</programme>
-	<programme start="20190105190000 +0000" stop="20190105210000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">I Am Elizabeth Smart (2017)</title>
-		<desc lang="en">A retelling of Elizabeth Smart's abduction from her Salt Lake City home by a religious fanatic who starved, drugged, raped and subjected her to bizarre religious rituals until she enabled her own rescue nine months later. Narrated by Elizabeth Smart(n)</desc>
-		<date>2017</date>
-		<category lang="en">Film</category>
-	</programme>
-	<programme start="20190105210000 +0000" stop="20190105230000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Love by the 10th Date (2017)</title>
-		<desc lang="en">The romantic adventures of four women who work for an upscale website in Los Angeles are chronicled, as they attempt to balance their demanding careers, friendships and love lives(n)</desc>
-		<date>2017</date>
-		<category lang="en">Film</category>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190105230000 +0000" stop="20190106010000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">A Tale of Two Coreys (2018)</title>
-		<desc lang="en">A dramatization of the relationship between Corey Feldman and Corey Haim, including the start of their friendship during the '80s, their struggles with drugs and partying, and the untimely death of Haim in 2010(n)</desc>
-		<date>2018</date>
-		<category lang="en">Film</category>
-	</programme>
-	<programme start="20190106010000 +0000" stop="20190106020000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">NCIS: Los Angeles</title>
-		<sub-title lang="en">Los Angeles. Sans Voir</sub-title>
-		<desc lang="en">The first of an explosive two-part finale kicks off. Callen and co are lured into a deadly game of cat and mouse when the Chameleon returns(n)</desc>
-		<icon src="https://i.yo.tv/p/se/d35662/s/94D997253D718C9ACE0C7F35CB2EB154.jpg"/>
-		<episode-num system="xmltv_ns">2.23.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190106020000 +0000" stop="20190106030000 +0000" channel="Lifetime Canada HDTV">
+	<programme start="20190105080400 +0000" stop="20190105090200 +0000" channel="Lifetime Television HDTV (East)">
 		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106030000 +0000" stop="20190106040000 +0000" channel="Lifetime Canada HDTV">
+	<programme start="20190105090200 +0000" stop="20190105093200 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Crepe Erase</title>
+		<desc lang="en">What is crepey skin? It's skin that has lost firmness, elasticity and moisture with age. Now, Jane Seymour and Dr. Ordon show you how you can visibly treat and repair the look of crepey skin. www.TryCENow.com(n)</desc>
+	</programme>
+	<programme start="20190105093200 +0000" stop="20190105100000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190105100000 +0000" stop="20190105103200 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Dancer's Body Secret</title>
+		<desc lang="en">Improve flexibility, core strength, and joint stability right in the comfort of your home!(n)</desc>
+	</programme>
+	<programme start="20190105103200 +0000" stop="20190105110000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190105110000 +0000" stop="20190105113000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Cop Cam</title>
+		<desc lang="en">The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything!(n)</desc>
+	</programme>
+	<programme start="20190105113000 +0000" stop="20190105120000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Try 3 Week Yoga Retreat Now</title>
+		<desc lang="en">Master yoga right in the comfort of your home in just 21 days with 3 Week Yoga Retreat. Yoga can help improve strength, muscle tone, balance, flexibility and so much more! Brought to you by Beachbody(n)</desc>
+	</programme>
+	<programme start="20190105120000 +0000" stop="20190105123000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Power Smokeless Grill</title>
+		<desc lang="en">Authentic, Char-Grilled Meals Indoors Without All The Smoke!(n)</desc>
+	</programme>
+	<programme start="20190105123000 +0000" stop="20190105130000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190105130000 +0000" stop="20190105133000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190105133000 +0000" stop="20190105140000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190105140000 +0000" stop="20190105143000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
+		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you – with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen(n)</desc>
+	</programme>
+	<programme start="20190105143000 +0000" stop="20190105150000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">No more wrinkles! Say ByeBye now and look younger</title>
+		<desc lang="en">Look younger with revolutionary ByeBye Foundation. Corrects and protects your skin with an anti-aging moisturizer clinically shown to help make your skin better even after you take it off. It covers flaws, but looks like you are wearing nothing at all!(n)</desc>
+	</programme>
+	<programme start="20190105150000 +0000" stop="20190105153000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">5 Makeup Tips 4 You</title>
+		<desc lang="en">Airbrushed makeup made easy!(n)</desc>
+	</programme>
+	<programme start="20190105153000 +0000" stop="20190105160000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Cold Plasma Sub-D by Nicholas Perricone, M.D</title>
+		<desc lang="en">Does your neck make you look years older? Look dramatically younger with a visibly firmer, smoother, sexier neck! Courtney Thorne-Smith unveils Cold Plasma Sub-D by Perricone MD. Buy it and get Dr. Perricone's exclusive mask and eye serum for FREE!(n)</desc>
+	</programme>
+	<programme start="20190105160000 +0000" stop="20190105170000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Married at First Sight</title>
+	</programme>
+	<programme start="20190105170000 +0000" stop="20190105200000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">The Help (2011)</title>
+		<desc lang="en">A débutante in 1960s Mississippi sends her community into an uproar by conducting a series of probing interviews with the African-American female servants of the area's most-prominent families(n)</desc>
+	</programme>
+	<programme start="20190105200000 +0000" stop="20190105220000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Diary of a Mad Black Woman (2005)</title>
+		<desc lang="en">After her divorce, a woman tries to piece together her life with help from her sassy, gun-toting granny(n)</desc>
+	</programme>
+	<programme start="20190105220000 +0000" stop="20190105230000 +0000" channel="Lifetime Television HDTV (East)">
 		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106040000 +0000" stop="20190106050000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">NCIS: Los Angeles</title>
-		<sub-title lang="en">Los Angeles. Sans Voir</sub-title>
-		<desc lang="en">The first of an explosive two-part finale kicks off. Callen and co are lured into a deadly game of cat and mouse when the Chameleon returns(n)</desc>
-		<icon src="https://i.yo.tv/p/se/d35662/s/94D997253D718C9ACE0C7F35CB2EB154.jpg"/>
-		<episode-num system="xmltv_ns">2.23.</episode-num>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190106050000 +0000" stop="20190106060000 +0000" channel="Lifetime Canada HDTV">
+	<programme start="20190105230000 +0000" stop="20190106000000 +0000" channel="Lifetime Television HDTV (East)">
 		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106060000 +0000" stop="20190106070000 +0000" channel="Lifetime Canada HDTV">
+	<programme start="20190106000000 +0000" stop="20190106010000 +0000" channel="Lifetime Television HDTV (East)">
 		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106070000 +0000" stop="20190106090000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">I Am Elizabeth Smart (2017)</title>
-		<desc lang="en">A retelling of Elizabeth Smart's abduction from her Salt Lake City home by a religious fanatic who starved, drugged, raped and subjected her to bizarre religious rituals until she enabled her own rescue nine months later. Narrated by Elizabeth Smart(n)</desc>
-		<date>2017</date>
-		<category lang="en">Film</category>
+	<programme start="20190106010000 +0000" stop="20190106020000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106090000 +0000" stop="20190106110000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Love by the 10th Date (2017)</title>
-		<desc lang="en">The romantic adventures of four women who work for an upscale website in Los Angeles are chronicled, as they attempt to balance their demanding careers, friendships and love lives(n)</desc>
-		<date>2017</date>
-		<category lang="en">Film</category>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190106020000 +0000" stop="20190106030300 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106110000 +0000" stop="20190106120000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Cheer Squad</title>
-		<sub-title lang="en">Texas Stars</sub-title>
-		<desc lang="en">The Sharks defend their title at a huge cheer event in Dallas. Later, the twins challenge Knoxy to their own high-stakes competition; and Dani's surprised by unexpected guests(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt6805662/s/ff063ea374fabc80be39647078e3e6b4.jpg"/>
-		<episode-num system="xmltv_ns">0.6.</episode-num>
+	<programme start="20190106030300 +0000" stop="20190106041300 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106120000 +0000" stop="20190106130000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Private Eyes</title>
-		<sub-title lang="en">The Six</sub-title>
-		<desc lang="en">Shade and Angie navigate Toronto's hip-hop scene while trying to protect a 14-year-old witness to a violent nightclub shooting. Meanwhile, Shade struggles to keep a promise to his daughter; and drives himself crazy trying to figure out who is Angie's mystery man(n)</desc>
-		<icon src="https://i.yo.tv/images/9/66599-1-5/s/9dd34aeafddff091cd9547e8c0235985.jpg"/>
-		<episode-num system="xmltv_ns">0.4.</episode-num>
+	<programme start="20190106041300 +0000" stop="20190106050100 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106130000 +0000" stop="20190106150000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Dear Viola (2014)</title>
-		<desc lang="en">An accountant becomes the author of a local advice column and tries to help a lonely widower who's seeking romance, and before long, the whole town becomes intrigued with the widower's love life(n)</desc>
-		<credits>
-			<actor>Laurie Lynd</actor>
-			<actor>Lee Rose</actor>
-			<actor>Kathleen McGhee-Anderson</actor>
-			<actor>Kellie Martin</actor>
-			<actor>Jefferson Brown</actor>
-			<actor>Jackie Richardson</actor>
-			<actor>Kira Gelineau</actor>
-			<actor>Arnold Pinnock</actor>
-			<actor>Adamo Ruggiero</actor>
-			<actor>Robinne Fanfair</actor>
-		</credits>
-		<date>2014</date>
-		<category lang="en">Film</category>
+	<programme start="20190106050100 +0000" stop="20190106050100 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106150000 +0000" stop="20190106170000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Stolen From the Womb (2014)</title>
-		<desc lang="en">A pregnant woman is kidnapped and given a labor-inducing drug by a desperate woman unable to have a baby. When the child is delivered the woman flees with the newborn, who has a rare congenital condition that requires immediate treatment(n)</desc>
-		<credits>
-			<actor>Terry Ingram</actor>
-			<actor>Jennifer Notas Shapiro</actor>
-			<actor>Adam Abrams</actor>
-			<actor>Jeb Beach</actor>
-			<actor>Heather Feeney</actor>
-			<actor>Larisa Oleynik</actor>
-			<actor>Laura Mennell</actor>
-			<actor>Sebastian Spence</actor>
-			<actor>Tammy Gillis</actor>
-			<actor>Corey Sevier</actor>
-		</credits>
-		<date>2014</date>
-		<category lang="en">Film</category>
+	<programme start="20190106050100 +0000" stop="20190106060100 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106170000 +0000" stop="20190106190000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">I Don't Know How She Does It (2011)</title>
-		<desc lang="en">Working mother Kate (Sarah Jessica Parker) strives to balance her demanding career with the stress of raising two young children and maintaining her marriage. Later, she is tempted by a colleague, while her out-of-work husband gets a lucrative job offer(n)</desc>
-		<credits>
-			<actor>Douglas McGrath</actor>
-			<actor>Aline Brosh McKenna</actor>
-			<actor>Allison Pearson</actor>
-			<actor>Sarah Jessica Parker</actor>
-			<actor>Pierce Brosnan</actor>
-			<actor>Sarah Shahi</actor>
-			<actor>Busy Philipps</actor>
-			<actor>Olivia Munn</actor>
-			<actor>Jessica Szohr</actor>
-			<actor>Kelsey Grammer</actor>
-		</credits>
-		<date>2011</date>
-		<category lang="en">Film</category>
-		<star-rating>
-			<value>4.0</value>
-		</star-rating>
+	<programme start="20190106060100 +0000" stop="20190106070400 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106190000 +0000" stop="20190106210000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">Love by the 10th Date (2017)</title>
-		<desc lang="en">The romantic adventures of four women who work for an upscale website in Los Angeles are chronicled, as they attempt to balance their demanding careers, friendships and love lives(n)</desc>
-		<date>2017</date>
-		<category lang="en">Film</category>
-		<star-rating>
-			<value>6.0</value>
-		</star-rating>
+	<programme start="20190106070400 +0000" stop="20190106081400 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106210000 +0000" stop="20190106230000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">I Don't Know How She Does It (2011)</title>
-		<desc lang="en">Working mother Kate (Sarah Jessica Parker) strives to balance her demanding career with the stress of raising two young children and maintaining her marriage. Later, she is tempted by a colleague, while her out-of-work husband gets a lucrative job offer(n)</desc>
-		<credits>
-			<actor>Douglas McGrath</actor>
-			<actor>Aline Brosh McKenna</actor>
-			<actor>Allison Pearson</actor>
-			<actor>Sarah Jessica Parker</actor>
-			<actor>Pierce Brosnan</actor>
-			<actor>Sarah Shahi</actor>
-			<actor>Busy Philipps</actor>
-			<actor>Olivia Munn</actor>
-			<actor>Jessica Szohr</actor>
-			<actor>Kelsey Grammer</actor>
-		</credits>
-		<date>2011</date>
-		<category lang="en">Film</category>
-		<star-rating>
-			<value>4.0</value>
-		</star-rating>
+	<programme start="20190106081400 +0000" stop="20190106090200 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
 	</programme>
-	<programme start="20190106230000 +0000" stop="20190107010000 +0000" channel="Lifetime Canada HDTV">
-		<title lang="en">The Wrong Girl (2015)</title>
-		<desc lang="en">Sophia, a smart but quiet high schooler, strikes up a friendship with a new girl in class, but the girl begins to disrupt the lives of Sophia and her family. Sophia is then forced to uncover her friend's past and learn the truth before it's too late(n)</desc>
-		<date>2015</date>
-		<category lang="en">Film</category>
+	<programme start="20190106090200 +0000" stop="20190106093200 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">5 Makeup Tips 4 You</title>
+		<desc lang="en">Airbrushed makeup made easy!(n)</desc>
+	</programme>
+	<programme start="20190106093200 +0000" stop="20190106100000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106100000 +0000" stop="20190106103000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Dancer's Body Secret</title>
+		<desc lang="en">Improve flexibility, core strength, and joint stability right in the comfort of your home!(n)</desc>
+	</programme>
+	<programme start="20190106103000 +0000" stop="20190106110000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Cop Cam</title>
+		<desc lang="en">The Wireless Security Camera Small Enough to Hide Anywhere to Record Anything!(n)</desc>
+	</programme>
+	<programme start="20190106110000 +0000" stop="20190106113000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Go Ahead and Glow Brighter with Specific Beauty</title>
+		<desc lang="en">So much more than skincare. It's a movement. Discovery why women of all backgrounds and ethnicities are raving about Specific Beauty and its impact on dark marks, discoloration, and uneven skin tone. Specific Beauty lets you BE U!(n)</desc>
+	</programme>
+	<programme start="20190106113000 +0000" stop="20190106120000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">PIYO WORKOUT</title>
+		<desc lang="en">Define your body with PiYo. Chalene Johnson's new lower-impact workout series combining the muscle-sculpting benefits of Pilates, Yoga and fluid motion all-in-one!(n)</desc>
+	</programme>
+	<programme start="20190106120000 +0000" stop="20190106123000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">In Touch with Dr. Charles Stanley</title>
+		<desc lang="en">In Touch Ministries is the outreach ministry of Dr Charles Stanley, pastor of First Baptist Church of Atlanta, Georgia. The desire of In Touch is to lead people into a growing relationship with Jesus Christ and strengthen the local church(n)</desc>
+	</programme>
+	<programme start="20190106123000 +0000" stop="20190106130000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Truths That Transform With Dr. D. James Kennedy</title>
+		<desc lang="en">Featuring timely teaching from Dr. D. James Kennedy, as well as guests and features probing today's hot issues from a biblical perspective(n)</desc>
+	</programme>
+	<programme start="20190106130000 +0000" stop="20190106133000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Amazing Facts Presents</title>
+		<desc lang="en">A series featuring exploration of the Bible and guidance on Christian living and prophecy(n)</desc>
+	</programme>
+	<programme start="20190106133000 +0000" stop="20190106140000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">David Jeremiah</title>
+		<desc lang="en">Half hour teaching program of Dr. David Jeremiah with the purpose of helping others discover life-changing turning points in their relationship with Jesus Christ(n)</desc>
+	</programme>
+	<programme start="20190106140000 +0000" stop="20190106143000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Joel Osteen</title>
+		<desc lang="en">Discover the Champion in You with Pastor Joel Osteen(n)</desc>
+	</programme>
+	<programme start="20190106143000 +0000" stop="20190106150000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Crepe Erase</title>
+		<desc lang="en">What is crepey skin? It's skin that has lost firmness, elasticity and moisture with age. Now, Jane Seymour and Dr. Ordon show you how you can visibly treat and repair the look of crepey skin. www.TryCENow.com(n)</desc>
+	</programme>
+	<programme start="20190106150000 +0000" stop="20190106160000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106160000 +0000" stop="20190106170000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106170000 +0000" stop="20190106180000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106180000 +0000" stop="20190106190000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Surviving R. Kelly</title>
+	</programme>
+	<programme start="20190106210000 +0000" stop="20190106230000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Believe Me: The Abduction of Lisa McVey (2018)</title>
+		<desc lang="en">Lisa contemplates ending her life after years of sexual abuse by a family member. But suddenly, she finds herself in a fight to stay alive when she is abducted. In order to survive, Lisa develops a relationship with her captor and orchestrates her eventual release. Once Lisa is safely home, she discovers police and even her own family refuse to believe her. It's only when a veteran detective hears the details of her story that Lisa finally finds someone she can open up to(n)</desc>
+	</programme>
+	<programme start="20190106230000 +0000" stop="20190107010000 +0000" channel="Lifetime Television HDTV (East)">
+		<title lang="en">Stalked by a Reality Star (2018)</title>
+		<desc lang="en">When teenager Kendra lies about her age to get into a Hollywood party, she meets handsome reality TV star Brad. But when she discovers that Brad is not as charming as he seems, Kendra rejects him, only to realize that he has become obsessed with her and will stop at nothing, including dating her widowed mother, to be near her(n)</desc>
 	</programme>
 	<programme start="20190105070000 +0000" stop="20190105074800 +0000" channel="Hallmark Drama (East)">
 		<title lang="en">7th Heaven</title>
@@ -2535,7 +2568,6 @@
 	</programme>
 	<programme start="20190106201500 +0000" stop="20190106221500 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">College Wrestling</title>
-		<desc lang="en">Rutgers at Minnesota(n)</desc>
 	</programme>
 	<programme start="20190106221500 +0000" stop="20190106223000 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">Big Ten Game Break</title>
@@ -3075,7 +3107,6 @@
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106083000 +0000" channel="NBA TV Canada">
 		<title lang="en">NBA Action</title>
-		<desc lang="en">A recap of the week in the NBA, featuring news and highlights. Also included is a rundown of the best and worst performers(n)</desc>
 	</programme>
 	<programme start="20190106083000 +0000" stop="20190106110000 +0000" channel="NBA TV Canada">
 		<title lang="en">NBA Basketball</title>
@@ -3506,10 +3537,10 @@
 	</programme>
 	<programme start="20190105050000 +0000" stop="20190105070000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT</title>
+		<desc lang="en">Showcasing WWE's brightest young talent as they battle to become superstars and divas of tomorrow(n)</desc>
 	</programme>
 	<programme start="20190105070000 +0000" stop="20190105073000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105073000 +0000" stop="20190105080000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3517,6 +3548,7 @@
 	</programme>
 	<programme start="20190105080000 +0000" stop="20190105090000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
+		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190105090000 +0000" stop="20190105100000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3524,23 +3556,18 @@
 	</programme>
 	<programme start="20190105100000 +0000" stop="20190105110000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105110000 +0000" stop="20190105120000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
-		<desc lang="en">A showcase of the WWE's new cruiserweight division (205 lbs.), with world-class talents including Brian Kendrick, T.J. Perkins, Rich Swann, Cedric Alexander and Gran Metalik(n)</desc>
 	</programme>
 	<programme start="20190105120000 +0000" stop="20190105130000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105130000 +0000" stop="20190105140000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105140000 +0000" stop="20190105143000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105143000 +0000" stop="20190105150000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3556,9 +3583,11 @@
 	</programme>
 	<programme start="20190105170000 +0000" stop="20190105180000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190105180000 +0000" stop="20190105183000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105183000 +0000" stop="20190105190000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3577,6 +3606,7 @@
 	</programme>
 	<programme start="20190105220000 +0000" stop="20190105223000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190105223000 +0000" stop="20190105230000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3612,7 +3642,6 @@
 	</programme>
 	<programme start="20190106070000 +0000" stop="20190106080000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3628,6 +3657,7 @@
 	</programme>
 	<programme start="20190106110000 +0000" stop="20190106113000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190106113000 +0000" stop="20190106120000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3635,15 +3665,18 @@
 	</programme>
 	<programme start="20190106120000 +0000" stop="20190106140000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT</title>
+		<desc lang="en">Showcasing WWE's brightest young talent as they battle to become superstars and divas of tomorrow(n)</desc>
 	</programme>
 	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
 	</programme>
 	<programme start="20190106150000 +0000" stop="20190106160000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190106160000 +0000" stop="20190106163000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190106163000 +0000" stop="20190106170000 +0000" channel="WWE Network">
 		<title lang="en">WWE Chronicle</title>
@@ -3660,6 +3693,7 @@
 	</programme>
 	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3730,8 +3764,8 @@
 		<desc lang="en">With exclusive commentary from Terri Irwin and Wes Mannion, Steve Irwin explores Madagascar's rugged terrain and underground rivers, meeting the chameleons, snakes and crocodiles that roam the island nation's wilds(n)</desc>
 	</programme>
 	<programme start="20190106000000 +0000" stop="20190106010000 +0000" channel="Animal Planet HDTV (East)">
-		<title lang="en">The Crocodile Hunter: Steve Irwin's Best</title>
-		<desc lang="en">The Australia Zoo teams up with Dr. Mark Read in a mission to capture and tag nine massive crocs to track their migration across Australia(n)</desc>
+		<title lang="en">The Crocodile Hunter</title>
+		<desc lang="en">Steve Irwin attempts to tag nine very large salt-water crocodiles with satellite tracking devices to study their movements and habits in the wild(n)</desc>
 	</programme>
 	<programme start="20190106010000 +0000" stop="20190106030000 +0000" channel="Animal Planet HDTV (East)">
 		<title lang="en">The Steve Irwin Story</title>
@@ -3932,6 +3966,7 @@
 	</programme>
 	<programme start="20190106133000 +0000" stop="20190106140000 +0000" channel="The Discovery Channel (East)">
 		<title lang="en">Sportsman's Adventures With Captain Rick Murphy</title>
+		<desc lang="en">Captain Rick Murphy kicks off the 25th anniversary of Sportsman's Adventures in Los Sueños fishing for big mahi and yellowfin tuna. Joining him is Amanda Sabin from Costa Sunglasses(n)</desc>
 	</programme>
 	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="The Discovery Channel (East)">
 		<title lang="en">Gold Rush</title>
@@ -4322,7 +4357,7 @@
 	</programme>
 	<programme start="20190105220000 +0000" stop="20190105230000 +0000" channel="Science HDTV">
 		<title lang="en">Unearthed</title>
-		<desc lang="en">A penguin colony off the coast of South Africa is the setting for the Unearthed students' latest task. The competition heats up as their skills are seriously put to the test(n)</desc>
+		<desc lang="en">The secrets of the great Sphinx of Giza. Included: which pharaoh commissioned it; and why it was never finished(n)</desc>
 	</programme>
 	<programme start="20190105230000 +0000" stop="20190106000000 +0000" channel="Science HDTV">
 		<title lang="en">Unearthed</title>
@@ -4333,24 +4368,20 @@
 		<desc lang="en">The Inca capital of Cusco was said to be the site of untold gold and riches, and new discoveries at this mysterious site reveal the secrets behind this mighty empire's fall(n)</desc>
 	</programme>
 	<programme start="20190106010000 +0000" stop="20190106020000 +0000" channel="Science HDTV">
-		<title lang="en">Truffle Wars</title>
-		<desc lang="en">Teams of foragers search for the rare black truffles that can be found in the forests of Oregon(n)</desc>
+		<title lang="en">Unearthed</title>
 	</programme>
 	<programme start="20190106020000 +0000" stop="20190106030000 +0000" channel="Science HDTV">
-		<title lang="en">Truffle Wars</title>
-		<desc lang="en">Teams of foragers search for the rare black truffles that can be found in the forests of Oregon(n)</desc>
+		<title lang="en">Unearthed</title>
 	</programme>
 	<programme start="20190106030000 +0000" stop="20190106050000 +0000" channel="Science HDTV">
-		<title lang="en">Secrets Of The Lost</title>
-		<desc lang="en">Experts reveal the mysteries involving lost pyramids and buried treasures beneath Egypt's sands by using cutting-edge satellite technology(n)</desc>
+		<title lang="en">Egypt's Lost Pyramids: The Buried Secrets</title>
 	</programme>
 	<programme start="20190106050000 +0000" stop="20190106060000 +0000" channel="Science HDTV">
 		<title lang="en">Unearthed</title>
 		<desc lang="en">A ground-breaking experiment reveals how ancient Egyptians built the giant obelisks of Thebes, and new discoveries at this holy site could explain why these mysterious marvels triggered the downfall of the pharaohs and the end of Egypt's golden age(n)</desc>
 	</programme>
 	<programme start="20190106060000 +0000" stop="20190106080000 +0000" channel="Science HDTV">
-		<title lang="en">Secrets Of The Lost</title>
-		<desc lang="en">Experts reveal the mysteries involving lost pyramids and buried treasures beneath Egypt's sands by using cutting-edge satellite technology(n)</desc>
+		<title lang="en">Egypt's Lost Pyramids: The Buried Secrets</title>
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="Science HDTV">
 		<title lang="en">Unearthed</title>
@@ -4428,41 +4459,23 @@
 		<title lang="en">How It's Made</title>
 		<desc lang="en">Steamer baskets, three-wheel scooters, prefabricated conservatories, and copper cookware are spotlighted(n)</desc>
 	</programme>
-	<programme start="20190106180000 +0000" stop="20190106183000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
+	<programme start="20190106180000 +0000" stop="20190106190000 +0000" channel="Science HDTV">
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
-	<programme start="20190106183000 +0000" stop="20190106190000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
+	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="Science HDTV">
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
-	<programme start="20190106190000 +0000" stop="20190106193000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
-	</programme>
-	<programme start="20190106193000 +0000" stop="20190106200000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
-	</programme>
-	<programme start="20190106200000 +0000" stop="20190106203000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
-	</programme>
-	<programme start="20190106203000 +0000" stop="20190106210000 +0000" channel="Science HDTV">
-		<title lang="en">How It's Made</title>
-		<desc lang="en">Get ready to re-evaluate what you think you know as we discover how everyday objects really work. We also take a look at some new inventions, which may soon be part of our lives(n)</desc>
+	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="Science HDTV">
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
 	<programme start="20190106210000 +0000" stop="20190106220000 +0000" channel="Science HDTV">
-		<title lang="en">How the Universe Works</title>
-		<desc lang="en">This is the greatest story ever told, the creation of everything us. The programme investigates how the Universe came into existence out of nothing, and how it grew from a miniscule point, smaller than an atomic particle, to the vast cosmos we see today(n)</desc>
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
 	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="Science HDTV">
-		<title lang="en">How the Universe Works</title>
-		<desc lang="en">This is the greatest story ever told, the creation of everything us. The programme investigates how the Universe came into existence out of nothing, and how it grew from a miniscule point, smaller than an atomic particle, to the vast cosmos we see today(n)</desc>
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
 	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="Science HDTV">
-		<title lang="en">How the Universe Works</title>
-		<desc lang="en">This is the greatest story ever told, the creation of everything us. The programme investigates how the Universe came into existence out of nothing, and how it grew from a miniscule point, smaller than an atomic particle, to the vast cosmos we see today(n)</desc>
+		<title lang="en">Mysteries at the Museum</title>
 	</programme>
 	<programme start="20190105080000 +0000" stop="20190105090000 +0000" channel="Do It Yourself Network HDTV (East)">
 		<title lang="en">Texas Flip N Move</title>
@@ -4741,7 +4754,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20190105123000 +0000" stop="20190105130000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Paid Programming (?)</title>
+		<title lang="en">Paid Programming</title>
 		<desc lang="en">Paid Programming(n)</desc>
 		<star-rating>
 			<value>5.0</value>
@@ -5177,6 +5190,7 @@
 	</programme>
 	<programme start="20190105170000 +0000" stop="20190105173000 +0000" channel="Velocity HDTV">
 		<title lang="en">Live, Love, Wrench</title>
+		<desc lang="en">Emily and Aaron install new suspension parts on a 1984 Grand National. Upon further investigation, they learn that this powerful car is not the average Buick(n)</desc>
 	</programme>
 	<programme start="20190105173000 +0000" stop="20190105180000 +0000" channel="Velocity HDTV">
 		<title lang="en">Live, Love, Wrench</title>
