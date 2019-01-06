@@ -16,8 +16,8 @@
 		<display-name lang="en">ThrillerMAX HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
-	<channel id="EPIX HDTV (East)">
-		<display-name lang="en">EPIX HDTV (East)</display-name>
+	<channel id="Showtime Next East HDTV (East)">
+		<display-name lang="en">Showtime Next East HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="HBO Family HDTV (East)">
@@ -42,6 +42,10 @@
 	</channel>
 	<channel id="TCM HDTV (East)">
 		<display-name lang="en">TCM HDTV (East)</display-name>
+		<url>http://www.us.yo.tv</url>
+	</channel>
+	<channel id="Lifetime Movies HDTV (East)">
+		<display-name lang="en">Lifetime Movies HDTV (East)</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="AMC HDTV (East)">
@@ -137,10 +141,10 @@
 	</channel>
 	<channel id="History Television HDTV (East)">
 		<display-name lang="en">History Television HDTV (East)</display-name>
-		<url>http://www.yo.tv</url>
+		<url>http://www.us.yo.tv</url>
 	</channel>
-	<channel id="Investigation Discovery HDTV">
-		<display-name lang="en">Investigation Discovery HDTV</display-name>
+	<channel id="Discovery Life Channel">
+		<display-name lang="en">Discovery Life Channel</display-name>
 		<url>http://www.us.yo.tv</url>
 	</channel>
 	<channel id="Velocity HDTV">
@@ -507,106 +511,109 @@
 		<title lang="en">MacGruber (2010)</title>
 		<desc lang="en">In this action-comedy, oddball soldier of fortune MacGruber (Will Forte) returns to the field for the first time since his wife was killed after his old nemesis (Val Kilmer) steals a nuclear weapon. Partnered with a pair of new assistants, the clueless man of action must track down the bad guy before it's too late. Directed by Jorma Taccone(n)</desc>
 	</programme>
-	<programme start="20190106090000 +0000" stop="20190106093000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Unprotected Sets</title>
-		<desc lang="en">Zainab Johnson finds her way to the comedy stage after her stint at WNBA(n)</desc>
+	<programme start="20190106070500 +0000" stop="20190106083500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Becoming Cary Grant (2017)</title>
+		<desc lang="en">The life of Cary Grant is explored, using words from his unpublished autobiography and newly-discovered personal footage. The documentary traces his long journey from childhood poverty to global fame, and his quest to find the love that eluded him most of his life(n)</desc>
 	</programme>
-	<programme start="20190106093000 +0000" stop="20190106112500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Ulee's Gold (1997)</title>
-		<desc lang="en">Peter Fonda's subtle performance guides Victor Nunez's simple tale about a widowed beekeeper who must care for his granddaughters when his son is jailed. Connie: Patricia Richardson. Helen: Christine Dunford. Casey: Jessica Biel. Penny: Vanessa Zima(n)</desc>
+	<programme start="20190106083500 +0000" stop="20190106100500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Gangster Land (2017)</title>
+		<desc lang="en">In this crime drama based on actual events, an amateur boxer named Jack McGurn joins the Mafia after his stepfather is killed. In time, he and boss Al Capone clash with the Irish mob, which leads to the notorious St. Valentine's Day Massacre of 1929(n)</desc>
 	</programme>
-	<programme start="20190106112500 +0000" stop="20190106120000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">The Captains Close-Up</title>
-		<desc lang="en">Featured: Avery Brooks(n)</desc>
+	<programme start="20190106100500 +0000" stop="20190106120000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">The Dog Lover (2016)</title>
+		<desc lang="en">A young woman working for an animal-rights organisation goes undercover as a university intern to investigate a family who are allegedly running a "puppy mill". When she fails to find any evidence of animal cruelty, she is torn between her loyalty to the organisation and the bond she's developed with the family(n)</desc>
 	</programme>
-	<programme start="20190106120000 +0000" stop="20190106140000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Sweeney Todd: The Demon Barber of Fleet Street (2007)</title>
-		<desc lang="en">Embittered at having been wrongly imprisoned and determined to seek vengeance against his accusers due to the fate that befell his wife and daughter while he was incarcerated, ex-convict Sweeney Todd returns to his hometown and opens a barber shop. But this cuttery features far worse options than a shave and a haircut(n)</desc>
+	<programme start="20190106120000 +0000" stop="20190106134500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">The Hallow (2015)</title>
+		<desc lang="en">A conservationist in the English countryside investigates a mysterious forest and awakens the sinister forces that dwell within it, putting his family at risk as the spirits exact their revenge for his trespasses(n)</desc>
 	</programme>
-	<programme start="20190106140000 +0000" stop="20190106153500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">A Quiet Place (2018)</title>
-		<desc lang="en">A family live in complete silence to avoid being eaten by creatures that hunt through sound. The two parents, their son and deaf daughter all communicate through sign language, and must come up with ingenious ways to outsmart the blind monsters, in order to stay alive(n)</desc>
+	<programme start="20190106134500 +0000" stop="20190106141500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Skateboarding's First Wave (2016)</title>
+		<desc lang="en">A documentary exploring the origins of skateboarding culture through the lens of the 1965 Palisades Skateboard Team, who reinvented a childhood hobby into a sport, bringing it to the vanguard of popular culture. Features interviews with the team members reflecting on how the sport has changed, 50 years later(n)</desc>
 	</programme>
-	<programme start="20190106153500 +0000" stop="20190106170500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Transpecos (2016)</title>
-		<desc lang="en">Three U.S. Border Patrol agents face the ultimate test of their loyalty to each other during a sweltering day on the job in which the inspection of a vehicle returning to the United States goes awry. Now, the trio must defy the law in order to do right by one of their own(n)</desc>
+	<programme start="20190106141500 +0000" stop="20190106154500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">King Arthur And The Knights Of The Round Table (2017)</title>
+		<desc lang="en">Set in the present, the descendants of the original Knights of the Round Table continue to protect the Holy Grail(n)</desc>
 	</programme>
-	<programme start="20190106170500 +0000" stop="20190106190500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Dark Blue (2002)</title>
-		<desc lang="en">Based on a story by James Ellroy, a morally-bankrupt cop has a change of heart in the days leading up to the 1992 L.A. riots. Perry has a tendency to bend the law to get his man, but draws the line when his superior pulls him into a scheme to get two career criminals off the streets(n)</desc>
+	<programme start="20190106154500 +0000" stop="20190106173000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Sorry for Your Loss (2018)</title>
+		<desc lang="en">A new dad has to return home to bury his estranged father, but things take a turn for the complicated when the dead man's final wish is to have his ashes scattered on the field of his favorite professional sports team(n)</desc>
 	</programme>
-	<programme start="20190106190500 +0000" stop="20190106204000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">The Domestics (2018)</title>
-		<desc lang="en">In a post-apocalyptic world, young couple Mark and Nina journey through a mid-western wasteland as they try to make it home in one piece. They fight to survive, but the odds are against them because the land they have to travel through is dominated by gangs(n)</desc>
+	<programme start="20190106173000 +0000" stop="20190106193000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Billionaire Boys Club (2018)</title>
+		<desc lang="en">In early 1980's Los Angeles, rich boys led by Joe Hunt hit it big with a Ponzi scheme. Things go horribly wrong for all involved when they learn they've been betrayed by their investor, high roller Ron Levin, leaving Hunt owing a lot of money to a lot of people(n)</desc>
 	</programme>
-	<programme start="20190106204000 +0000" stop="20190106222500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Harry Brown (2009)</title>
-		<desc lang="en">Crime drama about an elderly ex-Marine who rediscovers his killer instinct when his best friend is murdered. Living on a bleak, drug-flooded south London estate, Harry Brown is wrenched from his quiet existence by the actions of young gangs when his only companion, a fellow pensioner, is brutally stabbed. Resolving to exact a violent revenge, he begins picking off the thugs responsible one by one. Meanwhile, the police are planning a massive raid of the gang's estate and tensions rise as Harry's vigilante mission spirals out of hand(n)</desc>
+	<programme start="20190106193000 +0000" stop="20190106211500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Home Again (2017)</title>
+		<desc lang="en">A recently separated woman moves to L.A. with her two daughters, where she rents out her guesthouse to three much-younger men—one of whom she soon begins dating. Her new life gets even more complicated when her estranged husband reenters the picture(n)</desc>
 	</programme>
-	<programme start="20190106222500 +0000" stop="20190107000000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">From Paris With Love (2010)</title>
-		<desc lang="en">CIA agent James Reece has a cushy desk job but dreams of a life in the field. When the agency offers him his first big-time assignment, he must team up with lone wolf Charlie Wax to stop a terrorist bombing. Although James finds himself in way over his head, he soon realizes that he must trust Charlie if he wants to become a man of action and save his own life(n)</desc>
+	<programme start="20190106211500 +0000" stop="20190106230000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">50/50 (2011)</title>
+		<desc lang="en">A 27-year-old public-radio employee discovers he has cancer and is given a 50-percent chance of survival. As his best friend Kyle tries to keep his spirits up, his girlfriend Rachael proves to be a less-than-ideal life partner for this particular crisis(n)</desc>
 	</programme>
-	<programme start="20190107000000 +0000" stop="20190107020000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Jack Reacher: Never Go Back (2016)</title>
-		<desc lang="en">Jack Reacher returns in this sequel, which finds him working to exonerate Maj. Susan Turner after she is accused of treason. However, his quest causes him to get tangled up in a conspiracy involving the murder of soldiers(n)</desc>
+	<programme start="20190106230000 +0000" stop="20190107010000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">All I See Is You (2016)</title>
+		<desc lang="en">A blind woman living in Bangkok undergoes an experimental procedure to restore her sight. However, her husband soon grows jealous of her newfound independence, as she now sees more clearly the flaws in their relationship(n)</desc>
 	</programme>
-	<programme start="20190107020000 +0000" stop="20190107030000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Berlin Station</title>
+	<programme start="20190107010000 +0000" stop="20190107031500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">The Light Between Oceans (2016)</title>
+		<desc lang="en">An Australian WWI veteran and his wife begin a new life at a lighthouse on an isolated island. Once settled, a lifeboat washes ashore with a newborn inside, and the couple make the fateful decision to raise the infant as their own(n)</desc>
 	</programme>
-	<programme start="20190107030000 +0000" stop="20190107040000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Berlin Station</title>
+	<programme start="20190107031500 +0000" stop="20190107050000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Comet (2014)</title>
+		<desc lang="en">Set in a parallel universe, Comet bounces back and forth over the course of an unlikely but perfectly paired couple's six-year relationship(n)</desc>
 	</programme>
-	<programme start="20190107040000 +0000" stop="20190107055000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Death Wish (2018)</title>
-		<desc lang="en">Dr. Paul Kersey is devastated when his wife is killed and his beloved daughter is brutally attacked during a home invasion. Soon after, he decides to seek revenge as a vigilante when the police prove unable to help(n)</desc>
+	<programme start="20190107050000 +0000" stop="20190107050000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Donnie Darko (2001)</title>
+		<desc lang="en">In 1988 suburban America, tortured high schooler Donnie Darko is haunted by visions of a giant demonic rabbit who claims the world will end in a month. At the same time, Donnie flirts with a new girl at school and tries to connect with his family(n)</desc>
 	</programme>
-	<programme start="20190107055000 +0000" stop="20190107055000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">The Desperate Hours (1990)</title>
-		<desc lang="en">An escaped convict terrorizes a suburban family by invading their home and, along with his cohorts, begin to take over the lives of the shocked couple(n)</desc>
+	<programme start="20190107050000 +0000" stop="20190107070000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Donnie Darko (2001)</title>
+		<desc lang="en">In 1988 suburban America, tortured high schooler Donnie Darko is haunted by visions of a giant demonic rabbit who claims the world will end in a month. At the same time, Donnie flirts with a new girl at school and tries to connect with his family(n)</desc>
 	</programme>
-	<programme start="20190107055000 +0000" stop="20190107073500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">The Desperate Hours (1990)</title>
-		<desc lang="en">An escaped convict terrorizes a suburban family by invading their home and, along with his cohorts, begin to take over the lives of the shocked couple(n)</desc>
+	<programme start="20190107070000 +0000" stop="20190107083500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Walking Out (2017)</title>
+		<desc lang="en">A wilderness hunting trip between an estranged teenage son and his survivalist dad takes a life-threatening turn when a grizzly bear attack leaves both injured. Now father and son must overcome their differences in their desperate struggle to survive(n)</desc>
 	</programme>
-	<programme start="20190107073500 +0000" stop="20190107083500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Berlin Station</title>
+	<programme start="20190107083500 +0000" stop="20190107101500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">A Swingers Weekend (2017)</title>
+		<desc lang="en">Lisa and Dan Brown plan a steamy weekend getaway swapping partners with their friends Teejay and Skai, but when a third party joins the fun unexpectedly, things get awkward. One of the women involved was not told this was a swingers weekend, and everyone embarks on a journey to discover their separate personal needs for their participation(n)</desc>
 	</programme>
-	<programme start="20190107083500 +0000" stop="20190107102500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Suburbicon (2017)</title>
-		<desc lang="en">In 1950s suburban America, a white businessman tries to pull off an insurance scam with the help of his wife's identical twin sister. Meanwhile, a black family who recently moved in next door are forced to confront the virulent racism of their community(n)</desc>
+	<programme start="20190107101500 +0000" stop="20190107114500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Prison Fighters: 5 Rounds to Freedom (2017)</title>
+		<desc lang="en">A documentary examining a controversial practice in Thailand's criminal justice system whereby inmates can earn their freedom by winning a series of Muay Thai fights. The focus is on Noy Khaopan, a convicted murderer who fights for his release(n)</desc>
 	</programme>
-	<programme start="20190107102500 +0000" stop="20190107113000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Nick Offerman &amp; Megan Mullally - Summer of 69: No Apostrophe</title>
-		<desc lang="en">Real-life couple Nick Offerman and Megan Mullally offer a frank, raunchy look at their marriage via song and comedy. Recorded at the Irvine Barclay Theatre in Irvine, Cal(n)</desc>
+	<programme start="20190107114500 +0000" stop="20190107131500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Crowning Jules (2017)</title>
+		<desc lang="en">A pair of twin sisters, Madison and Jules, look identical but have never seen eye-to-eye on anything. A cross-country road trip rekindles their distant relationships and makes them realize the preciousness of twin sisterhood(n)</desc>
 	</programme>
-	<programme start="20190107113000 +0000" stop="20190107120500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">America Divided</title>
-		<desc lang="en">Rosario Dawson explores the water crisis in Flint, Mich(n)</desc>
+	<programme start="20190107131500 +0000" stop="20190107143000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Bipolar Rock 'N' Roller (2018)</title>
+		<desc lang="en">A profile of sports announcer Mauro Ranallo focuses on his struggle with bipolar affective disorder, and follows his journey as he combats the stigma behind mental-health issues and sheds light on what it's like being at the top of the industry despite seemingly insurmountable odds(n)</desc>
 	</programme>
-	<programme start="20190107120500 +0000" stop="20190107141500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">True Grit (1969)</title>
-		<desc lang="en">John Wayne won his only Oscar for his portrayal of the one-eyed, whisky-loving Marshall Reuben J 'Rooster' Cogburn in Henry Hathaway's classic muscular western. He is hired by Mattie Ross, whose father was gunned down by Tom Chaney, who has since joined up with the notorious Ned Pepper gang. Their quest is complicated by Texas Ranger 'La Boeuf', who is also in pursuit of Chaney. But eventually the trio strike an uneasy alliance and set out into Indian territory after their prey(n)</desc>
+	<programme start="20190107143000 +0000" stop="20190107163000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">What's Eating Gilbert Grape (1993)</title>
+		<desc lang="en">A loner cares for his dysfunctional family, including a mentally disabled brother and their reclusive, obese mother, who has not left the house in seven years(n)</desc>
 	</programme>
-	<programme start="20190107141500 +0000" stop="20190107161500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Jack Reacher: Never Go Back (2016)</title>
-		<desc lang="en">Jack Reacher returns in this sequel, which finds him working to exonerate Maj. Susan Turner after she is accused of treason. However, his quest causes him to get tangled up in a conspiracy involving the murder of soldiers(n)</desc>
+	<programme start="20190107163000 +0000" stop="20190107181500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Mystic Pizza (1988)</title>
+		<desc lang="en">The tale of three waitresses in a Connecticut pizza parlour and their very different love stories. One is set to marry her high-school sweetheart, but decides that she wants to consummate their relationship before the wedding. However, her fiance wants to wait until the big day. One takes on a babysitting job and has an affair with her employer, whilst her sister hooks up with a rich boy only to find that she is being used(n)</desc>
 	</programme>
-	<programme start="20190107161500 +0000" stop="20190107183500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Flyboys (2006)</title>
-		<desc lang="en">The story of America's first fighter pilots, who joined France's Lafayette Escadrille before the U.S. became involved in World War I(n)</desc>
+	<programme start="20190107181500 +0000" stop="20190107194500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Bad Girl (2016)</title>
+		<desc lang="en">Seventeen-year-old juvenile Amy plans to escape the care of her adoptive parents, who approve of her strong bond with local girl Chloe. But when Amy discovers a dark secret about the supposedly perfect Chloe, she finds herself fighting for her life and the family she tried to leave(n)</desc>
 	</programme>
-	<programme start="20190107183500 +0000" stop="20190107204500 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Rescue Dawn (2006)</title>
-		<desc lang="en">A U.S. Navy fighter pilot struggles to survive after being shot down and captured during a mission over Laos during the Vietnam War. After enduring a stay in a Vietnamese internment camp, he and his fellow soldiers stage a dangerous escape(n)</desc>
+	<programme start="20190107194500 +0000" stop="20190107213000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">This Isn't Funny (2015)</title>
+		<desc lang="en">Romance blossoms between two disparate people after they meet following a car accident(n)</desc>
 	</programme>
-	<programme start="20190107204500 +0000" stop="20190107224000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Beowulf (2007)</title>
-		<desc lang="en">The Old English epic poem, thought to have been written around the eighth century, chronicles the exploits of Beowulf (Ray Winstone - King Arthur, Cold Mountain), a Scandinavian hero who saves the Danes from the seemingly indomitable monster Grendel (Crispin Glover - Willard, Back to the Future)(n)</desc>
+	<programme start="20190107213000 +0000" stop="20190107230000 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">The House of Tomorrow (2012)</title>
+		<desc lang="en">A look at the conflict between Palestine and Israel(n)</desc>
 	</programme>
-	<programme start="20190107224000 +0000" stop="20190108010000 +0000" channel="EPIX HDTV (East)">
-		<title lang="en">Rob Roy (1995)</title>
-		<desc lang="en">Liam Neeson is imposing as 18th-century Scottish outlaw Robert Roy MacGregor, whose battles to protect his family from corrupt moneylenders made him a hero(n)</desc>
+	<programme start="20190107230000 +0000" stop="20190108004500 +0000" channel="Showtime Next East HDTV (East)">
+		<title lang="en">Mystic Pizza (1988)</title>
+		<desc lang="en">The tale of three waitresses in a Connecticut pizza parlour and their very different love stories. One is set to marry her high-school sweetheart, but decides that she wants to consummate their relationship before the wedding. However, her fiance wants to wait until the big day. One takes on a babysitting job and has an affair with her employer, whilst her sister hooks up with a rich boy only to find that she is being used(n)</desc>
 	</programme>
 	<programme start="20190106093000 +0000" stop="20190106110000 +0000" channel="HBO Family HDTV (East)">
 		<title lang="en">Mr. Magoo (1997)</title>
@@ -1259,6 +1266,120 @@
 		<title lang="en">Woman of the Year (1942)</title>
 		<desc lang="en">A Spencer Tracy-Katharine Hepburn battle of the sexes develops when her international-affairs columnist suggests to his flinty sportswriter that baseball be canceled for the duration of World War II. This was their first of nine screen pairings and Hepburn was nominated for Best Actress. Michael Kanin and Ring Lardner Jr.'s script won a Best Original Screenplay Oscar(n)</desc>
 	</programme>
+	<programme start="20190106090000 +0000" stop="20190106093000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Dr. Ho Relieves Back Pain</title>
+		<desc lang="en">Order the decompression belt today to help get fast relief from your aching back pain(n)</desc>
+	</programme>
+	<programme start="20190106093000 +0000" stop="20190106100000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
+		<desc lang="en">Cindy Crawford's Beauty Secrets! Cindy's Targeted Beauty Trio is new for 2017! Rediscover your skin's youthful radiance. This new offer is free to you as part of Meaningful Beauty ULTRA! That's 3 free gifts today!(n)</desc>
+	</programme>
+	<programme start="20190106100000 +0000" stop="20190106103000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Power Air Fryer Oven</title>
+		<desc lang="en">The Groundbreaking Chef-Quality Air Fryer Oven! It's an Air Fryer, Rotisserie, and Dehydrator - all in one!(n)</desc>
+	</programme>
+	<programme start="20190106103000 +0000" stop="20190106110000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106110000 +0000" stop="20190106130000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Mommy's Prison Secret (2017)</title>
+		<desc lang="en">A suburban mom who was in jail for three years for a DUI and possession of drugs is released and begins working to become a contributing member of society again, but her former cellmate unexpectedly appears and invades her world(n)</desc>
+	</programme>
+	<programme start="20190106130000 +0000" stop="20190106150000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Manny Dearest (2017)</title>
+		<desc lang="en">A single mom hires a male nanny to help with her two young sons, but the man has other plans and wants her family as his own, even if he has to murder to achieve his goal(n)</desc>
+	</programme>
+	<programme start="20190106150000 +0000" stop="20190106170000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Unwanted Guest (2016)</title>
+		<desc lang="en">A college student invites a friend to stay with her family during winter break, but the young woman grows obsessive and begins to wreak havoc on her hosts(n)</desc>
+	</programme>
+	<programme start="20190106170000 +0000" stop="20190106190000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Killer Crush (2015)</title>
+		<desc lang="en">A girl develops a crush on one of her professors and then is hired to be his wife's caregiver. While she attends to the woman who is suffering from multiple sclerosis, her obsession with the professor grows and she becomes determined to marry him(n)</desc>
+	</programme>
+	<programme start="20190106190000 +0000" stop="20190106210000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bad Stepmother (2018)</title>
+		<desc lang="en">When Verity and Jonathan's father dies of a mysterious heart attack, Verity must return home to their sprawling estate in New Orleans. Upon her return, the siblings discover an off-kilter stepmother who will be receiving all of their father's inheritance except the house. Stepmother Louise will do anything to get the entire estate, including murder(n)</desc>
+	</programme>
+	<programme start="20190106210000 +0000" stop="20190106230000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Aaliyah: The Princess of R&amp;B (2014)</title>
+		<desc lang="en">The inspirational journey of R&amp;B singer Aaliyah is chronicled from her appearance on "Star Search" at age 10 to her tragic death at 22 in a plane crash(n)</desc>
+	</programme>
+	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107000000 +0000" stop="20190107010000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107010000 +0000" stop="20190107020000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107020000 +0000" stop="20190107030000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107030000 +0000" stop="20190107040000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107040000 +0000" stop="20190107050000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107050000 +0000" stop="20190107060000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107060000 +0000" stop="20190107070000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107070000 +0000" stop="20190107080000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107080000 +0000" stop="20190107090000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bring It</title>
+	</programme>
+	<programme start="20190107090000 +0000" stop="20190107093000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">New! Get Cindy Crawford's anti-aging discovery</title>
+		<desc lang="en">Cindy Crawford's Beauty Secrets! Cindy's Targeted Beauty Trio is new for 2017! Rediscover your skin's youthful radiance. This new offer is free to you as part of Meaningful Beauty ULTRA! That's 3 free gifts today!(n)</desc>
+	</programme>
+	<programme start="20190107093000 +0000" stop="20190107100000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107100000 +0000" stop="20190107103000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
+		<desc lang="en">Are you at risk for identity theft? Get the facts from experts, and hear stories from victims. Discover how LifeLock can help protect you – with proprietary technology, and U.S.-based agents who help set things right if your identity is ever stolen(n)</desc>
+	</programme>
+	<programme start="20190107103000 +0000" stop="20190107110000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Dr. Ho's Total Body Relief</title>
+		<desc lang="en">The DR-HO'S Circulation Promoter is designed to help improve circulation, reduce swelling, alleviate aching feet and legs, and relieve pain, tension, and stiffness(n)</desc>
+	</programme>
+	<programme start="20190107110000 +0000" stop="20190107130000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Fatal Defense (2017)</title>
+		<desc lang="en">A single mother signs up for self-defence classes taught by a handsome martial-arts instructor, but the man develops a frightening obsession with her and orchestrates an increasingly deadly array of tests to see what she has learned from his lessons(n)</desc>
+	</programme>
+	<programme start="20190107130000 +0000" stop="20190107150000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Tiny House of Terror (2017)</title>
+		<desc lang="en">A widow moves into a rustic tiny house after the death of her husband but soon begins to feel like she is being watched, exactly what her husband felt before his disappearance(n)</desc>
+	</programme>
+	<programme start="20190107150000 +0000" stop="20190107170000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Bad Sister (2016)</title>
+		<desc lang="en">A top student at a Catholic boarding school discovers that the school's new nun is an impostor who has a fatal attraction to her brother(n)</desc>
+	</programme>
+	<programme start="20190107170000 +0000" stop="20190107190000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">The Midwife's Deception (2018)</title>
+		<desc lang="en">Jina, a midwife, is a dream come true for 7-month pregnant Sara until secrets unfold and Jina may want more than only delivering the baby(n)</desc>
+	</programme>
+	<programme start="20190107190000 +0000" stop="20190107210000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">The Nanny Is Watching (2018)</title>
+		<desc lang="en">After a break-in, a family installs a high-tech home security system with smart home features, but their nanny may have other plans(n)</desc>
+	</programme>
+	<programme start="20190107210000 +0000" stop="20190107230000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">Nanny Killer (2018)</title>
+		<desc lang="en">A student takes a well-paying summer job as nanny at a winery to offset tuition expenses. But she soon realizes something is a bit off with the children she cares for, because their mischievous pranks lead to deadly consequences(n)</desc>
+	</programme>
+	<programme start="20190107230000 +0000" stop="20190108010000 +0000" channel="Lifetime Movies HDTV (East)">
+		<title lang="en">My Baby Is Gone! (2017)</title>
+		<desc lang="en">A pregnant woman quickly bonds with her pregnant neighbor, Kelly, but Kelly is faking it and plans to steal her baby(n)</desc>
+	</programme>
 	<programme start="20190106090000 +0000" stop="20190106104500 +0000" channel="AMC HDTV (East)">
 		<title lang="en">Walking Tall (2004)</title>
 		<desc lang="en">When a former member of the U.S. Army Special Forces returns to his small hometown in rural Washington State hoping to realise a childhood dream of working in the local lumber mill, he discovers that much has changed. The normally tranquil town is now besieged by drugs, outbreaks of violence and a general feeling of malaise and terror, with many pointing a finger at the influence of a crooked casino where his ex-girlfriend now works as a dancer(n)</desc>
@@ -1423,7 +1544,6 @@
 	</programme>
 	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">The Real Housewives of New Jersey</title>
-		<desc lang="en">The feud between Teresa and Jackie threatens to upset little Joey's communion. Jennifer is offended when she discovers that Jackie has written an article about her family and Dolores enlists Margaret's help to plan an event for the homeless shelter she volunteers. Meanwhile, Milania expresses interests in a rapping career, as she copes with her detained father(n)</desc>
 	</programme>
 	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Married to Medicine</title>
@@ -1475,9 +1595,13 @@
 	<programme start="20190107083000 +0000" stop="20190107090000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Watch What Happens Live With Andy Cohen</title>
 	</programme>
-	<programme start="20190107090000 +0000" stop="20190107103000 +0000" channel="Bravo HDTV (East)">
+	<programme start="20190107090000 +0000" stop="20190107100000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Paid Programming</title>
 		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107100000 +0000" stop="20190107103000 +0000" channel="Bravo HDTV (East)">
+		<title lang="en">The NEW BISSELL CrossWave Pet Pro</title>
+		<desc lang="en">The NEW BISSELL CrossWave Pet Pro makes it easy to clean up after kids and pets because it vacuums and washes your floors and freshens your area rugs! Exclusive TV offer includes FREE gifts and FREE shipping! For more info text "WAVE" to 246810(n)</desc>
 	</programme>
 	<programme start="20190107103000 +0000" stop="20190107110000 +0000" channel="Bravo HDTV (East)">
 		<title lang="en">Identity theft: learn about it and how to get LifeLock protection</title>
@@ -1569,7 +1693,7 @@
 		<desc lang="en">Kristin travels to L.A. to co-host during the Red Carpet for the Oscars, leaving Jay behind to check up on the girls at the office; and a member of the UJ family gets some surprising results from a pregnancy test(n)</desc>
 	</programme>
 	<programme start="20190106170000 +0000" stop="20190106190000 +0000" channel="E! Entertainment Television">
-		<title lang="en">The Wedding Ringer (2015)</title>
+		<title lang="en">The Wedding Ringer</title>
 		<desc lang="en">A socially awkward guy hires a professional best man to make his wedding a success. In time, their arrangement turns into a real friendship(n)</desc>
 	</programme>
 	<programme start="20190106190000 +0000" stop="20190106210000 +0000" channel="E! Entertainment Television">
@@ -1593,10 +1717,9 @@
 	</programme>
 	<programme start="20190107030000 +0000" stop="20190107040000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
-		<desc lang="en">Dr. Nassif takes on a patient who tried to treat her own skin cancer and ended up with a hole in her nose, while Dr. Dubrow tackles a body builder's deflated breast. A drag queen striving for perfection seeks help for his silicone lip injections gone wrong(n)</desc>
 	</programme>
 	<programme start="20190107040000 +0000" stop="20190107050000 +0000" channel="E! Entertainment Television">
-		<title lang="en">Busy Tonight</title>
+		<title lang="en">Busy Tonight Live: Golden Globes After Party</title>
 		<desc lang="en">Busy and her celebrity friends break down the night's most memorable moments - from the night's winners to the fashion standouts and buzzworthy speeches(n)</desc>
 	</programme>
 	<programme start="20190107050000 +0000" stop="20190107050000 +0000" channel="E! Entertainment Television">
@@ -1608,12 +1731,11 @@
 		<desc lang="en">Nights like these start with E! when "Live From The Red Carpet" returns with the most extensive multiplatform coverage of the 2019 Golden Globe Awards. Hosted by Ryan Seacrest and Giuliana Rancic, only E! will bring the real magic of the red carpet to pop culture fans around the globe, capturing every spontaneous moment of the night and delivering the most fun and authentic celebrity conversations with the industry's hottest names(n)</desc>
 	</programme>
 	<programme start="20190107070000 +0000" stop="20190107080000 +0000" channel="E! Entertainment Television">
-		<title lang="en">Busy Tonight</title>
+		<title lang="en">Busy Tonight Live: Golden Globes After Party</title>
 		<desc lang="en">Busy and her celebrity friends break down the night's most memorable moments - from the night's winners to the fashion standouts and buzzworthy speeches(n)</desc>
 	</programme>
 	<programme start="20190107080000 +0000" stop="20190107090000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
-		<desc lang="en">Dr. Nassif takes on a patient who tried to treat her own skin cancer and ended up with a hole in her nose, while Dr. Dubrow tackles a body builder's deflated breast. A drag queen striving for perfection seeks help for his silicone lip injections gone wrong(n)</desc>
 	</programme>
 	<programme start="20190107090000 +0000" stop="20190107100000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
@@ -1637,7 +1759,6 @@
 	</programme>
 	<programme start="20190107140000 +0000" stop="20190107150000 +0000" channel="E! Entertainment Television">
 		<title lang="en">Botched</title>
-		<desc lang="en">Dr. Nassif takes on a patient who tried to treat her own skin cancer and ended up with a hole in her nose, while Dr. Dubrow tackles a body builder's deflated breast. A drag queen striving for perfection seeks help for his silicone lip injections gone wrong(n)</desc>
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107170000 +0000" channel="E! Entertainment Television">
 		<title lang="en">E! Live From the Red Carpet</title>
@@ -1724,6 +1845,7 @@
 	</programme>
 	<programme start="20190106120000 +0000" stop="20190106123000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">grown-ish</title>
+		<desc lang="en">Zoey and the gang return for their sophomore year, and Zoey is determined that her sequel be better than the original(n)</desc>
 	</programme>
 	<programme start="20190106123000 +0000" stop="20190106143000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">Garfield (2004)</title>
@@ -1763,6 +1885,7 @@
 	</programme>
 	<programme start="20190107063000 +0000" stop="20190107070000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">grown-ish</title>
+		<desc lang="en">Zoey feels insecure since her friends don't see her relationship with Luca as a relationship goal, prompting her to try a little too hard to prove that what they have is special(n)</desc>
 	</programme>
 	<programme start="20190107070000 +0000" stop="20190107073000 +0000" channel="ABC Family Channel HDTV (East)">
 		<title lang="en">5 Makeup Tips 4 You</title>
@@ -2013,8 +2136,8 @@
 		<desc lang="en">An Air Fryer, Rotisserie Oven and Dehydrator all in one!(n)</desc>
 	</programme>
 	<programme start="20190107113000 +0000" stop="20190107120000 +0000" channel="FX (East)">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid Programming(n)</desc>
+		<title lang="en">Try Total Gym for $14.95</title>
+		<desc lang="en">Total Gym Fit is the only piece of fitness equipment you need to get into the best shape of your life! 30 Day Risk-Free Trial for only $14.95. Call today!(n)</desc>
 	</programme>
 	<programme start="20190107120000 +0000" stop="20190107140000 +0000" channel="FX (East)">
 		<title lang="en">True Story (2015)</title>
@@ -2630,7 +2753,7 @@
 	</programme>
 	<programme start="20190106170000 +0000" stop="20190106180000 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">Big Ten Elite</title>
-		<desc lang="en">A look at the best teams in Big Ten history(n)</desc>
+		<desc lang="en">The 2005 Illinois basketball team(n)</desc>
 	</programme>
 	<programme start="20190106180000 +0000" stop="20190106200000 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">College Basketball</title>
@@ -2642,7 +2765,6 @@
 	</programme>
 	<programme start="20190106201500 +0000" stop="20190106221500 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">College Wrestling</title>
-		<desc lang="en">Rutgers at Minnesota(n)</desc>
 	</programme>
 	<programme start="20190106221500 +0000" stop="20190106223000 +0000" channel="Big Ten Network HDTV (National)">
 		<title lang="en">Big Ten Game Break</title>
@@ -2807,6 +2929,7 @@
 	</programme>
 	<programme start="20190107010000 +0000" stop="20190107013000 +0000" channel="Fox Sports 1 HDTV">
 		<title lang="en">FS1 PBC Face to Face</title>
+		<desc lang="en">Before the IBF super middleweight championship bout between Jose Uzcategui and Caleb Plant, the two fighters go face-to-face(n)</desc>
 	</programme>
 	<programme start="20190107013000 +0000" stop="20190107020000 +0000" channel="Fox Sports 1 HDTV">
 		<title lang="en">FS1 PBC Countdown</title>
@@ -2864,7 +2987,6 @@
 	</programme>
 	<programme start="20190107233000 +0000" stop="20190108000000 +0000" channel="Fox Sports 1 HDTV">
 		<title lang="en">FS1 PBC Face to Face</title>
-		<desc lang="en">Before the IBF super middleweight championship bout between Jose Uzcategui and Caleb Plant, the two fighters go face-to-face(n)</desc>
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="Fox Sports 2">
 		<title lang="en">PBC Collection</title>
@@ -3278,56 +3400,75 @@
 		<desc lang="en">Indiana Pacers at Toronto Raptors. From Scotiabank Arena(n)</desc>
 	</programme>
 	<programme start="20190107110000 +0000" stop="20190107120000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Indiana Pacers at Toronto Raptors. From Scotiabank Arena(n)</desc>
 	</programme>
-	<programme start="20190107120000 +0000" stop="20190107130000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107120000 +0000" stop="20190107123000 +0000" channel="NBA TV Canada">
+		<title lang="en">Raptors Post Up</title>
+		<desc lang="en">A Toronto Raptors postgame show featuring highlights and interviews(n)</desc>
 	</programme>
-	<programme start="20190107130000 +0000" stop="20190107140000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
-	</programme>
-	<programme start="20190107140000 +0000" stop="20190107150000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107123000 +0000" stop="20190107150000 +0000" channel="NBA TV Canada">
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Indiana Pacers at Toronto Raptors. From Scotiabank Arena(n)</desc>
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Gametime</title>
+		<desc lang="en">NBA scores, highlights and analysis, with look-ins on live action(n)</desc>
+		<star-rating>
+			<value>8.0</value>
+		</star-rating>
 	</programme>
 	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Indiana Pacers at Toronto Raptors. From Scotiabank Arena(n)</desc>
 	</programme>
-	<programme start="20190107170000 +0000" stop="20190107180000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107170000 +0000" stop="20190107173000 +0000" channel="NBA TV Canada">
+		<title lang="en">Raptors Post Up</title>
+		<desc lang="en">A Toronto Raptors postgame show featuring highlights and interviews(n)</desc>
 	</programme>
-	<programme start="20190107180000 +0000" stop="20190107190000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107173000 +0000" stop="20190107183000 +0000" channel="NBA TV Canada">
+		<title lang="en">NBA Gametime</title>
+		<desc lang="en">NBA scores, highlights and analysis, with look-ins on live action(n)</desc>
+		<star-rating>
+			<value>8.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20190107183000 +0000" stop="20190107190000 +0000" channel="NBA TV Canada">
+		<title lang="en">High Tops: Plays of the Month</title>
+		<sub-title lang="en">Plays of the Month</sub-title>
+		<desc lang="en">Brent Barry counts down the NBA's best plays and moments from the past month(n)</desc>
 	</programme>
 	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Utah Jazz at Toronto Raptors. From Scotiabank Arena(n)</desc>
 	</programme>
 	<programme start="20190107200000 +0000" stop="20190107210000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Toronto Raptors at San Antonio Spurs. From AT&amp;T Center(n)</desc>
 	</programme>
 	<programme start="20190107210000 +0000" stop="20190107220000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+		<title lang="en">NBA Basketball</title>
+		<desc lang="en">Toronto Raptors at Milwaukee Bucks. From Fiserv Forum(n)</desc>
 	</programme>
-	<programme start="20190107220000 +0000" stop="20190107230000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107220000 +0000" stop="20190107223000 +0000" channel="NBA TV Canada">
+		<title lang="en">NBA Action</title>
+		<desc lang="en">A recap of the week in the NBA, featuring news and highlights. Also included is a rundown of the best and worst performers(n)</desc>
 	</programme>
-	<programme start="20190107230000 +0000" stop="20190108000000 +0000" channel="NBA TV Canada">
-		<title lang="en">NBA TV Programming</title>
-		<desc lang="en">NBA TV programming(n)</desc>
+	<programme start="20190107223000 +0000" stop="20190107230000 +0000" channel="NBA TV Canada">
+		<title lang="en">High Tops: Plays of the Month</title>
+		<sub-title lang="en">Plays of the Month</sub-title>
+		<desc lang="en">Brent Barry counts down the NBA's best plays and moments from the past month(n)</desc>
+	</programme>
+	<programme start="20190107230000 +0000" stop="20190107233000 +0000" channel="NBA TV Canada">
+		<title lang="en">The Starters</title>
+		<desc lang="en">Opinionated and offbeat NBA commentary from a collection of fan-focused voices with a social-media presence. The group was formerly known as "The Basketball Jones."(n)</desc>
+		<star-rating>
+			<value>6.0</value>
+		</star-rating>
+	</programme>
+	<programme start="20190107233000 +0000" stop="20190108000000 +0000" channel="NBA TV Canada">
+		<title lang="en">10 Before Tip</title>
+		<desc lang="en">The latest NBA news and notes, featuring 10 items fans need to know heading into tonight's games. Guests from around the league join host Jared Greenberg(n)</desc>
 	</programme>
 	<programme start="20190106120000 +0000" stop="20190106140000 +0000" channel="The Golf Channel HDTV">
 		<title lang="en">Morning Drive</title>
@@ -3681,6 +3822,7 @@
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190106090000 +0000" stop="20190106100000 +0000" channel="WWE Network">
 		<title lang="en">205 Live</title>
@@ -3692,7 +3834,6 @@
 	</programme>
 	<programme start="20190106110000 +0000" stop="20190106113000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190106113000 +0000" stop="20190106120000 +0000" channel="WWE Network">
 		<title lang="en">This Week in WWE</title>
@@ -3700,6 +3841,7 @@
 	</programme>
 	<programme start="20190106120000 +0000" stop="20190106140000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT</title>
+		<desc lang="en">Showcasing WWE's brightest young talent as they battle to become superstars and divas of tomorrow(n)</desc>
 	</programme>
 	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3711,6 +3853,7 @@
 	</programme>
 	<programme start="20190106160000 +0000" stop="20190106163000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
+		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190106163000 +0000" stop="20190106170000 +0000" channel="WWE Network">
 		<title lang="en">WWE Chronicle</title>
@@ -3727,10 +3870,10 @@
 	</programme>
 	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190107000000 +0000" stop="20190107003000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
@@ -3781,10 +3924,10 @@
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
-		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
+		<desc lang="en">Up-and-coming United Kingdom wrestling stars are put to the test to move up the ranks of WWE(n)</desc>
 	</programme>
 	<programme start="20190107170000 +0000" stop="20190107180000 +0000" channel="WWE Network">
 		<title lang="en">New Day's 2018 Super Spectacular</title>
@@ -3796,7 +3939,6 @@
 	</programme>
 	<programme start="20190107183000 +0000" stop="20190107190000 +0000" channel="WWE Network">
 		<title lang="en">Edge and Christian Show</title>
-		<desc lang="en">Edge and Christian investigate an infamous urban legend. Meanwhile, dissension spoils a surprise on 'Total Divos', Drake Maverick presents the latest nautical novelty, and a new hotline delivers the inside scoop(n)</desc>
 	</programme>
 	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="WWE Network">
 		<title lang="en">WWE NXT UK</title>
@@ -3941,6 +4083,7 @@
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="Animal Planet HDTV (East)">
 		<title lang="en">Animal Cops: Houston</title>
+		<desc lang="en">SPCA officers are horrified by rumours of an illegal puppy farm, travelling more than 100 miles from Houston to Grimes County to carry out a dramatic raid(n)</desc>
 	</programme>
 	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="Animal Planet HDTV (East)">
 		<title lang="en">My Cat From Hell</title>
@@ -4555,7 +4698,7 @@
 	</programme>
 	<programme start="20190107130000 +0000" stop="20190107140000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
-		<desc lang="en">Modern-day explorers are competing in a new space race to send the first people to Mars, and cutting-edge technology might make the Red Planet the next home for humans(n)</desc>
+		<desc lang="en">Recent discoveries have revealed vast clouds of dark matter in the universe. Included: whether the mysterious matter may prove the existence of multiple universes(n)</desc>
 	</programme>
 	<programme start="20190107140000 +0000" stop="20190107150000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
@@ -4563,7 +4706,7 @@
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
-		<desc lang="en">Time travel is less impossible than thought, and the newest discoveries in space and theoretical physics have humans on the brink of cracking one of the universe's greatest puzzles(n)</desc>
+		<desc lang="en">New research into alien volcanoes in the solar system reveals that many of these fiery wonders are similar to volcanoes on Earth, and some might have created the conditions for extraterrestrial life(n)</desc>
 	</programme>
 	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
@@ -4575,27 +4718,23 @@
 	</programme>
 	<programme start="20190107180000 +0000" stop="20190107190000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
-		<desc lang="en">New discoveries reveal that the moon could be the next home for human life, triggering a new international space race to make it the home of humanity's first space colony(n)</desc>
+		<desc lang="en">New discoveries are changing everything known about black holes, and using the latest science and technology, experts reveal secrets to the mysteries behind these strange and deadly places(n)</desc>
 	</programme>
 	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
-		<desc lang="en">A look at the strange secrets of Pluto(n)</desc>
+		<desc lang="en">Scientists on the hunt for extraterrestrial life suspect that it might be closer than we think: our very own solar system. Using the latest discoveries, experts might at last confirm that neighboring planets might harbor alien life(n)</desc>
 	</programme>
 	<programme start="20190107200000 +0000" stop="20190107210000 +0000" channel="Science HDTV">
 		<title lang="en">Space's Deepest Secrets</title>
 		<desc lang="en">A star hundreds of light years away might hold the hard evidence of extraterrestrial life as experts speculate that its bizarre behavior points to proof of a massive alien-made megastructure(n)</desc>
 	</programme>
-	<programme start="20190107210000 +0000" stop="20190107220000 +0000" channel="Science HDTV">
-		<title lang="en">NASA's Unexplained Files</title>
-		<desc lang="en">Purported UFO sightings by astronauts and questionable images captured by NASA's cameras are discussed(n)</desc>
-	</programme>
-	<programme start="20190107220000 +0000" stop="20190107230000 +0000" channel="Science HDTV">
-		<title lang="en">NASA's Unexplained Files</title>
-		<desc lang="en">Purported UFO sightings by astronauts and questionable images captured by NASA's cameras are discussed(n)</desc>
+	<programme start="20190107210000 +0000" stop="20190107230000 +0000" channel="Science HDTV">
+		<title lang="en">Space's Deepest Secrets</title>
+		<desc lang="en">The stories of deep-space explorers who are risking their careers, and even their lives, to lead humanity to worlds yet to be seen(n)</desc>
 	</programme>
 	<programme start="20190107230000 +0000" stop="20190108000000 +0000" channel="Science HDTV">
-		<title lang="en">NASA's Unexplained Files</title>
-		<desc lang="en">Purported UFO sightings by astronauts and questionable images captured by NASA's cameras are discussed(n)</desc>
+		<title lang="en">Space's Deepest Secrets</title>
+		<desc lang="en">New discoveries reveal that everything known about the moon could be wrong, and now, investigators are racing to understand the mysteries of its dark and violent past(n)</desc>
 	</programme>
 	<programme start="20190106070000 +0000" stop="20190106073000 +0000" channel="Do It Yourself Network HDTV (East)">
 		<title lang="en">First Time Flippers</title>
@@ -4720,16 +4859,16 @@
 		<desc lang="en">A young couple leave the Air Force to build a log cabin together and start a new life in the last frontier of Alaska. With only three weeks to make it ready before the winter, they'll need all the family, friends and determination they can muster to get it done(n)</desc>
 	</programme>
 	<programme start="20190107090000 +0000" stop="20190107093000 +0000" channel="Do It Yourself Network HDTV (East)">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid Programming(n)</desc>
+		<title lang="en">The NEW BISSELL CrossWave Pet Pro</title>
+		<desc lang="en">The NEW BISSELL CrossWave Pet Pro makes it easy to clean up after kids and pets because it vacuums and washes your floors and freshens your area rugs! Exclusive TV offer includes FREE gifts and FREE shipping! For more info text "WAVE" to 246810(n)</desc>
 	</programme>
 	<programme start="20190107093000 +0000" stop="20190107100000 +0000" channel="Do It Yourself Network HDTV (East)">
 		<title lang="en">American Rehab: Buffalo</title>
 		<desc lang="en">Renovations continue on the 1910 house. Included: Jason and Bernice decide to move the master bedroom from the front of the house to its original home in back(n)</desc>
 	</programme>
 	<programme start="20190107100000 +0000" stop="20190107103000 +0000" channel="Do It Yourself Network HDTV (East)">
-		<title lang="en">Infomercial</title>
-		<desc lang="en">Learn about a wide selection of products and take advantage of a convenient method of shopping. A show for those who love to shop from the comforts of their home(n)</desc>
+		<title lang="en">Try Total Gym for $14.95</title>
+		<desc lang="en">Total Gym Fit is the only piece of fitness equipment you need to get into the best shape of your life! 30 Day Risk-Free Trial for only $14.95. Call today!(n)</desc>
 	</programme>
 	<programme start="20190107103000 +0000" stop="20190107110000 +0000" channel="Do It Yourself Network HDTV (East)">
 		<title lang="en">Go Ahead and Glow Brighter with Specific Beauty</title>
@@ -4811,457 +4950,341 @@
 		<title lang="en">Barnwood Builders</title>
 		<desc lang="en">Mark finds a perfectly preserved bank barn in Pennsylvania and considers keeping it for himself. Also: he visits a bank barn that has been completely renovated into a high-end home(n)</desc>
 	</programme>
-	<programme start="20190106050000 +0000" stop="20190106070000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Hitler's Secret Tunnels</title>
-	</programme>
-	<programme start="20190106070000 +0000" stop="20190106080000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ancient Aliens</title>
-		<sub-title lang="en">Russia Declassified</sub-title>
-		<desc lang="en">A look at suspicions that the U.S. and Russia have been working together to prepare for an extraterrestrial encounter(n)</desc>
-		<episode-num system="xmltv_ns">12.10.</episode-num>
-	</programme>
-	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ancient Aliens</title>
-		<sub-title lang="en">The Taken</sub-title>
-		<desc lang="en">Profiles of people who claimed to have been abducted by extraterrestrials(n)</desc>
-		<episode-num system="xmltv_ns">12.8.</episode-num>
-	</programme>
-	<programme start="20190106090000 +0000" stop="20190106110000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ancient Aliens</title>
-		<sub-title lang="en">The Return</sub-title>
-		<desc lang="en">Stories of alien encounters in the 20th century are examined, including speculation on future contact and the protocol regarding forms of communication. Included: the famous Roswell incident(n)</desc>
-		<icon src="https://i.yo.tv/images/9/32608/s/4ae425ce58ef75f8488fefcd450420d0.jpg"/>
-		<episode-num system="xmltv_ns">0.5.</episode-num>
-	</programme>
-	<programme start="20190106110000 +0000" stop="20190106120000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ice Road Truckers</title>
-		<sub-title lang="en">Break On Through</sub-title>
-		<desc lang="en">Company owners pull off a successful power play but run the risk of losing everything if a truck breaks down; and a driver must backtrack hundreds of miles to recover lost freight or possibly lose an important contract. Meanwhile, a rookie's inexperience costs him on a tough winter road; and with melting continuing, a driver must fight for his life on thin ice(n)</desc>
-		<icon src="https://i.yo.tv/images/9/3780-9-6/s/80ff503a0f5fdb410f635f774fd4a3aa.jpg"/>
-		<episode-num system="xmltv_ns">8.5.</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190106120000 +0000" stop="20190106123000 +0000" channel="History Television HDTV (East)">
+	<programme start="20190106090200 +0000" stop="20190106093000 +0000" channel="History Television HDTV (East)">
 		<title lang="en">Paid Programming</title>
 		<desc lang="en">Paid Programming(n)</desc>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+	</programme>
+	<programme start="20190106093000 +0000" stop="20190106100000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106100000 +0000" stop="20190106103000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106103000 +0000" stop="20190106110000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106110000 +0000" stop="20190106113000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106113000 +0000" stop="20190106120000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190106120000 +0000" stop="20190106123000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Counting Cars</title>
+		<desc lang="en">A Stutz IV-Porte is restored(n)</desc>
 	</programme>
 	<programme start="20190106123000 +0000" stop="20190106130000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Paid Programming (?)</title>
-		<desc lang="en">Paid Programming(n)</desc>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+		<title lang="en">Counting Cars</title>
+		<desc lang="en">A 1973 Chevy Blazer is restored; a creepy bike is built for the owner of a New Orleans hotel(n)</desc>
 	</programme>
-	<programme start="20190106130000 +0000" stop="20190106140000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Rust Valley Restorers</title>
-		<sub-title lang="en">Go Big or Go Home</sub-title>
-		<desc lang="en">Mike Hall opens his shop. Avery and his team restore a 1966 Lincoln Ragtop Convertible(n)</desc>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
+	<programme start="20190106130000 +0000" stop="20190106133000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Counting Cars</title>
+		<desc lang="en">The guys give away a hot rod at an annual rockabilly reunion. Also: a custom order for a woman's dream bike(n)</desc>
 	</programme>
-	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">American Pickers</title>
-		<sub-title lang="en">Who's the Rarest of Them All?</sub-title>
-		<desc lang="en">The guys visit a designer with a rare collection of Studebakers(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt2313592/s/c10aaa49244423e89970de4efd9712ef.jpg"/>
-		<episode-num system="xmltv_ns">7.27.</episode-num>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+	<programme start="20190106133000 +0000" stop="20190106140000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Counting Cars</title>
+		<desc lang="en">A 1971 Cadillac is featured(n)</desc>
 	</programme>
-	<programme start="20190106150000 +0000" stop="20190106160000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">American Pickers</title>
-		<sub-title lang="en">On the Road Again</sub-title>
-		<desc lang="en">Mike cruises Route 66 in an antique convertible to return the car to the previous owner's widow(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt3163812/s/ff77099766e71f44e0c71f0837c71e5f.jpg"/>
-		<episode-num system="xmltv_ns">7.28.</episode-num>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+	<programme start="20190106140000 +0000" stop="20190106170000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Counting Cars</title>
 	</programme>
-	<programme start="20190106160000 +0000" stop="20190106170000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Rust Valley Restorers</title>
-		<sub-title lang="en">Go Big or Go Home</sub-title>
-		<desc lang="en">Mike Hall opens his shop. Avery and his team restore a 1966 Lincoln Ragtop Convertible(n)</desc>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
-	</programme>
-	<programme start="20190106170000 +0000" stop="20190106180000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<desc lang="en">Matty Blake treks to Oak Island to take a look at the team's latest and most epic operation yet, as well as get new insight from brothers Rick and Marty Lagina on the many highlights from the first five years of their quest(n)</desc>
-	</programme>
-	<programme start="20190106180000 +0000" stop="20190106190000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island: Digging Deeper</title>
-		<sub-title lang="en">Digging Deeper</sub-title>
-		<desc lang="en">Rick, Marty and the team follow up on last year's amazing discoveries and continue their search for the elusive Oak Island Money Pit(n)</desc>
-	</programme>
-	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island: Digging Deeper</title>
-		<sub-title lang="en">Digging Deeper</sub-title>
-		<desc lang="en">Rick, Marty and the team follow up on last year's amazing discoveries and continue their search for the elusive Oak Island Money Pit(n)</desc>
+	<programme start="20190106170000 +0000" stop="20190106200000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">National Treasure (2004)</title>
+		<desc lang="en">Benjamin Franklin Gates (Nicolas Cage) descends from a family of treasure-seekers who have shared an unusual quest. As Gates-family legend has it, George Washington, Thomas Jefferson, and Benjamin Franklin hid a massive cache of gold during the waning days of the Revolutionary War. Ben's close to discovering its whereabouts, but the FBI and his competition are also hip to the hunt(n)</desc>
 	</programme>
 	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Gold Rush</sub-title>
-		<desc lang="en">Rick and Marty Lagina begin the biggest and most expensive operation ever undertaken in the 223 year long treasure hunt. And after years of searching, the brotherhood finally strikes gold(n)</desc>
-		<episode-num system="xmltv_ns">5.1.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Exploring the "Greys," alleged alien beings with gray skin, enlarged heads and large eyes. Included: how the beings have been depicted in carved rock art through the ages(n)</desc>
 	</programme>
 	<programme start="20190106210000 +0000" stop="20190106220000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Depth Perception</sub-title>
-		<desc lang="en">The seismic results reveal the existence of a mysterious underground chamber; Gary and Jack make a discovery suggesting another Templar connection(n)</desc>
-		<episode-num system="xmltv_ns">5.2.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Examining a theory that early humans communicated with extraterrestrials from mountain peaks(n)</desc>
 	</programme>
 	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">A Legacy Revealed</sub-title>
-		<desc lang="en">Rick is faced with a tragic loss; and further investigation suggests that Gary's latest find may be the oldest discovery on the island to date(n)</desc>
-		<episode-num system="xmltv_ns">5.5.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Exploring a theory that spiritual leaders have communicated with extraterrestrials throughout history(n)</desc>
 	</programme>
 	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Homecoming</sub-title>
-		<desc lang="en">Seismic results guide the team to a possible network of tunnels in the Money Pit, while Gary unearths the first evidence of a French presence that could rewrite the history of the Oak Island mystery(n)</desc>
-		<episode-num system="xmltv_ns">5.7.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Stories of lost civilizations and potential links to aliens are examined(n)</desc>
 	</programme>
 	<programme start="20190107000000 +0000" stop="20190107010000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Precious Metal</sub-title>
-		<desc lang="en">Insights suggest that a Templar has a connection to the Money Pit(n)</desc>
-		<episode-num system="xmltv_ns">5.5.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Crop circles are investigated(n)</desc>
 	</programme>
 	<programme start="20190107010000 +0000" stop="20190107020000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
+		<title lang="en">Ancient Aliens: Declassified</title>
 	</programme>
-	<programme start="20190107020000 +0000" stop="20190107030000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Precious Metal</sub-title>
-		<desc lang="en">Insights suggest that a Templar has a connection to the Money Pit(n)</desc>
-		<episode-num system="xmltv_ns">5.5.</episode-num>
+	<programme start="20190107020000 +0000" stop="20190107040500 +0000" channel="History Television HDTV (East)">
+		<title lang="en">UFO Cover Ups: Secrets Revealed</title>
 	</programme>
-	<programme start="20190107030000 +0000" stop="20190107050000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Rock Solid</sub-title>
-		<episode-num system="xmltv_ns">5.11.</episode-num>
+	<programme start="20190107040500 +0000" stop="20190107050300 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">In 1980, a man received a code after touching an alleged spaceship. After the sequence was translated, he was told never to speak of the incident again(n)</desc>
 	</programme>
-	<programme start="20190107050000 +0000" stop="20190107060000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
+	<programme start="20190107050300 +0000" stop="20190107050300 +0000" channel="History Television HDTV (East)">
+		<title lang="en">UFO Cover Ups: Secrets Revealed</title>
 	</programme>
-	<programme start="20190107060000 +0000" stop="20190107080000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Rock Solid</sub-title>
-		<episode-num system="xmltv_ns">5.11.</episode-num>
+	<programme start="20190107050300 +0000" stop="20190107070800 +0000" channel="History Television HDTV (East)">
+		<title lang="en">UFO Cover Ups: Secrets Revealed</title>
 	</programme>
-	<programme start="20190107080000 +0000" stop="20190107090000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
+	<programme start="20190107070800 +0000" stop="20190107080600 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens: Declassified</title>
 	</programme>
-	<programme start="20190107090000 +0000" stop="20190107100000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<sub-title lang="en">Precious Metal</sub-title>
-		<desc lang="en">Insights suggest that a Templar has a connection to the Money Pit(n)</desc>
-		<episode-num system="xmltv_ns">5.5.</episode-num>
+	<programme start="20190107080600 +0000" stop="20190107090200 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">In 1980, a man received a code after touching an alleged spaceship. After the sequence was translated, he was told never to speak of the incident again(n)</desc>
 	</programme>
-	<programme start="20190107100000 +0000" stop="20190107110000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">The Curse of Oak Island</title>
-		<desc lang="en">Matty Blake treks to Oak Island to take a look at the team's latest and most epic operation yet, as well as get new insight from brothers Rick and Marty Lagina on the many highlights from the first five years of their quest(n)</desc>
+	<programme start="20190107090200 +0000" stop="20190107093000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Airfryer Oven</title>
+		<desc lang="en">An Air Fryer, Rotisserie Oven and Dehydrator all in one!(n)</desc>
 	</programme>
-	<programme start="20190107110000 +0000" stop="20190107120000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Canadian Pickers</title>
-		<sub-title lang="en">Always Buying, Sometimes Selling</sub-title>
-		<desc lang="en">A trip near Balzac, Alberta, includes a visit with an 84-year-old collector(n)</desc>
-		<icon src="https://i.yo.tv/p/se/d38292/s/CD1F240C053670A84CAD947C9C83B844.jpg"/>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
+	<programme start="20190107093000 +0000" stop="20190107100000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107100000 +0000" stop="20190107103000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107103000 +0000" stop="20190107110000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107110000 +0000" stop="20190107113000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
+	</programme>
+	<programme start="20190107113000 +0000" stop="20190107120000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid Programming(n)</desc>
 	</programme>
 	<programme start="20190107120000 +0000" stop="20190107130000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ice Road Truckers</title>
-		<sub-title lang="en">Icy Alliance</sub-title>
-		<desc lang="en">In the Season 9 finale, Lisa and Todd struggle across the frozen Hudson Bay; Darrell drives a seriously torn-up trail; Art faces the last open-ice crossing; and Alex is sideswiped by a tanker(n)</desc>
-		<icon src="https://i.yo.tv/images/9/3780-9-10/s/3b7d80ad389f42c16afeb435f235ac88.jpg"/>
-		<episode-num system="xmltv_ns">8.0.</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
+		<title lang="en">UFO Files</title>
+		<desc lang="en">Invisibility cloaks, laser weapons and tele-transporters would probably all be fitted to an alien spaceship, but what if they could be used by humans too?(n)</desc>
 	</programme>
 	<programme start="20190107130000 +0000" stop="20190107140000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Yukon Gold</title>
-		<sub-title lang="en">Know When to Fold 'Em</sub-title>
-		<desc lang="en">Cam hits a dangerous ice wall; Al's dozer breaks down(n)</desc>
-		<icon src="https://i.yo.tv/p/se/d40638/s/AC5CED37861E1AF8FD0D2EBB7873FBCC.jpg"/>
-		<episode-num system="xmltv_ns">1.8.</episode-num>
+		<title lang="en">UFO Files</title>
+		<desc lang="en">Reports of UFO sightings are combined with animation technology to re-create an alien spacecraft(n)</desc>
 	</programme>
 	<programme start="20190107140000 +0000" stop="20190107150000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Ice Road Truckers</title>
-		<sub-title lang="en">The Lone Wolf</sub-title>
-		<desc lang="en">Hugh hauls a lucrative load across rough terrain(n)</desc>
-		<icon src="https://i.yo.tv/images/9/3780-8-6/s/0365650111f72534374d0a5491a6c066.jpg"/>
-		<episode-num system="xmltv_ns">7.5.</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
+		<title lang="en">UFO Files</title>
+		<desc lang="en">Experimental aircraft that may have been inspired by supposed alien technology(n)</desc>
 	</programme>
 	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Canadian Pickers</title>
-		<sub-title lang="en">Always Buying, Sometimes Selling</sub-title>
-		<desc lang="en">A trip near Balzac, Alberta, includes a visit with an 84-year-old collector(n)</desc>
-		<icon src="https://i.yo.tv/p/se/d38292/s/CD1F240C053670A84CAD947C9C83B844.jpg"/>
-		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<title lang="en">UFO Files</title>
+		<desc lang="en">Examining the supposed 1897 crash of a UFO in Aurora, Texas. According to lore, the craft crashed into a windmill, and its alien pilot was buried in a local cemetery(n)</desc>
 	</programme>
-	<programme start="20190107160000 +0000" stop="20190107163000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Border Security (?)</title>
-		<desc lang="en">An American Indian says he does not live by the Australian laws. He is here to collect his Australian girlfriend(n)</desc>
+	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">UFO Files</title>
+		<desc lang="en">A history of the Kaputsin Yar rocket-launch site, located in the Astrakhan Oblast region of Russia, focuses on reports of UFO activity in the area, beginning in the 1940s. Included: dramatic reenactments(n)</desc>
 	</programme>
-	<programme start="20190107163000 +0000" stop="20190107170000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Border Security (?)</title>
-		<desc lang="en">An American Indian says he does not live by the Australian laws. He is here to collect his Australian girlfriend(n)</desc>
+	<programme start="20190107170000 +0000" stop="20190107190000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Examining early evidence of aliens and the influence of the supposed visitors. Included: Hopi and Zuni costumes; Chinese legends that could be about a spacecraft(n)</desc>
 	</programme>
-	<programme start="20190107170000 +0000" stop="20190107180000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">American Pickers</title>
-		<sub-title lang="en">Signs of Struggle</sub-title>
-		<desc lang="en">Mike struggles to free a huge vintage sign. Also, the guys try to seal an impossible deal, and Danielle and Frank bask in a final joyride in a 1956 Chevy(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt3535110/s/28be8ea8085affc7a241866efeb8e996.jpg"/>
-		<episode-num system="xmltv_ns">7.36.</episode-num>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107180000 +0000" stop="20190107183000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Cowboys and Cannons</sub-title>
-		<desc lang="en">Items include a 19th-century sundial cannon; a signed helmet from the 1980 film "Heaven's Gate"; sterling-silver baby figurines; and 1964 Beatles board game(n)</desc>
-		<episode-num system="xmltv_ns">0..</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107183000 +0000" stop="20190107190000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Longshot Pawn</sub-title>
-		<desc lang="en">Items include a rare Nepalese Bira gun from the late 1800s; a 1970s Bob Peak TWA mural; and a three-trumpet brass horn(n)</desc>
-		<episode-num system="xmltv_ns">0..</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107190000 +0000" stop="20190107193000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Pawn in Space</sub-title>
-		<desc lang="en">Items include a helmet signed by the cast of the 1960s TV show "Lost in Space"; a strange antique object that has Rick and Corey scratching their heads; a pair of sneakers signed by NBA star Robert Parish(n)</desc>
-		<episode-num system="xmltv_ns">12.7.</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107193000 +0000" stop="20190107200000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Capture the Pawn</sub-title>
-		<desc lang="en">Items include an 1589 book with the instructions for war and fortification; an 1840s chess table; a pair of antique door knockers; and an 1800s experimental rifle(n)</desc>
-		<episode-num system="xmltv_ns">0..</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
+	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Scientists explore the possibility that sightings of alien beings or UFOs may be evidence of time travellers from the future(n)</desc>
 	</programme>
 	<programme start="20190107200000 +0000" stop="20190107210000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Forged in Fire</title>
-		<sub-title lang="en">Kora Sword</sub-title>
-		<desc lang="en">Blades using steel harvested from power tools are crafted. Then, Kora swords are forged(n)</desc>
-		<icon src="https://i.yo.tv/images/9/62884/s/005fb76216735658183ee1a9f33dac92.jpg"/>
-		<episode-num system="xmltv_ns">2.4.</episode-num>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">Experts question the startling similarities in burial tombs from distant cultures, asking if aliens could have influenced their complicated designs(n)</desc>
 	</programme>
-	<programme start="20190107210000 +0000" stop="20190107213000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Cowboys and Cannons</sub-title>
-		<desc lang="en">Items include a 19th-century sundial cannon; a signed helmet from the 1980 film "Heaven's Gate"; sterling-silver baby figurines; and 1964 Beatles board game(n)</desc>
-		<episode-num system="xmltv_ns">0..</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107213000 +0000" stop="20190107220000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">Pawn Stars</title>
-		<sub-title lang="en">Longshot Pawn</sub-title>
-		<desc lang="en">Items include a rare Nepalese Bira gun from the late 1800s; a 1970s Bob Peak TWA mural; and a three-trumpet brass horn(n)</desc>
-		<episode-num system="xmltv_ns">0..</episode-num>
-		<star-rating>
-			<value>7.0</value>
-		</star-rating>
-	</programme>
-	<programme start="20190107220000 +0000" stop="20190107230000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">American Pickers</title>
-		<sub-title lang="en">The Great Pumpkin Showdown</sub-title>
-		<desc lang="en">There's thousands on the line involving a deal with a tough negotiator, and they meet Hubba, a rockabilly reverend with many talents(n)</desc>
-		<icon src="https://i.yo.tv/images/9/32025/s/5d95f570843376a0d95f8bc0f49aca1d.jpg"/>
-		<episode-num system="xmltv_ns">14.40.</episode-num>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+	<programme start="20190107210000 +0000" stop="20190107230000 +0000" channel="History Television HDTV (East)">
+		<title lang="en">Ancient Aliens</title>
 	</programme>
 	<programme start="20190107230000 +0000" stop="20190108000000 +0000" channel="History Television HDTV (East)">
-		<title lang="en">American Pickers</title>
-		<sub-title lang="en">Signs of Struggle</sub-title>
-		<desc lang="en">Mike struggles to free a huge vintage sign. Also, the guys try to seal an impossible deal, and Danielle and Frank bask in a final joyride in a 1956 Chevy(n)</desc>
-		<icon src="https://i.yo.tv/images/17/tt3535110/s/28be8ea8085affc7a241866efeb8e996.jpg"/>
-		<episode-num system="xmltv_ns">7.36.</episode-num>
-		<star-rating>
-			<value>5.0</value>
-		</star-rating>
+		<title lang="en">Ancient Aliens</title>
+		<desc lang="en">The ancient site of Gobekli Tepe challenges everything modern archaeologists believe about mankind's past, including possible extra-terrestrial visitors(n)</desc>
 	</programme>
-	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Married With Secrets</title>
-		<desc lang="en">When dozens of women vanish from the Sunshine State in the late 1960s, they're presumed runways. It isn't until police discover the bodies of two missing teens that they uncover the sadistic work of a prolific serial killer(n)</desc>
+	<programme start="20190106080000 +0000" stop="20190106083000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Emergency</title>
+		<desc lang="en">A fishing trip is cut short for a father and his son by terrible back pain; a mother urges her son to seek treatment for a boil under his arm; a grandmother's heart is racing after she forgets to take her medication(n)</desc>
 	</programme>
-	<programme start="20190106090000 +0000" stop="20190106100000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Unusual Suspects</title>
-		<desc lang="en">A Kentucky woman is found dead in the trunk of her car(n)</desc>
+	<programme start="20190106083000 +0000" stop="20190106090000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Emergency</title>
+		<desc lang="en">A man has chest pains; a glassworker has a sense of humor about a severe cut; a woman worries that she's having a stroke(n)</desc>
 	</programme>
-	<programme start="20190106100000 +0000" stop="20190106110000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Unusual Suspects</title>
-		<desc lang="en">A school teacher disappears after her first day on the job(n)</desc>
+	<programme start="20190106090000 +0000" stop="20190106100000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Trauma Down Under</title>
+		<desc lang="en">Symptoms of the Ebola virus are presented by a patient; twins must be delivered early; a man on a dangerous mix of drugs requires immediate and careful attention(n)</desc>
 	</programme>
-	<programme start="20190106110000 +0000" stop="20190106120000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Dark Waters: Murder in the Deep</title>
-		<desc lang="en">Living near Lake Minnetonka, Minn., with his wife and daughter, Jeff Skelton thinks life is perfect until rumors of infidelity surface. Everyone has their breaking point. Jeff will do whatever it takes to keep his family from being pulled apart(n)</desc>
+	<programme start="20190106100000 +0000" stop="20190106110000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A teen has a tumor on his face and needs surgery to remove it; a woman deals with her body turning to stone; and a man finds a use for his gigantic arm(n)</desc>
 	</programme>
-	<programme start="20190106120000 +0000" stop="20190106130000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Dark Waters: Murder in the Deep</title>
-		<desc lang="en">Newlyweds set out for the adventure of a lifetime; their dream of sailing the world together. The honeymoon comes crashing into the dangers of reality for Don when he heads to the one remote island where a serial killer could be in hiding(n)</desc>
+	<programme start="20190106110000 +0000" stop="20190106120000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A man has surgery to rid his body of uncontrollable shaking; a woman has a 100-lb. growth that is threatening her life; experts believe a 6-year-old boy will be very tall(n)</desc>
 	</programme>
-	<programme start="20190106130000 +0000" stop="20190106140000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Dark Waters: Murder in the Deep</title>
-		<desc lang="en">Two couples arrive on the same remote and uninhabited island in the Pacific looking for paradise. Soon, all that either of them find is trouble. When one couple emerges months later, the FBI will spend years deciphering exactly what happened(n)</desc>
+	<programme start="20190106120000 +0000" stop="20190106130000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A teen girl sleeps for weeks at a time; a boy's brain is being crushed by his skull; a couple faces a big challenge(n)</desc>
 	</programme>
-	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">What Lies Beneath</title>
-		<desc lang="en">When a body is found on school property, a small Kentucky town is thrown into a panic. Investigators find themselves facing a wall of lies and false confessions that spans two states(n)</desc>
+	<programme start="20190106130000 +0000" stop="20190106140000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A mass on a boy's skull requires life-saving surgery; an 8-year-old has a rare form of dwarfism; a man is suffering from bone dysplasia(n)</desc>
 	</programme>
-	<programme start="20190106150000 +0000" stop="20190106160000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">What Lies Beneath</title>
-		<desc lang="en">After a body is discovered in Silver Lakes, Cal., detectives work to piece the puzzle together. They uncover a web of lies that unveils a sordid tale of betrayal. At trial the truth finally emerges and the identity of the killer is revealed(n)</desc>
+	<programme start="20190106140000 +0000" stop="20190106150000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">Three young siblings can't stop eating; a man with a life-threatening tumor must conquer his fear of surgery; an operation is performed to separate conjoined twins; two women born with different disabilities excel in sports and life(n)</desc>
 	</programme>
-	<programme start="20190106160000 +0000" stop="20190106170000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">What Lies Beneath</title>
-		<desc lang="en">A loving family mysteriously goes missing from their home in Hudson, Fla., and loved ones fear the worst. Following a frantic search the family is found, but not all are alive. Courtroom testimony from the trial reveals the chilling details of what ensued(n)</desc>
+	<programme start="20190106150000 +0000" stop="20190106160000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A woman suffers dizziness following a family vacation; a patient is examined concerning severe stomach pain and swollen hands and arms(n)</desc>
 	</programme>
-	<programme start="20190106170000 +0000" stop="20190106180000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">What Lies Beneath</title>
-		<desc lang="en">In Maui, a mother reports her pregnant daughter missing to police. As the island launches mass searches into the jungle, the discoveries get more horrifying and the lies more complex. The trial takes months as the evil behind this tragedy is exposed(n)</desc>
+	<programme start="20190106160000 +0000" stop="20190106170000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A runner's creeping numbness; a 1-year-old child loses the ability to walk or stand(n)</desc>
 	</programme>
-	<programme start="20190106180000 +0000" stop="20190106190000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">The Lake Erie Murders: Who Killed Amy Mihaljevic</title>
+	<programme start="20190106170000 +0000" stop="20190106180000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A baby's vaginal bleeding becomes a medical mystery; debilitating cramps leads to weight loss for a college freshman(n)</desc>
 	</programme>
-	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">The Lake Erie Murders: Who Killed Amy Mihaljevic</title>
+	<programme start="20190106180000 +0000" stop="20190106190000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A woman suffering from severe fatigue has a strange craving for pickles(n)</desc>
 	</programme>
-	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">The Lake Erie Murders: Who Killed Amy Mihaljevic</title>
+	<programme start="20190106190000 +0000" stop="20190106200000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A woman exhibits an astonishing array of ailments for more than 50 years, yet no doctor can discover the cause of the random symptoms she experiences on a daily basis(n)</desc>
 	</programme>
-	<programme start="20190106210000 +0000" stop="20190106220000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">When Debra Davis's husband accused her of being cold and immature for refusing to experiment sexually, she thought something was wrong with her. She never suspected her husband's perversions were signs that there was something evil deep within him(n)</desc>
+	<programme start="20190106200000 +0000" stop="20190106210000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">A woman suffers for years with a constant burping problem, chronic constipation and explosive diarrhea. She checks in with a new gastroenterologist, Dr. William Chey, who discovers something shocking that he has never seen before in his career(n)</desc>
 	</programme>
-	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">When Cindy first fell in love with Bobby, she never imagined that she would one day regret not committing murder. But years after she first discovered the horrifying truth, she is still haunted by the night when she decided not to kill him in his sleep(n)</desc>
+	<programme start="20190106210000 +0000" stop="20190106220000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">Two brothers with tumors covering their bodies have surgery; a woman's muscles are hardening; a man seeks treatment for unusual growths on his hands and feet(n)</desc>
 	</programme>
-	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">When Gwen Bailey married Norman Starnes she counted herself lucky to land the most eligible bachelor in town. But years later, she discovered she never really knew him at all. And by the time she realized it, she was already his unwilling accomplice(n)</desc>
+	<programme start="20190106220000 +0000" stop="20190106230000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A teen with a skin condition is desperate for relief; a woman copes with a tumor spreading across her head; a 5-year-old with a rare condition defies the odds(n)</desc>
 	</programme>
-	<programme start="20190107000000 +0000" stop="20190107010000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">As a young boy, Michael Blanco had seen his mother do violent things that seemed straight out of the movies. But he never once doubted that she did those things to keep their family safe—until the day he learned the truth(n)</desc>
+	<programme start="20190106230000 +0000" stop="20190107000000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
 	</programme>
-	<programme start="20190107010000 +0000" stop="20190107020000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">Reginald Brooks began acting strangely, and Beverly Stephens worried that her husband's bizarre behavior was a warning sign that something wasn't right. But she never suspected there was a killer lurking inside him(n)</desc>
+	<programme start="20190107000000 +0000" stop="20190107010000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">Triplets born with a rare condition need surgery or their brains could be crushed; a boy has legs that have become so large he is unable to move; a soccer star was born without feet; a mother faces criticism after giving birth(n)</desc>
 	</programme>
-	<programme start="20190107020000 +0000" stop="20190107030000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
+	<programme start="20190107010000 +0000" stop="20190107020000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">A car crash results in a fence pole penetrating the chest of the driver and going through the seat into a passenger's thigh(n)</desc>
 	</programme>
-	<programme start="20190107030000 +0000" stop="20190107040000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">The Lake Erie Murders</title>
-		<desc lang="en">The body of high-school student Debbie Gama is discovered in a creek wrapped in wire. The ensuing investigation ends up uncovering more than her murderer, revealing a secret world of twisted sex, drugs, sadomasochism and bondage(n)</desc>
+	<programme start="20190107020000 +0000" stop="20190107030000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">A robbery victim's gunshot wound is more serious than originally thought(n)</desc>
 	</programme>
-	<programme start="20190107040000 +0000" stop="20190107050000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">Jill Garrison thought her second go-around with love would last the rest of her life. But then her quiet town suddenly began to be preyed upon by a nightmarish killer. Jill didn't realize that she had invited a monster into her home(n)</desc>
+	<programme start="20190107030000 +0000" stop="20190107040000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">Captivating series charting amazing medical emergencies. A nurse collapses and a doctor must take her heart in his hands to try and save her, plus a patient turns up with a severed arm…(n)</desc>
 	</programme>
-	<programme start="20190107050000 +0000" stop="20190107060000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
+	<programme start="20190107040000 +0000" stop="20190107050000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">An anaesthesiologist has a heart attack; a pregnant woman has a cerebral aneurysm; doctors are sprayed with blood from a man who was stabbed in the heart; a prostitute's unusual hiding place for money is found(n)</desc>
 	</programme>
-	<programme start="20190107060000 +0000" stop="20190107070000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">The Lake Erie Murders</title>
-		<desc lang="en">The body of high-school student Debbie Gama is discovered in a creek wrapped in wire. The ensuing investigation ends up uncovering more than her murderer, revealing a secret world of twisted sex, drugs, sadomasochism and bondage(n)</desc>
+	<programme start="20190107050000 +0000" stop="20190107060000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">A car crash results in a fence pole penetrating the chest of the driver and going through the seat into a passenger's thigh(n)</desc>
 	</programme>
-	<programme start="20190107070000 +0000" stop="20190107080000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">Jill Garrison thought her second go-around with love would last the rest of her life. But then her quiet town suddenly began to be preyed upon by a nightmarish killer. Jill didn't realize that she had invited a monster into her home(n)</desc>
+	<programme start="20190107060000 +0000" stop="20190107070000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">A robbery victim's gunshot wound is more serious than originally thought(n)</desc>
 	</programme>
-	<programme start="20190107080000 +0000" stop="20190107090000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">Reginald Brooks began acting strangely, and Beverly Stephens worried that her husband's bizarre behavior was a warning sign that something wasn't right. But she never suspected there was a killer lurking inside him(n)</desc>
+	<programme start="20190107070000 +0000" stop="20190107080000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">Captivating series charting amazing medical emergencies. A nurse collapses and a doctor must take her heart in his hands to try and save her, plus a patient turns up with a severed arm…(n)</desc>
 	</programme>
-	<programme start="20190107090000 +0000" stop="20190107100000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">Dennis Ryan grew up believing that his father's violent teachings were preparing him to save the lives of everyone in their farmhouse. But by the time Dennis discovers the horrible truth, it is too late—he has already gone too far(n)</desc>
+	<programme start="20190107080000 +0000" stop="20190107090000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">An anaesthesiologist has a heart attack; a pregnant woman has a cerebral aneurysm; doctors are sprayed with blood from a man who was stabbed in the heart; a prostitute's unusual hiding place for money is found(n)</desc>
 	</programme>
-	<programme start="20190107100000 +0000" stop="20190107110000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Evil Lives Here</title>
-		<desc lang="en">The case of cult leader Jeffrey Lundgren, who claimed to be a prophet(n)</desc>
+	<programme start="20190107090000 +0000" stop="20190107100000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">Triplets born with a rare condition need surgery or their brains could be crushed; a boy has legs that have become so large he is unable to move; a soccer star was born without feet; a mother faces criticism after giving birth(n)</desc>
 	</programme>
-	<programme start="20190107110000 +0000" stop="20190107120000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Nightmare Next Door</title>
-		<desc lang="en">The murder of a 39-year-old New Hampshire businessman with a loving family is investigated(n)</desc>
+	<programme start="20190107100000 +0000" stop="20190107103000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Birth Day</title>
+		<desc lang="en">Morning sickness is the topic(n)</desc>
 	</programme>
-	<programme start="20190107120000 +0000" stop="20190107130000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Nightmare Next Door</title>
-		<desc lang="en">The murder of a successful entrepreneur in the quiet town of Vienna, Va., is investigated(n)</desc>
+	<programme start="20190107103000 +0000" stop="20190107110000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Birth Day</title>
+		<desc lang="en">Birth methods include a home delivery with a midwife and hypnotherapy at a hospital(n)</desc>
 	</programme>
-	<programme start="20190107130000 +0000" stop="20190107140000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Nightmare Next Door</title>
-		<desc lang="en">The disappearance of an 18-year-old freshman from the University of South Alabama is investigated(n)</desc>
+	<programme start="20190107110000 +0000" stop="20190107113000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Birth Day</title>
+		<desc lang="en">After delivering stillborn twins, a woman discovers her next pregnancy is in the transverse position, necessitating an emergency c-section(n)</desc>
 	</programme>
-	<programme start="20190107140000 +0000" stop="20190107150000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Nightmare Next Door</title>
-		<desc lang="en">The story of a Norris City, Ill., couple who went fishing, and never returned(n)</desc>
+	<programme start="20190107113000 +0000" stop="20190107120000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Birth Day</title>
+		<desc lang="en">Examining amniotic fluid and the dangers involved in having too much of it(n)</desc>
 	</programme>
-	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fatal Vows</title>
-		<desc lang="en">An online romance ends in a blood bath(n)</desc>
+	<programme start="20190107120000 +0000" stop="20190107123000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Bringing Home Baby</title>
+		<desc lang="en">A music-loving couple welcome a boy to their growing family(n)</desc>
 	</programme>
-	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fatal Vows</title>
-		<desc lang="en">A Filipino couple's marriage ends in murder(n)</desc>
+	<programme start="20190107123000 +0000" stop="20190107130000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Bringing Home Baby</title>
+		<desc lang="en">A couple who have recently moved from the Philippines adapt to a new country and a new baby(n)</desc>
 	</programme>
-	<programme start="20190107170000 +0000" stop="20190107180000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fatal Vows</title>
-		<desc lang="en">Janice thinks Brett is a good, old-fashioned country boy who just needs a woman's touch. Brett thinks she's the ideal woman to turn his country house into a home. As family tragedies mount, their dream of a perfect life together soon goes up in flames(n)</desc>
+	<programme start="20190107130000 +0000" stop="20190107133000 +0000" channel="Discovery Life Channel">
+		<title lang="en">A Baby Story</title>
+		<desc lang="en">Parents of five boys look forward to the birth of a girl(n)</desc>
 	</programme>
-	<programme start="20190107180000 +0000" stop="20190107190000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fatal Vows</title>
-		<desc lang="en">While mourning the death of his wife, Julian falls hard for his much-younger co-worker Teresa. For a time, her spunk lifts him out of to his sorrows until a sordid affair plunges him even deeper into the abyss(n)</desc>
+	<programme start="20190107133000 +0000" stop="20190107140000 +0000" channel="Discovery Life Channel">
+		<title lang="en">A Baby Story</title>
+		<desc lang="en">Following a miscarriage, a couple go through a second pregnancy and hope for a healthy baby(n)</desc>
 	</programme>
-	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fear Thy Neighbor</title>
-		<desc lang="en">A single mother and her four children find a perfect home in New Orleans. A robbery at a neighbour's house, however, results in paranoia, conflict and horrible bloodshed(n)</desc>
+	<programme start="20190107140000 +0000" stop="20190107143000 +0000" channel="Discovery Life Channel">
+		<title lang="en">A Baby Story</title>
+		<desc lang="en">A woman goes into labor suddenly in her 38th week(n)</desc>
 	</programme>
-	<programme start="20190107200000 +0000" stop="20190107210000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fear Thy Neighbor</title>
-		<desc lang="en">Two families with several children between them get along famously until one of the mothers starts to dictate to the other how she should be raising her kids. Battle lines are drawn, violence flares, and blood runs in the street(n)</desc>
+	<programme start="20190107143000 +0000" stop="20190107150000 +0000" channel="Discovery Life Channel">
+		<title lang="en">A Baby Story</title>
+		<desc lang="en">A couple with three daughters prepare for a son, but the unexpected happens at the hospital(n)</desc>
 	</programme>
-	<programme start="20190107210000 +0000" stop="20190107220000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Fear Thy Neighbor</title>
-		<desc lang="en">A woman who still lives in her family home befriends her new neighbors, only to be plunged into a nightmare of threats, violence and betrayal. When her brother steps up to protect her, blood will be spilled and lives forever shattered(n)</desc>
+	<programme start="20190107150000 +0000" stop="20190107160000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Trauma: Life in the E.R</title>
+		<desc lang="en">Medical emergencies at the Orlando Regional Medical Center include a man who punched his fist through a plate-glass window, severing arteries; four victims of a drunk driver; a man burned in a mattress fire. Also: an infant with sickle-cell anemia and a high fever(n)</desc>
 	</programme>
-	<programme start="20190107220000 +0000" stop="20190107230000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Murder Comes to Town</title>
-		<desc lang="en">The brutal murders of Mike and Terri Greene hits close to home in Grand Ledge, Mich. The couple was beloved by everyone in the small town and Mike was a retired police officer(n)</desc>
+	<programme start="20190107160000 +0000" stop="20190107170000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Trauma: Life in the E.R</title>
+		<desc lang="en">One of the busiest trauma units in the Nation, Louisville's University Hospital treats cases of domestic violence from rural areas surrounding Louisville(n)</desc>
 	</programme>
-	<programme start="20190107230000 +0000" stop="20190108000000 +0000" channel="Investigation Discovery HDTV">
-		<title lang="en">Murder Comes to Town</title>
-		<desc lang="en">What begins as a frantic 911 call to help an assaulted neighbour ends in the most bizarre investigation the small town of Walsenburg, Colo., as ever seen—complete with a twisted tale of torture, family secrets and a fallen Jehovah's Witness(n)</desc>
+	<programme start="20190107170000 +0000" stop="20190107180000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A man undergoes risky surgery to have a large facial tumor removed; a woman with a rare skin condition defies the odds; a toddler who smokes faces dramatic health consequences; doctors wonder if 7-year-old conjoined twins can be separated(n)</desc>
+	</programme>
+	<programme start="20190107180000 +0000" stop="20190107190000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Body Bizarre</title>
+		<desc lang="en">A boy can't stop his giant foot from growing. The bubble skin woman and her kids embrace their condition. A dwarf boy who has defied the odds has one more challenge to face. A man with a facial tumor will have to conquer his fear of surgery(n)</desc>
+	</programme>
+	<programme start="20190107190000 +0000" stop="20190107200000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">An active teenager experiences mysterious pains over her entire body that become so bad she must drop out of high school(n)</desc>
+	</programme>
+	<programme start="20190107200000 +0000" stop="20190107210000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Mystery Diagnosis</title>
+		<desc lang="en">Growths on a teenager's body; a 2-year-old girl gains weight at a shocking rate(n)</desc>
+	</programme>
+	<programme start="20190107210000 +0000" stop="20190107220000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Hoarding: Buried Alive</title>
+		<desc lang="en">An ill-tempered man fills his 93-year-old mother's house with clutter after moving back in with her(n)</desc>
+	</programme>
+	<programme start="20190107220000 +0000" stop="20190107230000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Hoarding: Buried Alive</title>
+		<desc lang="en">A hoarder is caught stealing from her neighbor's home; a man must choose between his hoard and his daughter(n)</desc>
+	</programme>
+	<programme start="20190107230000 +0000" stop="20190108000000 +0000" channel="Discovery Life Channel">
+		<title lang="en">Untold Stories of the E.R</title>
+		<desc lang="en">An Oklahoma tornado creates several casualties, including a woman impaled in the head by a fence picket(n)</desc>
 	</programme>
 	<programme start="20190106080000 +0000" stop="20190106090000 +0000" channel="Velocity HDTV">
 		<title lang="en">Bitchin' Rides</title>
