@@ -3847,7 +3847,7 @@
 	<programme start="20190211060000 +0000" stop="20190211090000 +0000" channel="The NFL Network Canada)">
 		<title lang="en">Super Bowl LI</title>
 		<desc lang="en">From 2017: New England vs. Atlanta in the NFL championship game at NRG Stadium in Houston(n)</desc>
-		<icon src="https://i.yo.tv/gameimage/68945883_69017456.png"/>
+		<icon src="https://"/>
 	</programme>
 	<programme start="20190211090000 +0000" stop="20190211120000 +0000" channel="The NFL Network Canada)">
 		<title lang="en">Super Bowl LIII</title>
@@ -4352,7 +4352,7 @@
 		<title lang="en">Total Bellas</title>
 		<sub-title lang="en">The Bella Comeback</sub-title>
 		<desc lang="en">The twins make their WWE return in the first ever Women's Royal Rumble Match, but when their training is lacking, the sisters wonder if they have what it takes(n)</desc>
-		<icon src="https://i.yo.tv/images/9/66938/s/3f469344109fd252a86084d26d228d68.jpg"/>
+		<icon src="https://"/>
 		<episode-num system="xmltv_ns">2.3.</episode-num>
 	</programme>
 	<programme start="20190212220000 +0000" stop="20190212223000 +0000" channel="WWE Network">
