@@ -155,12 +155,12 @@
 		<display-name lang="en">Velocity HDTV</display-name>
 		<url>http://</url>
 	</channel>
-	<programme start="20190502000000 +0000" stop="20190502235900 +0000" channel="NFL HD">
+	<programme start="20190503000000 +0000" stop="20190503235900 +0000" channel="NFL HD">
 		<title lang="en">NFL Now</title>
 		<desc lang="en">NFL Now Programming. See https://www.nfl.com/now for full schedule(n)</desc>
 		<category lang="en">Sport</category>
 	</programme>
-	<programme start="20190503000000 +0000" stop="20190503235900 +0000" channel="NFL HD">
+	<programme start="20190504000000 +0000" stop="20190504235900 +0000" channel="NFL HD">
 		<title lang="en">NFL Now</title>
 		<desc lang="en">NFL Now Programming. See https://www.nfl.com/now for full schedule(n)</desc>
 		<category lang="en">Sport</category>
